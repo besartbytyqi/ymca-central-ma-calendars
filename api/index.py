@@ -138,12 +138,12 @@ def index():
 
     <h2 style="margin-top:18px">2 — Filter what you care about</h2>
     <div class="row">
-      <div class="field"><label>Category</label><select id="category"><option value="">Any category</option></select></div>
-      <div class="field"><label>Exclude category</label><select id="exclude_category"><option value="">None</option></select></div>
+      <div class="field"><label>Category</label><select id="category" multiple><option value="">Any category</option></select></div>
+      <div class="field"><label>Exclude category</label><select id="exclude_category" multiple><option value="">None</option></select></div>
     </div>
     <div class="row" style="margin-top:10px">
-      <div class="field"><label>Studio</label><select id="studio"><option value="">Any studio</option></select></div>
-      <div class="field"><label>Exclude studio</label><select id="exclude_studio"><option value="">None</option></select></div>
+      <div class="field"><label>Studio</label><select id="studio" multiple><option value="">Any studio</option></select></div>
+      <div class="field"><label>Exclude studio</label><select id="exclude_studio" multiple><option value="">None</option></select></div>
     </div>
     <div class="row" style="margin-top:10px">
       <div class="field"><label>Class (contains)</label><input id="q" type="text" placeholder="Yoga, HIIT, Zumba, Spin…"></div>
@@ -260,10 +260,14 @@ async function loadCategories(){
 function buildUrl(){
   const base = `${location.origin}/calendars/${activeBranch}.ics`;
   const params = new URLSearchParams();
-  if(els.category.value) params.set("category", els.category.value);
-  if(els.exclude_category.value) params.set("exclude_category", els.exclude_category.value);
-  if(els.studio.value) params.set("studio", els.studio.value);
-  if(els.exclude_studio.value) params.set("exclude_studio", els.exclude_studio.value);
+  const selCats = Array.from(els.category.selectedOptions).map(o=>o.value).filter(v=>v);
+  const selExCats = Array.from(els.exclude_category.selectedOptions).map(o=>o.value).filter(v=>v);
+  const selStuds = Array.from(els.studio.selectedOptions).map(o=>o.value).filter(v=>v);
+  const selExStuds = Array.from(els.exclude_studio.selectedOptions).map(o=>o.value).filter(v=>v);
+  if(selCats.length) params.set("categories", selCats.join(","));
+  if(selExCats.length) params.set("exclude_category", selExCats.join(","));
+  if(selStuds.length) params.set("studios", selStuds.join(","));
+  if(selExStuds.length) params.set("exclude_studio", selExStuds.join(","));
   if(els.q.value.trim()) params.set("class", els.q.value.trim());
   if(els.days.value && els.days.value!="7") params.set("days", els.days.value);
   if(els.start.value) params.set("start", els.start.value);
@@ -277,7 +281,9 @@ function update(){
   els.staticLink.href = `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/${activeBranch}.ics`;
   els.staticLink.textContent = els.staticLink.href;
   const b = BRANCHES[activeBranch];
-  els.preview.textContent = `${b.name} • ${b.addr} • ${els.days.value||7} days` + (els.category.value ? ` • ${els.category.value}`:"") + (els.q.value ? ` • class~${els.q.value}`:"");
+  const selCats = Array.from(els.category.selectedOptions).map(o=>o.value).filter(v=>v);
+  const selStuds = Array.from(els.studio.selectedOptions).map(o=>o.value).filter(v=>v);
+  els.preview.textContent = `${b.name} • ${b.addr} • ${els.days.value||7} days` + (selCats.length ? ` • ${selCats.join(', ')}`:"") + (els.q.value ? ` • class~${els.q.value}`:"") + (selStuds.length ? ` • ${selStuds.join(', ')}`:"");
   els.addGoogle.onclick = ()=> window.open(`https://calendar.google.com/calendar/render?cid=${encodeURIComponent(url)}`,"_blank");
   els.addOutlook.onclick = ()=> window.open(`https://outlook.live.com/calendar/0/addfromweb?url=${encodeURIComponent(url)}&name=${encodeURIComponent(b.name)}`,"_blank");
   els.addApple.onclick = ()=> window.open(url,"_blank");
