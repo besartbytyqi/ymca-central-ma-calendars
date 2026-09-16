@@ -4,17 +4,21 @@ Clean iCal feeds for **YMCA of Central Massachusetts** (Greendale, Central/Main 
 
 ## Add to your calendar
 
+Deployed on Vercel — filtered via URL params, auto-updates. See [Filtering](#filtering-via-url-parameters) for `?category=`, `?class=`, etc.
+
 | Branch | Subscribe URL (copy) |
 |---|---|
-| **Greendale** — 75 Shore Dr, Worcester | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/greendale.ics` |
-| **Central** — 766 Main St, Worcester | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/central.ics` |
-| Boroughs — Westborough | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/boroughs.ics` |
-| Leominster | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/leominster.ics` |
-| Montachusett — Fitchburg | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/montachusett.ics` |
-| Tri-Community — Southbridge | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/tricommunity.ics` |
-| All branches merged | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/all_branches.ics` |
+| **Greendale** — 75 Shore Dr, Worcester | `https://ymca-central-ma-calendars.vercel.app/calendars/greendale.ics` |
+| **Central** — 766 Main St, Worcester | `https://ymca-central-ma-calendars.vercel.app/calendars/central.ics` |
+| Boroughs — Westborough | `https://ymca-central-ma-calendars.vercel.app/calendars/boroughs.ics` |
+| Leominster | `https://ymca-central-ma-calendars.vercel.app/calendars/leominster.ics` |
+| Montachusett — Fitchburg | `https://ymca-central-ma-calendars.vercel.app/calendars/montachusett.ics` |
+| Tri-Community — Southbridge | `https://ymca-central-ma-calendars.vercel.app/calendars/tricommunity.ics` |
+| All branches merged | `https://ymca-central-ma-calendars.vercel.app/calendars/all_branches.ics` |
 
-Filtered (e.g. only Group Exercise): append `?category=Group%20Exercise` — see [Filtering via URL Parameters](#filtering-via-url-parameters) below. Dynamic filtered calendars are served from `https://ymca-central-ma-calendars.vercel.app/calendars/greendale.ics?category=...` after you deploy the included server.
+Filtered example: `https://ymca-central-ma-calendars.vercel.app/calendars/greendale.ics?category=Group%20Exercise` — see [Filtering via URL Parameters](#filtering-via-url-parameters) for all options.
+
+Static fallback (GitHub, no filtering): `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/greendale.ics`
 
 ### Google Calendar
 1. Copy a URL from the table above.
