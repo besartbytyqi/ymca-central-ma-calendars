@@ -157,6 +157,49 @@ def fetch_branch(branch_key: str, start: date, end: date) -> list[dict]:
         })
     return events
 
+def filter_events(
+    events: list[dict],
+    category: str | None = None,
+    categories: str | None = None,
+    exclude_category: str | None = None,
+    studio: str | None = None,
+    studios: str | None = None,
+    exclude_studio: str | None = None,
+    class_query: str | None = None,
+    q: str | None = None,
+) -> list[dict]:
+    """Filter events by URL params. All matches are case-insensitive."""
+    # Normalize category list (category/categories are aliases)
+    cat_str = category or categories or ""
+    cats = [c.strip().lower() for c in cat_str.split(",") if c.strip()] if cat_str else []
+    ex_cats = [c.strip().lower() for c in (exclude_category or "").split(",") if c.strip()]
+    stud_str = studio or studios or ""
+    studs = [s.strip().lower() for s in stud_str.split(",") if s.strip()] if stud_str else []
+    ex_studs = [s.strip().lower() for s in (exclude_studio or "").split(",") if s.strip()]
+    q_str = (class_query or q or "").strip().lower()
+
+    def matches(ev: dict) -> bool:
+        cat = (ev.get("category") or "").strip().lower()
+        stud = (ev.get("studio") or "").strip().lower()
+        cls = (ev.get("class_name") or "").strip().lower()
+        # category filter: exact match (case-insensitive)
+        if cats and cat not in cats:
+            return False
+        if ex_cats and cat in ex_cats:
+            return False
+        # studio: substring match so "Main Studio" matches "Main Studio (Lower Level)"
+        if studs and not any(s in stud for s in studs):
+            return False
+        if ex_studs and any(s in stud for s in ex_studs):
+            return False
+        # class/q: substring on class_name
+        if q_str and q_str not in cls:
+            return False
+        return True
+
+    return [ev for ev in events if matches(ev)]
+
+
 def fetch_all(start: date, end: date, branches: list[str] | None = None) -> dict[str, list[dict]]:
     """Fetch all branches, returns dict branch_key -> events."""
     keys = branches or list(BRANCHES.keys())
