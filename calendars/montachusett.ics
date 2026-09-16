@@ -1,0 +1,355 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YMCA of Central MA//Montachusett Community Branch//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Schedule for Montachusett Community Branch - 55 Wallace Ave\, 
+ Fitchburg\, MA 01420
+X-WR-CALNAME:YMCA - Montachusett Community Branch
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Yoga @ Community Room
+DTSTART:20260916T120000Z
+DTEND:20260916T130000Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-wednesday-september-16-2026-800am-900am-yoga@ymcaofcm-702
+ 5
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Community Room\nThis mixed-l
+ evel class includes breathing\, centering\, sun salutations\, poses\, stre
+ tches and a final relaxation/meditation.\nBranch: Montachusett Community B
+ ranch
+LOCATION:Community Room\, Montachusett Community Branch\, 55 Wallace Ave\,
+  Fitchburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SilverSneakers @ Gymnasium
+DTSTART:20260916T131500Z
+DTEND:20260916T141500Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-wednesday-september-16-2026-915am-1015am-silversneakers@y
+ mcaofcm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Gymnasium\nHave fun and move
+  to the music through a variety of exercises designed to increase muscular
+  strength\, range of motion and activity for daily living skills. A chair 
+ is used for seated and/or standing support. Weights and bands are optional
+ .\nBranch: Montachusett Community Branch
+LOCATION:Gymnasium\, Montachusett Community Branch\, 55 Wallace Ave\, Fitc
+ hburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Fit @ Pool
+DTSTART:20260916T143000Z
+DTEND:20260916T153000Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-wednesday-september-16-2026-1030am-1130am-water-fit@ymcao
+ fcm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Pool\nIncorporate stretching
+ \, toning\, muscle strengthening and cardiovascular exercises using water 
+ resistance and other equipment. Ability to swim is not required.\nBranch: 
+ Montachusett Community Branch
+LOCATION:Pool\, Montachusett Community Branch\, 55 Wallace Ave\, Fitchburg
+ \, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POUND @ Community Room
+DTSTART:20260916T220000Z
+DTEND:20260916T224500Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-wednesday-september-16-2026-600pm-645pm-pound@ymcaofcm-70
+ 25
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Community Room\nUse lightly 
+ weighted drumsticks to transform drumming into a fun and effective workout
+ ! Be prepared to find your inner rockstar in this full body workout that c
+ ombines cardio and strength training with yoga and Pilates inspired moveme
+ nts.\nBranch: Montachusett Community Branch
+LOCATION:Community Room\, Montachusett Community Branch\, 55 Wallace Ave\,
+  Fitchburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba Gold @ Upper Studio
+DTSTART:20260917T131500Z
+DTEND:20260917T141500Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-thursday-september-17-2026-915am-1015am-zumba-gold@ymcaof
+ cm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Upper Studio\nA low impact a
+ nd beginner friendly class suitable for all ages - from kids to seniors. J
+ oin the party\, highlighting the basics of Latin and international dance r
+ hythms!\nBranch: Montachusett Community Branch
+LOCATION:Upper Studio\, Montachusett Community Branch\, 55 Wallace Ave\, F
+ itchburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SilverSneakers Stability @ Gymnasium
+DTSTART:20260917T131500Z
+DTEND:20260917T141500Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-thursday-september-17-2026-915am-1015am-silversneakers-st
+ ability@ymcaofcm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Gymnasium\nFocused on improv
+ ing balance\, this standing class uses chair support to advance cognition 
+ and fall prevention skills. Movements target strengthening the ankle\, kne
+ e and hip joints\, while improving reaction time\, coordination\, and agil
+ ity.\nBranch: Montachusett Community Branch
+LOCATION:Gymnasium\, Montachusett Community Branch\, 55 Wallace Ave\, Fitc
+ hburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Fit @ Pool
+DTSTART:20260917T143000Z
+DTEND:20260917T153000Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-thursday-september-17-2026-1030am-1130am-water-fit@ymcaof
+ cm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Pool\nIncorporate stretching
+ \, toning\, muscle strengthening and cardiovascular exercises using water 
+ resistance and other equipment. Ability to swim is not required.\nBranch: 
+ Montachusett Community Branch
+LOCATION:Pool\, Montachusett Community Branch\, 55 Wallace Ave\, Fitchburg
+ \, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELED: LIVESTRONG @ Lower Studio
+DTSTART:20260917T143000Z
+DTEND:20260917T153000Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-thursday-september-17-2026-1030am-1130am-canceled-livestr
+ ong@ymcaofcm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Lower Studio\nA free 12-week
+  program for adult cancer survivors to help transition from treatment to r
+ egaining physical and emotional strength. Application required for partici
+ pation. Please reach out to branch LIVESTRONG coach.\nBranch: Montachusett
+  Community Branch
+LOCATION:Lower Studio\, Montachusett Community Branch\, 55 Wallace Ave\, F
+ itchburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Fit @ Pool
+DTSTART:20260917T144500Z
+DTEND:20260917T153000Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-thursday-september-17-2026-1045am-1130am-water-fit@ymcaof
+ cm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Pool\nIncorporate stretching
+ \, toning\, muscle strengthening and cardiovascular exercises using water 
+ resistance and other equipment. Ability to swim is not required.\nBranch: 
+ Montachusett Community Branch
+LOCATION:Pool\, Montachusett Community Branch\, 55 Wallace Ave\, Fitchburg
+ \, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SilverSneakers @ Gymnasium
+DTSTART:20260918T131500Z
+DTEND:20260918T141500Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-friday-september-18-2026-915am-1015am-silversneakers@ymca
+ ofcm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Gymnasium\nHave fun and move
+  to the music through a variety of exercises designed to increase muscular
+  strength\, range of motion and activity for daily living skills. A chair 
+ is used for seated and/or standing support. Weights and bands are optional
+ .\nBranch: Montachusett Community Branch
+LOCATION:Gymnasium\, Montachusett Community Branch\, 55 Wallace Ave\, Fitc
+ hburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga @ Community Room
+DTSTART:20260921T120000Z
+DTEND:20260921T130000Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-monday-september-21-2026-800am-900am-yoga@ymcaofcm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Community Room\nThis mixed-l
+ evel class includes breathing\, centering\, sun salutations\, poses\, stre
+ tches and a final relaxation/meditation.\nBranch: Montachusett Community B
+ ranch
+LOCATION:Community Room\, Montachusett Community Branch\, 55 Wallace Ave\,
+  Fitchburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Yoga @ Gymnasium
+DTSTART:20260921T131500Z
+DTEND:20260921T141500Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-monday-september-21-2026-915am-1015am-chair-yoga@ymcaofcm
+ -7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Gymnasium\nFrom a chair\, pr
+ actice seated and standing poses designed to promote flexibility\, strengt
+ h\, and relaxation through gentle stretching\, breathing exercises\, and m
+ indfulness techniques.\nBranch: Montachusett Community Branch
+LOCATION:Gymnasium\, Montachusett Community Branch\, 55 Wallace Ave\, Fitc
+ hburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Fit @ Pool
+DTSTART:20260921T143000Z
+DTEND:20260921T153000Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-monday-september-21-2026-1030am-1130am-water-fit@ymcaofcm
+ -7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Pool\nIncorporate stretching
+ \, toning\, muscle strengthening and cardiovascular exercises using water 
+ resistance and other equipment. Ability to swim is not required.\nBranch: 
+ Montachusett Community Branch
+LOCATION:Pool\, Montachusett Community Branch\, 55 Wallace Ave\, Fitchburg
+ \, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Strength @ Lower Studio
+DTSTART:20260921T220000Z
+DTEND:20260921T230000Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-monday-september-21-2026-600pm-700pm-total-strength@ymcao
+ fcm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Lower Studio\nLet's get thos
+ e muscles moving with a total body strength workout to create stronger\, l
+ eaner and more balanced muscles. Dumbbells\, resistance bands\, Bosu and s
+ teps may be used as tools for strength work in class. Set to upbeat music
+ \, this class will get you moving.\nBranch: Montachusett Community Branch
+LOCATION:Lower Studio\, Montachusett Community Branch\, 55 Wallace Ave\, F
+ itchburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A.Y.A. @ Gymnasium
+DTSTART:20260922T131500Z
+DTEND:20260922T141500Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-tuesday-september-22-2026-915am-1015am-aya@ymcaofcm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Gymnasium\nFrom a chair\, en
+ joy a high energy workout tailored for seniors that utilizes lightly weigh
+ ted drumsticks. Engage in fun and accessible movements inspired by Pound\,
+  blending gentle cardio\, strength training\, and rhythmic exercises.\nBra
+ nch: Montachusett Community Branch
+LOCATION:Gymnasium\, Montachusett Community Branch\, 55 Wallace Ave\, Fitc
+ hburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Fit @ Pool
+DTSTART:20260922T143000Z
+DTEND:20260922T153000Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-tuesday-september-22-2026-1030am-1130am-water-fit@ymcaofc
+ m-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Pool\nIncorporate stretching
+ \, toning\, muscle strengthening and cardiovascular exercises using water 
+ resistance and other equipment. Ability to swim is not required.\nBranch: 
+ Montachusett Community Branch
+LOCATION:Pool\, Montachusett Community Branch\, 55 Wallace Ave\, Fitchburg
+ \, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sculpt with Pat D @ Upper Studio
+DTSTART:20260922T213000Z
+DTEND:20260922T223000Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-tuesday-september-22-2026-530pm-630pm-sculpt-with-pat-d@y
+ mcaofcm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Upper Studio\nJoin Pat on Tu
+ esdays in the main studio for a dynamic full-body strength workout combini
+ ng Pilates and yoga principles\, designed to tone\, tighten\, and transfor
+ m your muscles while improving endurance\, enhancing core stability\, and 
+ promoting flexibility and mindfulness.\nBranch: Montachusett Community Bra
+ nch
+LOCATION:Upper Studio\, Montachusett Community Branch\, 55 Wallace Ave\, F
+ itchburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga @ Community Room
+DTSTART:20260923T120000Z
+DTEND:20260923T130000Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-wednesday-september-23-2026-800am-900am-yoga@ymcaofcm-702
+ 5
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Community Room\nThis mixed-l
+ evel class includes breathing\, centering\, sun salutations\, poses\, stre
+ tches and a final relaxation/meditation.\nBranch: Montachusett Community B
+ ranch
+LOCATION:Community Room\, Montachusett Community Branch\, 55 Wallace Ave\,
+  Fitchburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SilverSneakers @ Gymnasium
+DTSTART:20260923T131500Z
+DTEND:20260923T141500Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-wednesday-september-23-2026-915am-1015am-silversneakers@y
+ mcaofcm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Gymnasium\nHave fun and move
+  to the music through a variety of exercises designed to increase muscular
+  strength\, range of motion and activity for daily living skills. A chair 
+ is used for seated and/or standing support. Weights and bands are optional
+ .\nBranch: Montachusett Community Branch
+LOCATION:Gymnasium\, Montachusett Community Branch\, 55 Wallace Ave\, Fitc
+ hburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Fit @ Pool
+DTSTART:20260923T143000Z
+DTEND:20260923T153000Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-wednesday-september-23-2026-1030am-1130am-water-fit@ymcao
+ fcm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Pool\nIncorporate stretching
+ \, toning\, muscle strengthening and cardiovascular exercises using water 
+ resistance and other equipment. Ability to swim is not required.\nBranch: 
+ Montachusett Community Branch
+LOCATION:Pool\, Montachusett Community Branch\, 55 Wallace Ave\, Fitchburg
+ \, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POUND @ Community Room
+DTSTART:20260923T220000Z
+DTEND:20260923T224500Z
+DTSTAMP:20260916T161440Z
+UID:montachusett-wednesday-september-23-2026-600pm-645pm-pound@ymcaofcm-70
+ 25
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Community Room\nUse lightly 
+ weighted drumsticks to transform drumming into a fun and effective workout
+ ! Be prepared to find your inner rockstar in this full body workout that c
+ ombines cardio and strength training with yoga and Pilates inspired moveme
+ nts.\nBranch: Montachusett Community Branch
+LOCATION:Community Room\, Montachusett Community Branch\, 55 Wallace Ave\,
+  Fitchburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

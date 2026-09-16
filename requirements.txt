@@ -1,0 +1,2 @@
+requests>=2.32
+icalendar>=5.0

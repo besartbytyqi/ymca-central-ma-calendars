@@ -1,0 +1,628 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YMCA of Central MA//Leominster Community Branch//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Schedule for Leominster Community Branch - 108 Adams St\, Leom
+ inster\, MA 01453
+X-WR-CALNAME:YMCA - Leominster Community Branch
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Early Bird Cycling @ Group Exercise Room
+DTSTART:20260916T091500Z
+DTEND:20260916T100000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-wednesday-september-16-2026-515am-600am-early-bird-cycling@
+ ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
+  Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIIT @ HIIT Deck
+DTSTART:20260916T121500Z
+DTEND:20260916T130000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-wednesday-september-16-2026-815am-900am-hiit@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
+ intensity interval training workout where you'll power through circuits of
+  10-30 second intervals using dumbbells\, kettlebells\, resistance bands\,
+  and bodyweight exercises. This intense class is designed to boost your ca
+ rdiovascular health while dramatically increasing muscle strength.\nBranch
+ : Leominster Community Branch
+LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
+ er\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba Gold @ Group Exercise Room
+DTSTART:20260916T131500Z
+DTEND:20260916T141500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-wednesday-september-16-2026-915am-1015am-zumba-gold@ymcaofc
+ m-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nA low i
+ mpact and beginner friendly class suitable for all ages - from kids to sen
+ iors. Join the party\, highlighting the basics of Latin and international 
+ dance rhythms!\nBranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba Gold Chair @ Group Exercise Room
+DTSTART:20260916T143000Z
+DTEND:20260916T151500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-wednesday-september-16-2026-1030am-1115am-zumba-gold-chair@
+ ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nA low i
+ mpact and beginner friendly class suitable for all ages - from kids to sen
+ iors. Join the party\, highlighting the basics of Latin and international 
+ dance rhythms!\nBranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIIT @ HIIT Deck
+DTSTART:20260916T143000Z
+DTEND:20260916T151500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-wednesday-september-16-2026-1030am-1115am-hiit@ymcaofcm-702
+ 4
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
+ intensity interval training workout where you'll power through circuits of
+  10-30 second intervals using dumbbells\, kettlebells\, resistance bands\,
+  and bodyweight exercises. This intense class is designed to boost your ca
+ rdiovascular health while dramatically increasing muscle strength.\nBranch
+ : Leominster Community Branch
+LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
+ er\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunrise Strength @ Group Exercise Room
+DTSTART:20260917T091500Z
+DTEND:20260917T100000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-thursday-september-17-2026-515am-600am-sunrise-strength@ymc
+ aofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
+  Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga for All @ Group Exercise Room
+DTSTART:20260917T120000Z
+DTEND:20260917T130000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-thursday-september-17-2026-800am-900am-yoga-for-all@ymcaofc
+ m-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
+  Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SilverSneakers @ Group Exercise Room
+DTSTART:20260917T131500Z
+DTEND:20260917T141500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-thursday-september-17-2026-915am-1015am-silversneakers@ymca
+ ofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nHave fu
+ n and move to the music through a variety of exercises designed to increas
+ e muscular strength\, range of motion and activity for daily living skills
+ . A chair is used for seated and/or standing support. Weights and bands ar
+ e optional.\nBranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Active Adults @ Group Exercise Room
+DTSTART:20260917T143000Z
+DTEND:20260917T151500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-thursday-september-17-2026-1030am-1115am-active-adults@ymca
+ ofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
+  Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scenic Cycling @ Group Exercise Room
+DTSTART:20260917T154500Z
+DTEND:20260917T163000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-thursday-september-17-2026-1145am-1230pm-scenic-cycling@ymc
+ aofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nImmerse
+  yourself in breathtaking landscapes around the world! This workout invite
+ s you to enjoy a scenic ride at your own pace. Great for all abilities.\nB
+ ranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba @ Group Exercise Room
+DTSTART:20260917T203000Z
+DTEND:20260917T213000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-thursday-september-17-2026-430pm-530pm-zumba@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nLatin-i
+ nspired dance sure to get your heart pumping! This is a non-verbal form of
+  group exercise. Instructors demonstrate repetitive combinations along wit
+ h inspiring music choices.\nBranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spin @ Group Exercise Room
+DTSTART:20260917T221500Z
+DTEND:20260917T230000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-thursday-september-17-2026-615pm-700pm-spin@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nFind yo
+ ur own rhythm in a cycling workout that delivers maximum cardio results wi
+ th minimum impact on your joints! This class simulates riding on flat terr
+ ain or hills while incorporating sprints\, jumps and leisure riding.\nBran
+ ch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Bird Cycling @ Group Exercise Room
+DTSTART:20260918T091500Z
+DTEND:20260918T100000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-friday-september-18-2026-515am-600am-early-bird-cycling@ymc
+ aofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
+  Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga for All @ Group Exercise Room
+DTSTART:20260918T120000Z
+DTEND:20260918T130000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-friday-september-18-2026-800am-900am-yoga-for-all@ymcaofcm-
+ 7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
+  Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIIT @ HIIT Deck
+DTSTART:20260918T121500Z
+DTEND:20260918T130000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-friday-september-18-2026-815am-900am-hiit@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
+ intensity interval training workout where you'll power through circuits of
+  10-30 second intervals using dumbbells\, kettlebells\, resistance bands\,
+  and bodyweight exercises. This intense class is designed to boost your ca
+ rdiovascular health while dramatically increasing muscle strength.\nBranch
+ : Leominster Community Branch
+LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
+ er\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Active Chair Yoga @ Group Exercise Room
+DTSTART:20260918T131500Z
+DTEND:20260918T141500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-friday-september-18-2026-915am-1015am-active-chair-yoga@ymc
+ aofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
+  Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Active Adults @ Group Exercise Room
+DTSTART:20260918T143000Z
+DTEND:20260918T151500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-friday-september-18-2026-1030am-1115am-active-adults@ymcaof
+ cm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
+  Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIIT @ HIIT Deck
+DTSTART:20260918T143000Z
+DTEND:20260918T151500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-friday-september-18-2026-1030am-1115am-hiit@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
+ intensity interval training workout where you'll power through circuits of
+  10-30 second intervals using dumbbells\, kettlebells\, resistance bands\,
+  and bodyweight exercises. This intense class is designed to boost your ca
+ rdiovascular health while dramatically increasing muscle strength.\nBranch
+ : Leominster Community Branch
+LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
+ er\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gentle Yoga @ Group Exercise Room
+DTSTART:20260918T153000Z
+DTEND:20260918T163000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-friday-september-18-2026-1130am-1230pm-gentle-yoga@ymcaofcm
+ -7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nGentle 
+ Yoga emphasizes safety through proper alignment in basic postures\, breath
+  awareness\, and relaxation. Gentle Yoga is recommended for newcomers\, th
+ ose working through chronic issues\, those seeking to balance and heal the
+ ir over stressed bodies\, and those that want to use Yoga to counterbalanc
+ e life's stress (be it physical\, mental/emotional\, or vocational).\nBran
+ ch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spin Fusion @ Group Exercise Room
+DTSTART:20260919T120000Z
+DTEND:20260919T130000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-saturday-september-19-2026-800am-900am-spin-fusion@ymcaofcm
+ -7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nA dynam
+ ic spin class merging cycling with dumbbell exercises for a comprehensive 
+ workout experience. Engage in invigorating cycling intervals interspersed 
+ with targeted strength training segments using dumbbells.\nBranch: Leomins
+ ter Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIIT @ HIIT Deck
+DTSTART:20260919T143000Z
+DTEND:20260919T151500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-saturday-september-19-2026-1030am-1115am-hiit@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
+ intensity interval training workout where you'll power through circuits of
+  10-30 second intervals using dumbbells\, kettlebells\, resistance bands\,
+  and bodyweight exercises. This intense class is designed to boost your ca
+ rdiovascular health while dramatically increasing muscle strength.\nBranch
+ : Leominster Community Branch
+LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
+ er\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spin @ Group Exercise Room
+DTSTART:20260920T121500Z
+DTEND:20260920T131500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-sunday-september-20-2026-815am-915am-spin@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nFind yo
+ ur own rhythm in a cycling workout that delivers maximum cardio results wi
+ th minimum impact on your joints! This class simulates riding on flat terr
+ ain or hills while incorporating sprints\, jumps and leisure riding.\nBran
+ ch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Bird Cycling @ Group Exercise Room
+DTSTART:20260921T091500Z
+DTEND:20260921T100000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-monday-september-21-2026-515am-600am-early-bird-cycling@ymc
+ aofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
+  Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIIT @ HIIT Deck
+DTSTART:20260921T121500Z
+DTEND:20260921T130000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-monday-september-21-2026-815am-900am-hiit@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
+ intensity interval training workout where you'll power through circuits of
+  10-30 second intervals using dumbbells\, kettlebells\, resistance bands\,
+  and bodyweight exercises. This intense class is designed to boost your ca
+ rdiovascular health while dramatically increasing muscle strength.\nBranch
+ : Leominster Community Branch
+LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
+ er\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba Gold @ Group Exercise Room
+DTSTART:20260921T131500Z
+DTEND:20260921T141500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-monday-september-21-2026-915am-1015am-zumba-gold@ymcaofcm-7
+ 024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nA low i
+ mpact and beginner friendly class suitable for all ages - from kids to sen
+ iors. Join the party\, highlighting the basics of Latin and international 
+ dance rhythms!\nBranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIIT @ HIIT Deck
+DTSTART:20260921T143000Z
+DTEND:20260921T151500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-monday-september-21-2026-1030am-1115am-hiit@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
+ intensity interval training workout where you'll power through circuits of
+  10-30 second intervals using dumbbells\, kettlebells\, resistance bands\,
+  and bodyweight exercises. This intense class is designed to boost your ca
+ rdiovascular health while dramatically increasing muscle strength.\nBranch
+ : Leominster Community Branch
+LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
+ er\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIVESTRONG @ Group Exercise Room
+DTSTART:20260921T210000Z
+DTEND:20260921T220000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-monday-september-21-2026-500pm-600pm-livestrong@ymcaofcm-70
+ 24
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nA free 
+ 12-week program for adult cancer survivors to help transition from treatme
+ nt to regaining physical and emotional strength. Application required for 
+ participation. Please reach out to branch LIVESTRONG coach.\nBranch: Leomi
+ nster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIIT @ Group Exercise Room
+DTSTART:20260921T213000Z
+DTEND:20260921T221500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-monday-september-21-2026-530pm-615pm-hiit@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nDive in
+ to a high-intensity interval training workout where you'll power through c
+ ircuits of 10-30 second intervals using dumbbells\, kettlebells\, resistan
+ ce bands\, and bodyweight exercises. This intense class is designed to boo
+ st your cardiovascular health while dramatically increasing muscle strengt
+ h.\nBranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunrise Strength @ Group Exercise Room
+DTSTART:20260922T091500Z
+DTEND:20260922T100000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-tuesday-september-22-2026-515am-600am-sunrise-strength@ymca
+ ofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
+  Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga for All @ Group Exercise Room
+DTSTART:20260922T120000Z
+DTEND:20260922T130000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-tuesday-september-22-2026-800am-900am-yoga-for-all@ymcaofcm
+ -7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
+  Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SilverSneakers @ Group Exercise Room
+DTSTART:20260922T131500Z
+DTEND:20260922T141500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-tuesday-september-22-2026-915am-1015am-silversneakers@ymcao
+ fcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nHave fu
+ n and move to the music through a variety of exercises designed to increas
+ e muscular strength\, range of motion and activity for daily living skills
+ . A chair is used for seated and/or standing support. Weights and bands ar
+ e optional.\nBranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SilverSneakers @ Group Exercise Room
+DTSTART:20260922T143000Z
+DTEND:20260922T153000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-tuesday-september-22-2026-1030am-1130am-silversneakers@ymca
+ ofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nHave fu
+ n and move to the music through a variety of exercises designed to increas
+ e muscular strength\, range of motion and activity for daily living skills
+ . A chair is used for seated and/or standing support. Weights and bands ar
+ e optional.\nBranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scenic Cycling @ Group Exercise Room
+DTSTART:20260922T154500Z
+DTEND:20260922T163000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-tuesday-september-22-2026-1145am-1230pm-scenic-cycling@ymca
+ ofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nImmerse
+  yourself in breathtaking landscapes around the world! This workout invite
+ s you to enjoy a scenic ride at your own pace. Great for all abilities.\nB
+ ranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba @ Group Exercise Room
+DTSTART:20260922T203000Z
+DTEND:20260922T213000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-tuesday-september-22-2026-430pm-530pm-zumba@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nLatin-i
+ nspired dance sure to get your heart pumping! This is a non-verbal form of
+  group exercise. Instructors demonstrate repetitive combinations along wit
+ h inspiring music choices.\nBranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Bird Cycling @ Group Exercise Room
+DTSTART:20260923T091500Z
+DTEND:20260923T100000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-wednesday-september-23-2026-515am-600am-early-bird-cycling@
+ ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
+  Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIIT @ HIIT Deck
+DTSTART:20260923T121500Z
+DTEND:20260923T130000Z
+DTSTAMP:20260916T161440Z
+UID:leominster-wednesday-september-23-2026-815am-900am-hiit@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
+ intensity interval training workout where you'll power through circuits of
+  10-30 second intervals using dumbbells\, kettlebells\, resistance bands\,
+  and bodyweight exercises. This intense class is designed to boost your ca
+ rdiovascular health while dramatically increasing muscle strength.\nBranch
+ : Leominster Community Branch
+LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
+ er\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba Gold @ Group Exercise Room
+DTSTART:20260923T131500Z
+DTEND:20260923T141500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-wednesday-september-23-2026-915am-1015am-zumba-gold@ymcaofc
+ m-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nA low i
+ mpact and beginner friendly class suitable for all ages - from kids to sen
+ iors. Join the party\, highlighting the basics of Latin and international 
+ dance rhythms!\nBranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba Gold Chair @ Group Exercise Room
+DTSTART:20260923T143000Z
+DTEND:20260923T151500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-wednesday-september-23-2026-1030am-1115am-zumba-gold-chair@
+ ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nA low i
+ mpact and beginner friendly class suitable for all ages - from kids to sen
+ iors. Join the party\, highlighting the basics of Latin and international 
+ dance rhythms!\nBranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIIT @ HIIT Deck
+DTSTART:20260923T143000Z
+DTEND:20260923T151500Z
+DTSTAMP:20260916T161440Z
+UID:leominster-wednesday-september-23-2026-1030am-1115am-hiit@ymcaofcm-702
+ 4
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
+ intensity interval training workout where you'll power through circuits of
+  10-30 second intervals using dumbbells\, kettlebells\, resistance bands\,
+  and bodyweight exercises. This intense class is designed to boost your ca
+ rdiovascular health while dramatically increasing muscle strength.\nBranch
+ : Leominster Community Branch
+LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
+ er\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

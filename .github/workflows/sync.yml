@@ -1,0 +1,21 @@
+name: Sync YMCA Schedules
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Daily 9am UTC = 5am ET
+  workflow_dispatch:
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python scripts/crawl_ymca.py --all --days 7 --only-classes --output calendars
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update calendars [skip ci]'
+          file_pattern: 'calendars/*.ics calendars/*.txt'
