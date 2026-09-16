@@ -134,7 +134,6 @@ def index():
   <div class="card">
     <h2>1 — Pick branch</h2>
     <div class="branches" id="branches"></div>
-    <p class="muted" style="margin-top:10px">Tip: keep Greendale + Central as separate calendars — you already do. Add others as needed.</p>
 
     <h2 style="margin-top:18px">2 — Filter what you care about</h2>
     <div class="row">
@@ -197,7 +196,7 @@ const BRANCHES = {
   montachusett: {name:"Montachusett Community Branch", addr:"55 Wallace Ave, Fitchburg, MA 01420"},
   tricommunity: {name:"Tri-Community Family Branch", addr:"43 Everett St, Southbridge, MA 01550"},
 };
-let activeBranch = localStorage.getItem("ymca_branch") || "greendale";
+let activeBranches = localStorage.getItem("ymca_branches") ? JSON.parse(localStorage.getItem("ymca_branches")) : ["greendale"];
 const els = {
   branches: document.getElementById("branches"),
   category: document.getElementById("category"),
@@ -220,16 +219,18 @@ const els = {
 
 function renderBranches(){
   els.branches.innerHTML = Object.entries(BRANCHES).map(([k,v])=>`
-    <label class="branch ${k===activeBranch?'active':''}" data-branch="${k}">
-      <input type="radio" name="branch" value="${k}" ${k===activeBranch?'checked':''}>
+    <label class="branch ${activeBranches.includes(k)?'active':''}" data-branch="${k}">
+      <input type="checkbox" name="branch" value="${k}" ${activeBranches.includes(k)?'checked':''}>
       <strong>${v.name}</strong>
       <span>${k} • ${v.addr}</span>
     </label>
   `).join("");
   els.branches.querySelectorAll(".branch").forEach(el=>{
     el.addEventListener("click", ()=>{
-      activeBranch = el.dataset.branch;
-      localStorage.setItem("ymca_branch", activeBranch);
+      const branch = el.dataset.branch;
+      if(activeBranches.includes(branch)) activeBranches = activeBranches.filter(b=>b!==branch);
+      else activeBranches.push(branch);
+      localStorage.setItem("ymca_branches", JSON.stringify(activeBranches));
       renderBranches();
       loadCategories();
       update();
@@ -238,7 +239,7 @@ function renderBranches(){
 }
 
 async function loadCategories(){
-  const branch = activeBranch;
+  const branch = activeBranches[0] || "greendale";
   els.counts.textContent = "Loading categories…";
   try{
     const r = await fetch(`/api/categories?branch=${branch}&days=${els.days.value||7}`);
@@ -258,8 +259,9 @@ async function loadCategories(){
 }
 
 function buildUrl(){
-  const base = `${location.origin}/calendars/${activeBranch}.ics`;
+  const base = activeBranches.length > 1 ? `${location.origin}/calendars/all_branches.ics` : `${location.origin}/calendars/${activeBranches[0] || "greendale"}.ics`;
   const params = new URLSearchParams();
+  if(activeBranches.length > 1) params.set("branches", activeBranches.join(","));
   const selCats = Array.from(els.category.selectedOptions).map(o=>o.value).filter(v=>v);
   const selExCats = Array.from(els.exclude_category.selectedOptions).map(o=>o.value).filter(v=>v);
   const selStuds = Array.from(els.studio.selectedOptions).map(o=>o.value).filter(v=>v);
@@ -278,17 +280,18 @@ function buildUrl(){
 function update(){
   const url = buildUrl();
   els.url.textContent = url;
-  els.staticLink.href = `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/${activeBranch}.ics`;
+  const b = BRANCHES[activeBranches[0] || "greendale"];
+  els.staticLink.href = `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/${activeBranches[0] || "greendale"}.ics`;
   els.staticLink.textContent = els.staticLink.href;
-  const b = BRANCHES[activeBranch];
   const selCats = Array.from(els.category.selectedOptions).map(o=>o.value).filter(v=>v);
   const selStuds = Array.from(els.studio.selectedOptions).map(o=>o.value).filter(v=>v);
-  els.preview.textContent = `${b.name} • ${b.addr} • ${els.days.value||7} days` + (selCats.length ? ` • ${selCats.join(', ')}`:"") + (els.q.value ? ` • class~${els.q.value}`:"") + (selStuds.length ? ` • ${selStuds.join(', ')}`:"");
+  const branchStr = activeBranches.join(', ');
+  els.preview.textContent = `${branchStr} • ${els.days.value||7} days` + (selCats.length ? ` • ${selCats.join(', ')}`:"") + (els.q.value ? ` • class~${els.q.value}`:"") + (selStuds.length ? ` • ${selStuds.join(', ')}`:"");
   els.addGoogle.onclick = ()=> window.open(`https://calendar.google.com/calendar/render?cid=${encodeURIComponent(url)}`,"_blank");
   els.addOutlook.onclick = ()=> window.open(`https://outlook.live.com/calendar/0/addfromweb?url=${encodeURIComponent(url)}&name=${encodeURIComponent(b.name)}`,"_blank");
   els.addApple.onclick = ()=> window.open(url,"_blank");
-  els.download.onclick = ()=> { const a=document.createElement("a"); a.href=url; a.download=`${activeBranch}.ics`; document.body.appendChild(a); a.click(); a.remove(); };
-  history.replaceState(null,"", location.pathname + "?" + new URLSearchParams({branch:activeBranch}).toString());
+  els.download.onclick = ()=> { const a=document.createElement("a"); a.href=url; a.download=`${activeBranches[0] || "greendale"}.ics`; document.body.appendChild(a); a.click(); a.remove(); };
+  history.replaceState(null,"", location.pathname + "?" + new URLSearchParams({branch:activeBranches[0] || "greendale"}).toString());
 }
 
 document.getElementById("copy").addEventListener("click", async ()=>{
@@ -316,7 +319,7 @@ document.getElementById("quick").addEventListener("click", (e)=>{
 
 // init from URL ?branch=
 const u = new URL(location.href);
-if(u.searchParams.get("branch") && BRANCHES[u.searchParams.get("branch")]) activeBranch = u.searchParams.get("branch");
+if(u.searchParams.get("branch") && BRANCHES[u.searchParams.get("branch")]) activeBranches = [u.searchParams.get("branch")];
 renderBranches();
 loadCategories().then(update);
 update();
@@ -357,6 +360,7 @@ def calendar(
     studio: Optional[str] = None,
     studios: Optional[str] = None,
     exclude_studio: Optional[str] = None,
+    branches: Optional[str] = None,
     class_: Optional[str] = Query(None, alias="class"),
     q: Optional[str] = None,
     days: int = Query(7, ge=1, le=31),
@@ -372,6 +376,9 @@ def calendar(
         from src.ymca_groupexpro import fetch_all
         e = s + timedelta(days=days - 1)
         all_dict = fetch_all(s, e)
+        if branches:
+            selected = set(branches.split(","))
+            all_dict = {k: v for k, v in all_dict.items() if k in selected}
         evs = [ev for lst in all_dict.values() for ev in lst]
         # filter across all
         evs = filter_events(evs, category=category, categories=categories, exclude_category=exclude_category, studio=studio, studios=studios, exclude_studio=exclude_studio, class_query=class_, q=q)
