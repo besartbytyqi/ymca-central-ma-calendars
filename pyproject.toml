@@ -3,4 +3,4 @@ name = "ymca-central-ma-calendars"
 version = "0.1.0"
 description = "Per-branch iCal for YMCA of Central Massachusetts (GroupexPro)"
 requires-python = ">=3.10"
-dependencies = ["requests>=2.32", "icalendar>=5.0"]
+dependencies = ["requests>=2.32", "icalendar>=5.0", "fastapi>=0.110", "uvicorn>=0.30"]
