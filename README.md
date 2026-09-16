@@ -1,93 +1,78 @@
 # YMCA of Central Massachusetts — Per-Branch Calendars
 
-Clean, daily auto-synced iCal feeds for **YMCA of Central Massachusetts** (GroupexPro `a=1045`).
+Clean iCal feeds for **YMCA of Central Massachusetts** (Greendale, Central/Main St, Boroughs, Leominster, Montachusett, Tri-Community). Subscribe once — auto-updates daily.
 
-- **Separate calendar per branch** (subscribe individually in Google/Apple Calendar)
-- Daily auto-sync via GitHub Actions
-- No brainer: URLs stay stable, Google re-fetches every 12h
+## Add to your calendar
 
-## Branches
+Pick your branch(es) — keep Greendale and Central as **separate calendars** so you can toggle them:
 
-| Branch | Address | Location ID | Calendar |
-|---|---|---|---|
-| **Greendale** | 75 Shore Dr, Worcester, MA 01605 | 7023 | `calendars/greendale.ics` |
-| **Central** | 766 Main St, Worcester, MA 01610 | 7022 | `calendars/central.ics` |
-| Boroughs | 4 Valente Dr, Westborough | 7021 | `calendars/boroughs.ics` |
-| Leominster | 108 Adams St, Leominster | 7024 | `calendars/leominster.ics` |
-| Montachusett | 55 Wallace Ave, Fitchburg | 7025 | `calendars/montachusett.ics` |
-| Tri-Community | 43 Everett St, Southbridge | 7026 | `calendars/tricommunity.ics` |
-| All | — | — | `calendars/all_branches.ics` |
+| Branch | Subscribe URL (copy) |
+|---|---|
+| **Greendale** — 75 Shore Dr, Worcester | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/greendale.ics` |
+| **Central** — 766 Main St, Worcester | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/central.ics` |
+| Boroughs — Westborough | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/boroughs.ics` |
+| Leominster | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/leominster.ics` |
+| Montachusett — Fitchburg | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/montachusett.ics` |
+| Tri-Community — Southbridge | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/tricommunity.ics` |
+| All branches merged | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/all_branches.ics` |
 
-## Subscribe (Google Calendar)
+Filtered (e.g. only Group Exercise): append `?category=Group%20Exercise` — see [Filtering via URL Parameters](#filtering-via-url-parameters) below. Dynamic filtered calendars are served from `https://ymca-central-ma-calendars.vercel.app/calendars/greendale.ics?category=...` after you deploy the included server.
 
-**Static (daily snapshot, no filtering):**
-1. Copy a raw URL, e.g. Greendale:
-   ```
-   https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/greendale.ics
-   ```
-2. Google Calendar → `Other calendars + → From URL` → Paste → `Add`
-3. Repeat for Central
+### Google Calendar
+1. Copy a URL from the table above.
+2. Open [Google Calendar](https://calendar.google.com) → left sidebar → **Other calendars `+` → From URL** → Paste → **Add calendar**.
+3. Repeat for each branch you want. Re-color via `⋮ → Settings`.
+4. Google re-fetches every 12–24h (daily GitHub Action updates the file at 9am UTC). For instant check: `Settings → Import & Export → Import` and upload the `.ics` file.
 
-The static URLs update daily at 9am UTC via GitHub Actions. Google re-fetches automatically. For **instant check**: `Settings → Import & Export → Import` and upload the `.ics` file directly.
+### Apple Calendar (macOS / iOS)
+1. Copy a URL.
+2. **macOS:** Calendar → **File → New Calendar Subscription** → Paste → Subscribe. Choose auto-refresh `Every day`.
+3. **iPhone/iPad:** Settings → Calendar → Accounts → Add Account → Other → Add Subscribed Calendar → Paste → Next → Save.
+4. Keep Greendale and Central as separate subscriptions to toggle.
 
-**Dynamic (filtered via URL params — recommended):**
+### Outlook (Web / Desktop)
+1. Copy a URL.
+2. **Outlook on the web:** Calendar → **Add calendar → Subscribe from web** → Paste → Import. Name it `YMCA Greendale`.
+3. **Outlook Desktop (Windows/Mac):** Calendar → **Add Calendar → From Internet** → Paste → OK.
+4. Outlook checks for updates automatically; you can also re-add the filtered URL variant for a focused view (e.g. `.../greendale.ics?category=Group%20Exercise`).
 
-Deploy the included FastAPI server (Vercel/Railway/Fly) or run locally:
-```bash
-pip install -r requirements.txt
-uvicorn api.app:app --reload --port 8000
-# then visit http://localhost:8000/
-```
-
-Use the hosted URL (e.g. `https://ymca-central-ma-calendars.vercel.app`) with params:
-
-```
-https://ymca-central-ma-calendars.vercel.app/calendars/greendale.ics?category=Group%20Exercise
-```
-
-Google Calendar → `From URL` → paste the **filtered** URL → Add. Each filtered URL is its own calendar — keep Greendale and Central separate as before, now with your interests dialed in.
+---
 
 ## Filtering via URL Parameters
 
-Every `/calendars/{branch}.ics` endpoint supports filtering. Events have `category`, `studio`, and `class_name` fields. Categories are the primary grouping GroupexPro uses.
+> Works on the **dynamic server** (`https://ymca-central-ma-calendars.vercel.app`). Static `raw.githubusercontent` files are unfiltered snapshots; add `?category=...` only when using the server URL.
 
-**Discover categories/studios for any branch:**
+Events have `category`, `studio`, and `class_name`. Use the live discovery endpoint to see what's available:
+
 ```bash
 curl "https://ymca-central-ma-calendars.vercel.app/api/categories?branch=greendale&days=7"
-# or locally: curl "http://localhost:8000/api/categories?branch=greendale"
+# → {"categories":[{"category":"Group Exercise","count":42},{"category":"Aquatics","count":42},...],
+#     "studios":[{"studio":"Main Studio (Lower Level)","count":15},...]}
 ```
-Response:
-```json
-{
-  "branch": "greendale",
-  "categories": [{"category": "Group Exercise", "count": 42}, {"category": "Aquatics", "count": 42}, ...],
-  "studios": [{"studio": "Main Studio (Lower Level)", "count": 15}, ...]
-}
-```
-Greendale sample (7 days): `Group Exercise` (42), `Aquatics` (42), `Basketball Court` (31), `Family` (9), `Adult Exercise`, `General`, `Sports`, `Youth`.
+
+Sample 7-day counts: `Group Exercise` (42), `Aquatics` (42), `Basketball Court` (31), `Family` (9).
 
 | Param | Example | Description |
 |---|---|---|
-| `category` / `categories` | `?category=Group%20Exercise` <br> `?categories=Group%20Exercise,Aquatics` | **Exact, case-insensitive**. OR across list. Use `/api/categories` to see values. Single category is most common. |
-| `exclude_category` | `?exclude_category=Basketball%20Court` | Exclude exact categories (comma-separated). |
-| `studio` / `studios` | `?studio=Spin%20Studio` <br> `?studios=Main%20Studio,SMB` | **Substring, case-insensitive**. `SMB` matches `SMB Studio (Main Level)`. |
-| `exclude_studio` | `?exclude_studio=Hot%20Tub` | Exclude studios (substring). |
-| `class` / `q` | `?class=Yoga` <br> `?q=HIIT` | **Substring on class name**, case-insensitive. `Yoga` matches `Wake Up Yoga w/ Walter`. |
+| `category` / `categories` | `?category=Group%20Exercise` <br> `?categories=Group%20Exercise,Aquatics` | **Exact, case-insensitive**. OR across list. |
+| `exclude_category` | `?exclude_category=Basketball%20Court` | Exclude categories. |
+| `studio` / `studios` | `?studio=Spin%20Studio` | **Substring, case-insensitive**. `SMB` matches `SMB Studio (Main Level)`. |
+| `exclude_studio` | `?exclude_studio=Hot%20Tub` | Exclude studios. |
+| `class` / `q` | `?class=Yoga` | **Substring on class name**, case-insensitive. |
 | `days` | `?days=14` | Days ahead (1-31, default 7). |
 | `start` | `?start=2026-09-20` | Start date `YYYY-MM-DD` (default today ET). |
 
-**Examples (copy-paste as Google Calendar URLs):**
+**Examples (use as Google/Apple/Outlook subscription URLs):**
 
-```bash
-# Only Group Exercise at Greendale (your daily filtered calendars)
+```
+# Only Group Exercise at Greendale (most popular)
 https://ymca-central-ma-calendars.vercel.app/calendars/greendale.ics?category=Group%20Exercise
 https://ymca-central-ma-calendars.vercel.app/calendars/central.ics?category=Group%20Exercise
 
-# Only Yoga everywhere
+# Only Yoga
 https://ymca-central-ma-calendars.vercel.app/calendars/greendale.ics?class=Yoga
-https://ymca-central-ma-calendars.vercel.app/calendars/central.ics?class=Yoga
 
-# Spin classes at Central
+# Spin at Central
 https://ymca-central-ma-calendars.vercel.app/calendars/central.ics?studio=Spin%20Studio
 
 # Greendale Yoga in SMB Studio
@@ -98,45 +83,66 @@ https://ymca-central-ma-calendars.vercel.app/calendars/all_branches.ics?exclude_
 
 # Aquatics only, next 14 days
 https://ymca-central-ma-calendars.vercel.app/calendars/greendale.ics?category=Aquatics&days=14
-
-# Multiple categories
-https://ymca-central-ma-calendars.vercel.app/calendars/greendale.ics?categories=Group%20Exercise,Aquatics
 ```
 
-Each filtered URL is **separate per branch** — keep them as separate Google Calendars so you can toggle, like you wanted for Greendale vs Central.
+Keep each filtered URL as a **separate** Google/Apple/Outlook calendar so you can toggle per branch and per interest.
 
-## CLI (static generation)
+---
 
-```bash
-pip install requests icalendar
+## Development
 
-# Your two favorites (default) - 7 days
-python scripts/crawl_ymca.py --branches greendale,central --days 7 --output calendars
+_Technical details for contributors — below the user guide._
 
-# All 6 branches
-python scripts/crawl_ymca.py --all --days 7 --output calendars
-
-# Only Group Exercise (excludes lap lanes, reservations) — same as ?category=Group%20Exercise
-python scripts/crawl_ymca.py --all --only-classes --output calendars
-
-# Custom filters (mirror URL params)
-python scripts/crawl_ymca.py --category "Group Exercise" --output calendars
-python scripts/crawl_ymca.py --category "Group Exercise,Aquatics" --exclude-category "Basketball Court" --output calendars
-python scripts/crawl_ymca.py --branches greendale --class Yoga --days 14 --output calendars
-```
-
-See `python scripts/crawl_ymca.py --help` for all options.
-
-## How it works
+### How it works
 
 GroupexPro JSON: `https://groupexpro.com/schedule/embed/json_schedule.php?schedule&format=json&a=1045&location=7023&start=...&end=...`
 
-Parsed via `src/ymca_groupexpro.py`, converted to iCal with `src/ymca_ical.py` (UTC `DTSTART:20260916T093000Z` for max Google/Apple compatibility).
+`location` = branch ID: `7021` Boroughs, `7022` Central, `7023` Greendale, `7024` Leominster, `7025` Montachusett, `7026` Tri-Community.
 
-## Prior Art
+Parsed via `src/ymca_groupexpro.py` (`category`, `studio`, `class_name`, `description` + base64 decode), converted to iCal via `src/ymca_ical.py` with `UTC` `DTSTART:20260916T093000Z` for max Google/Apple/Outlook compatibility.
 
-No existing public repo specifically for **YMCA of Central Massachusetts / Worcester** was found. Closest generic is `open-y-subprojects/openy_daxko_gxp_syncer` (Drupal Open Y Daxko GroupExPro syncer) and various GroupexPro scrapers. This repo is intentionally minimal: one Python script, no DB, just ics.
+### Local setup
 
-## License
+```bash
+pip install -r requirements.txt  # requests, icalendar, fastapi, uvicorn
+
+# Static generation (writes calendars/*.ics)
+python scripts/crawl_ymca.py --branches greendale,central --days 7 --output calendars
+python scripts/crawl_ymca.py --all --days 7 --only-classes --output calendars
+python scripts/crawl_ymca.py --category "Group Exercise" --class Yoga --output calendars
+python scripts/crawl_ymca.py --help  # all options
+
+# Dynamic server with filtering
+uvicorn api.app:app --reload --port 8000
+# → http://localhost:8000/ (docs) and http://localhost:8000/calendars/greendale.ics?category=Group%20Exercise
+# → http://localhost:8000/api/categories?branch=greendale
+```
+
+### Project layout
+
+```
+calendars/*.ics     — static snapshots (committed, updated daily by Action)
+api/app.py          — FastAPI dynamic calendar server (URL-param filtering)
+src/ymca_groupexpro.py — GroupexPro fetcher + filter_events()
+src/ymca_ical.py    — iCal generation (UTC)
+scripts/crawl_ymca.py — CLI for static generation
+vercel.json         — Vercel deploy config
+```
+
+### Deploy the dynamic server
+
+**Vercel (1 click):** `vercel --prod` in repo root or connect GitHub repo to Vercel dashboard. Env: none needed. Route: `api/index.py` → `api/app.py`.
+
+**Other hosts:** Railway/Fly/Render auto-detect `requirements.txt` + `uvicorn api.app:app`.
+
+### Daily auto-sync
+
+`.github/workflows/sync.yml` runs daily 9am UTC: `python scripts/crawl_ymca.py --all --days 7 --only-classes --output calendars` and auto-commits. Change cron to `0 9 * * 1` for weekly.
+
+### Prior Art
+
+No existing public repo for **YMCA of Central Massachusetts / Worcester** was found. Closest generic is `open-y-subprojects/openy_daxko_gxp_syncer` (Drupal Open Y Daxko GroupExPro syncer). This repo is intentionally minimal.
+
+### License
 
 MIT
