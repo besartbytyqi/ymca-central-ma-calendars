@@ -4,8 +4,6 @@ Clean iCal feeds for **YMCA of Central Massachusetts** (Greendale, Central/Main 
 
 ## Add to your calendar
 
-Pick your branch(es) — keep Greendale and Central as **separate calendars** so you can toggle them:
-
 | Branch | Subscribe URL (copy) |
 |---|---|
 | **Greendale** — 75 Shore Dr, Worcester | `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/greendale.ics` |
