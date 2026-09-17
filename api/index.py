@@ -133,7 +133,8 @@ def index():
   <!-- LEFT: Builder -->
   <div class="card">
     <h2>1 — Pick branch</h2>
-    <div class="branches" id="branches"></div>
+    <select id="branches" multiple>
+    </select>
 
     <h2 style="margin-top:18px">2 — Filter what you care about</h2>
     <div class="row">
@@ -219,22 +220,13 @@ const els = {
 
 function renderBranches(){
   els.branches.innerHTML = Object.entries(BRANCHES).map(([k,v])=>`
-    <label class="branch ${activeBranches.includes(k)?'active':''}" data-branch="${k}">
-      <input type="checkbox" name="branch" value="${k}" ${activeBranches.includes(k)?'checked':''}>
-      <strong>${v.name}</strong>
-      <span>${k} • ${v.addr}</span>
-    </label>
+    <option value="${k}" ${activeBranches.includes(k)?'selected':''}>${v.name} — ${k} • ${v.addr}</option>
   `).join("");
-  els.branches.querySelectorAll(".branch").forEach(el=>{
-    el.addEventListener("click", ()=>{
-      const branch = el.dataset.branch;
-      if(activeBranches.includes(branch)) activeBranches = activeBranches.filter(b=>b!==branch);
-      else activeBranches.push(branch);
-      localStorage.setItem("ymca_branches", JSON.stringify(activeBranches));
-      renderBranches();
-      loadCategories();
-      update();
-    });
+  els.branches.addEventListener("change", ()=>{
+    activeBranches = Array.from(els.branches.selectedOptions).map(o=>o.value);
+    localStorage.setItem("ymca_branches", JSON.stringify(activeBranches));
+    loadCategories();
+    update();
   });
 }
 
