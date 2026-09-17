@@ -76,7 +76,7 @@ def index():
   .btn{appearance:none;border:1px solid var(--line);background:var(--card);padding:10px 14px;border-radius:999px;font-weight:600;cursor:pointer}
   .btn-primary{background:var(--ink);color:#fff;border-color:var(--ink)}
   .btn-ghost{background:transparent}
-  .grid{display:grid;grid-template-columns:1.15fr .85fr;gap:24px;padding:28px 0}
+  .grid{display:grid;grid-template-columns:.85fr 1.15fr;gap:24px;padding:28px 0}
   @media(max-width:900px){.grid{grid-template-columns:1fr}}
   .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px;box-shadow:0 1px 2px rgba(0,0,0,.04)}
   .card h2{margin:4px 0 12px;font-size:18px}
