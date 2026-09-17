@@ -53,15 +53,14 @@ def _get_events(branch: str, days: int, start: str | None) -> list:
     _cache[key] = (evs, now)
     return evs
 
-@app.get("/", response_class=HTMLResponse)
+@app.get("/")
 def index():
-    # Keep a simple fallback for curl, but the real page is the interactive generator
-    return """
-<!doctype html>
-<html lang="en">
-<head>
+    html = """<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <title>YMCA Central MA — Calendar Builder</title>
 <style>
   :root{--ymca-red:#ed1c24;--ymca-blue:#0060af;--ink:#0f172a;--muted:#64748b;--line:#e2e8f0;--bg:#f8fafc;--card:#ffffff;--radius:16px}
@@ -308,7 +307,7 @@ update();
 </script>
 </body>
 </html>
-    """
+    return Response(content=html, media_type="text/html; charset=utf-8", headers={"Cache-Control": "no-store, no-cache, must-revalidate", "Pragma": "no-cache", "Expires": "0"})
 
 def app_host() -> str:
     return "ymca-central-ma-calendars.vercel.app"  # placeholder, replaced at runtime
