@@ -220,7 +220,7 @@ const els = {
 
 function renderBranches(){
   els.branches.innerHTML = Object.entries(BRANCHES).map(([k,v])=>`
-    <option value="${k}" ${activeBranches.includes(k)?'selected':''}>${v.name} — ${k} • ${v.addr}</option>
+    <option value="${k}" ${activeBranches.includes(k)?'selected':''}>${v.name}</option>
   `).join("");
   els.branches.addEventListener("change", ()=>{
     activeBranches = Array.from(els.branches.selectedOptions).map(o=>o.value);
