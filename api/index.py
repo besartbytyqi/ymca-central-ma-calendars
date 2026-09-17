@@ -307,6 +307,7 @@ update();
 </script>
 </body>
 </html>
+    """
     return Response(content=html, media_type="text/html; charset=utf-8", headers={"Cache-Control": "no-store, no-cache, must-revalidate", "Pragma": "no-cache", "Expires": "0"})
 
 def app_host() -> str:
