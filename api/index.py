@@ -137,14 +137,12 @@ def index():
     </select>
 
     <h2 style="margin-top:18px">2 — Filter what you care about</h2>
-    <div class="row">
-      <div class="field"><label>Category</label><select id="category" multiple><option value="">Any category</option></select></div>
-      <div class="field"><label>Exclude category</label><select id="exclude_category" multiple><option value="">None</option></select></div>
-    </div>
-    <div class="row" style="margin-top:10px">
-      <div class="field"><label>Studio</label><select id="studio" multiple><option value="">Any studio</option></select></div>
-      <div class="field"><label>Exclude studio</label><select id="exclude_studio" multiple><option value="">None</option></select></div>
-    </div>
+<div class="row">
+       <div class="field"><label>Category</label><select id="category" multiple><option value="">Any category</option></select></div>
+     </div>
+     <div class="row" style="margin-top:10px">
+       <div class="field"><label>Studio</label><select id="studio" multiple><option value="">Any studio</option></select></div>
+     </div>
     <div class="row" style="margin-top:10px">
       <div class="field"><label>Class (contains)</label><input id="q" type="text" placeholder="Yoga, HIIT, Zumba, Spin…"></div>
       <div class="field"><label>Days</label><input id="days" type="number" min="1" max="31" value="7"></div>
@@ -201,9 +199,7 @@ let activeBranches = localStorage.getItem("ymca_branches") ? JSON.parse(localSto
 const els = {
   branches: document.getElementById("branches"),
   category: document.getElementById("category"),
-  exclude_category: document.getElementById("exclude_category"),
   studio: document.getElementById("studio"),
-  exclude_studio: document.getElementById("exclude_studio"),
   q: document.getElementById("q"),
   days: document.getElementById("days"),
   start: document.getElementById("start"),
@@ -241,9 +237,7 @@ async function loadCategories(){
     const catOpts = ['<option value="">Any category</option>'].concat(cats.map(c=>`<option value="${c.category}">${c.category} (${c.count})</option>`)).join("");
     const studOpts = ['<option value="">Any studio</option>'].concat(studs.map(s=>`<option value="${s.studio}">${s.studio} (${s.count})</option>`)).join("");
     els.category.innerHTML = catOpts;
-    els.exclude_category.innerHTML = '<option value="">None</option>' + cats.map(c=>`<option value="${c.category}">${c.category}</option>`).join("");
     els.studio.innerHTML = studOpts;
-    els.exclude_studio.innerHTML = '<option value="">None</option>' + studs.map(s=>`<option value="${s.studio}">${s.studio}</option>`).join("");
     els.counts.textContent = `${j.total} events total • ${cats.length} categories • ${studs.length} studios`;
   }catch(e){
     els.counts.textContent = "Could not load categories";
@@ -255,13 +249,9 @@ function buildUrl(){
   const params = new URLSearchParams();
   if(activeBranches.length > 1) params.set("branches", activeBranches.join(","));
   const selCats = Array.from(els.category.selectedOptions).map(o=>o.value).filter(v=>v);
-  const selExCats = Array.from(els.exclude_category.selectedOptions).map(o=>o.value).filter(v=>v);
   const selStuds = Array.from(els.studio.selectedOptions).map(o=>o.value).filter(v=>v);
-  const selExStuds = Array.from(els.exclude_studio.selectedOptions).map(o=>o.value).filter(v=>v);
   if(selCats.length) params.set("categories", selCats.join(","));
-  if(selExCats.length) params.set("exclude_category", selExCats.join(","));
   if(selStuds.length) params.set("studios", selStuds.join(","));
-  if(selExStuds.length) params.set("exclude_studio", selExStuds.join(","));
   if(els.q.value.trim()) params.set("class", els.q.value.trim());
   if(els.days.value && els.days.value!="7") params.set("days", els.days.value);
   if(els.start.value) params.set("start", els.start.value);
