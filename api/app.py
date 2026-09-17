@@ -184,6 +184,7 @@ def index():
 </div>
 
 <script>
+localStorage.clear();
 const BRANCHES = {
   greendale: {name:"Greendale Family Branch", addr:"75 Shore Dr, Worcester, MA 01605"},
   central: {name:"Central Community Branch", addr:"766 Main St, Worcester, MA 01610"},
