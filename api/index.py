@@ -131,17 +131,17 @@ def index():
 
 <div class="wrap grid" id="generate">
   <!-- LEFT: Builder -->
-  <div class="card">
+  <div class="card" style="align-self:start">
     <h2>1 — Pick branch</h2>
-    <select id="branches" multiple>
+    <select id="branches" multiple size="3">
     </select>
 
     <h2 style="margin-top:18px">2 — Filter what you care about</h2>
 <div class="row">
-       <div class="field"><label>Category</label><select id="category" multiple><option value="">Any category</option></select></div>
+       <div class="field"><label>Category</label><select id="category" multiple size="3"><option value="">Any category</option></select></div>
      </div>
      <div class="row" style="margin-top:10px">
-       <div class="field"><label>Studio</label><select id="studio" multiple><option value="">Any studio</option></select></div>
+       <div class="field"><label>Studio</label><select id="studio" multiple size="3"><option value="">Any studio</option></select></div>
      </div>
     <div class="row" style="margin-top:10px">
       <div class="field"><label>Class (contains)</label><input id="q" type="text" placeholder="Yoga, HIIT, Zumba, Spin…"></div>
