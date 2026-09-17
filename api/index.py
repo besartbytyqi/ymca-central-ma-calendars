@@ -123,9 +123,7 @@ def index():
 </header>
 
 <div class="wrap hero">
-  <div class="badge">GroupexPro • a=1045 • live • filtered via URL params</div>
   <h1>Add YMCA classes to Google, Outlook & Apple in one click</h1>
-  <p>Pick your branch(es), filter by what you actually do, and subscribe. Each branch stays <em>separate</em> so you can toggle Greendale vs Central. Auto-updates daily.</p>
 </div>
 
 <div class="wrap grid" id="generate">
