@@ -271,7 +271,7 @@ function update(){
   els.addOutlook.onclick = ()=> window.open(`https://outlook.live.com/calendar/0/addfromweb?url=${encodeURIComponent(url)}&name=${encodeURIComponent(b.name)}`,"_blank");
   els.addApple.onclick = ()=> window.open(url,"_blank");
   els.download.onclick = ()=> { const a=document.createElement("a"); a.href=url; a.download=`${activeBranches[0] || "greendale"}.ics`; document.body.appendChild(a); a.click(); a.remove(); };
-  history.replaceState(null,"", location.pathname + "?" + new URLSearchParams({branch:activeBranches[0] || "greendale"}).toString());
+  history.replaceState(null,"", location.pathname + new URL(url).search);
 }
 
 document.getElementById("copy").addEventListener("click", async ()=>{
@@ -284,24 +284,39 @@ document.getElementById("quick").addEventListener("click", (e)=>{
   const b = e.target.closest("[data-preset]");
   if(!b) return;
   const p = b.dataset.preset;
-  if(p==="group"){ els.category.value="Group Exercise"; els.exclude_category.value=""; els.q.value=""; els.studio.value=""; }
+  if(p==="group"){ els.category.value="Group Exercise"; els.q.value=""; els.studio.value=""; }
   if(p==="yoga"){ els.category.value="Group Exercise"; els.q.value="Yoga"; }
   if(p==="spin"){ els.studio.value="Spin Studio"; els.category.value=""; els.q.value=""; }
   if(p==="aquatics"){ els.category.value="Aquatics"; els.q.value=""; }
-  if(p==="clear"){ els.category.value=""; els.exclude_category.value=""; els.studio.value=""; els.exclude_studio.value=""; els.q.value=""; }
+  if(p==="clear"){ els.category.value=""; els.studio.value=""; els.q.value=""; }
   update();
 });
 ["change","input"].forEach(ev=>{
-  ["category","exclude_category","studio","exclude_studio","q","days","start"].forEach(id=>{
+  ["category","studio","q","days","start"].forEach(id=>{
     document.getElementById(id).addEventListener(ev, update);
   });
 });
 
-// init from URL ?branch=
+// init from URL params (?branch / ?branches, categories, studios, class, days, start)
 const u = new URL(location.href);
-if(u.searchParams.get("branch") && BRANCHES[u.searchParams.get("branch")]) activeBranches = [u.searchParams.get("branch")];
+const urlBranches = (u.searchParams.get("branches")||"").split(",").filter(b=>BRANCHES[b]);
+const urlBranch = u.searchParams.get("branch");
+if(urlBranches.length) activeBranches = urlBranches;
+else if(urlBranch && BRANCHES[urlBranch]) activeBranches = [urlBranch];
+function applyUrlFilters(){
+  const cats = (u.searchParams.get("categories")||"").split(",").filter(Boolean);
+  const studs = (u.searchParams.get("studios")||"").split(",").filter(Boolean);
+  const cls = u.searchParams.get("class") || u.searchParams.get("q") || "";
+  const days = u.searchParams.get("days");
+  const start = u.searchParams.get("start");
+  [...els.category.options].forEach(o=>{ if(o.value && cats.includes(o.value)) o.selected = true; });
+  [...els.studio.options].forEach(o=>{ if(o.value && studs.includes(o.value)) o.selected = true; });
+  if(cls) els.q.value = cls;
+  if(days) els.days.value = days;
+  if(start) els.start.value = start;
+}
 renderBranches();
-loadCategories().then(update);
+loadCategories().then(()=>{ applyUrlFilters(); update(); });
 update();
 </script>
 </body>
