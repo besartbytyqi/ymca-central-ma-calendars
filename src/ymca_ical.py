@@ -11,13 +11,13 @@ from icalendar import Calendar, Event
 
 EASTERN = ZoneInfo("America/New_York")
 
-def events_to_ical(events: list[dict], branch_name: str, branch_address: str) -> Calendar:
+def events_to_ical(events: list[dict], branch_name: str, branch_address: str, cal_name: str | None = None) -> Calendar:
     cal = Calendar()
     cal.add("prodid", f"-//YMCA of Central MA//{branch_name}//EN")
     cal.add("version", "2.0")
     cal.add("calscale", "GREGORIAN")
     cal.add("method", "PUBLISH")
-    cal.add("x-wr-calname", f"YMCA - {branch_name}")
+    cal.add("x-wr-calname", cal_name or f"YMCA - {branch_name}")
     cal.add("x-wr-timezone", "America/New_York")
     cal.add("description", f"Schedule for {branch_name} - {branch_address}")
 

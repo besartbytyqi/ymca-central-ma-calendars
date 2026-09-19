@@ -159,6 +159,7 @@ def index():
   <!-- RIGHT: URL + Add -->
   <div class="card" style="position:sticky;top:76px;align-self:start">
     <h2>3 — Your calendar URL</h2>
+    <div class="field" style="margin-bottom:10px"><label>Calendar name</label><input id="calname" type="text" placeholder="e.g. YMCA - Greendale"></div>
     <div class="urlbox"><code id="url"></code><button class="btn btn-primary" id="copy">Copy</button></div>
     <div class="preview" id="preview">Choose a branch above.</div>
     <div class="row" style="margin-top:12px">
@@ -196,6 +197,7 @@ const els = {
   q: document.getElementById("q"),
   days: document.getElementById("days"),
   start: document.getElementById("start"),
+  calname: document.getElementById("calname"),
   url: document.getElementById("url"),
   preview: document.getElementById("preview"),
   counts: document.getElementById("counts"),
@@ -247,6 +249,7 @@ function buildUrl(){
   if(els.q.value.trim()) params.set("class", els.q.value.trim());
   if(els.days.value && els.days.value!="7") params.set("days", els.days.value);
   if(els.start.value) params.set("start", els.start.value);
+  if(els.calname.value.trim()) params.set("name", els.calname.value.trim());
   const qs = params.toString();
   return qs ? base + "?" + qs : base;
 }
@@ -260,9 +263,10 @@ function update(){
   const branchStr = activeBranches.join(', ');
   els.preview.textContent = `${branchStr} • ${els.days.value||7} days` + (selCats.length ? ` • ${selCats.join(', ')}`:"") + (els.q.value ? ` • class~${els.q.value}`:"") + (selStuds.length ? ` • ${selStuds.join(', ')}`:"");
   els.addGoogle.onclick = ()=> window.open(`https://calendar.google.com/calendar/render?cid=${encodeURIComponent(url)}`,"_blank");
-  els.addOutlook.onclick = ()=> window.open(`https://outlook.live.com/calendar/0/addfromweb?url=${encodeURIComponent(url)}&name=${encodeURIComponent(b.name)}`,"_blank");
+  const calName = els.calname.value.trim() || b.name;
+  els.addOutlook.onclick = ()=> window.open(`https://outlook.live.com/calendar/0/addfromweb?url=${encodeURIComponent(url)}&name=${encodeURIComponent(calName)}`,"_blank");
   els.addApple.onclick = ()=> window.open(url,"_blank");
-  els.download.onclick = ()=> { const a=document.createElement("a"); a.href=url; a.download=`${activeBranches[0] || "greendale"}.ics`; document.body.appendChild(a); a.click(); a.remove(); };
+  els.download.onclick = ()=> { const a=document.createElement("a"); a.href=url; a.download=`${calName.replace(/[^a-z0-9]+/gi,"-").replace(/^-+|-+$/g,"")}.ics`; document.body.appendChild(a); a.click(); a.remove(); };
   history.replaceState(null,"", location.pathname + new URL(url).search);
 }
 
@@ -284,7 +288,7 @@ document.getElementById("quick").addEventListener("click", (e)=>{
   update();
 });
 ["change","input"].forEach(ev=>{
-  ["category","studio","q","days","start"].forEach(id=>{
+  ["category","studio","q","days","start","calname"].forEach(id=>{
     document.getElementById(id).addEventListener(ev, update);
   });
 });
@@ -306,6 +310,8 @@ function applyUrlFilters(){
   if(cls) els.q.value = cls;
   if(days) els.days.value = days;
   if(start) els.start.value = start;
+  const calNameParam = u.searchParams.get("name");
+  if(calNameParam) els.calname.value = calNameParam;
 }
 renderBranches();
 loadCategories().then(()=>{ applyUrlFilters(); update(); });
@@ -353,6 +359,7 @@ def calendar(
     q: Optional[str] = None,
     days: int = Query(7, ge=1, le=31),
     start: Optional[str] = None,
+    name: Optional[str] = None,
 ):
     # Normalize branch
     branch = branch.lower().replace(".ics", "")
@@ -380,7 +387,7 @@ def calendar(
         cal.add("version", "2.0")
         cal.add("calscale", "GREGORIAN")
         cal.add("method", "PUBLISH")
-        cal.add("x-wr-calname", "YMCA - All Branches")
+        cal.add("x-wr-calname", name or "YMCA - All Branches")
         for ev in evs:
             ical_ev = Event()
             ical_ev.add("uid", ev["uid"])
@@ -404,7 +411,7 @@ def calendar(
     evs = filter_events(evs, category=category, categories=categories, exclude_category=exclude_category, studio=studio, studios=studios, exclude_studio=exclude_studio, class_query=class_, q=q)
     b = BRANCHES[branch]
     from src.ymca_ical import events_to_ical
-    cal = events_to_ical(evs, b["name"], b["address"])
+    cal = events_to_ical(evs, b["name"], b["address"], cal_name=name)
     ics = cal.to_ical()
     # Add filtered calname suffix for UX
     suffix = ""
