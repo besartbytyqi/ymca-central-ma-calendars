@@ -174,14 +174,8 @@ def index():
       <div class="step"><i></i><div><strong>Google:</strong> Copy URL → <a href="https://calendar.google.com" target="_blank">Google Calendar</a> → Other calendars <b>+</b> → <b>From URL</b> → Paste → Add. Re-color via ⋮.</div></div>
       <div class="step"><i></i><div><strong>Apple:</strong> Calendar → <b>File → New Calendar Subscription</b> → Paste → Subscribe (Every day). iPhone: Settings → Calendar → Add Subscribed Calendar.</div></div>
       <div class="step"><i></i><div><strong>Outlook:</strong> Calendar → <b>Add calendar → Subscribe from web</b> → Paste → Import. Desktop: <b>Add Calendar → From Internet</b>.</div></div>
-      <p class="muted">Google re-fetches every 12–24h. The URL <em>is</em> the filter — keep each branch separate.</p>
-    </div>
-    <div style="margin-top:14px" class="muted">Static fallback (no filter): <a id="staticLink" href="#">raw.githubusercontent.com/…/calendars/greendale.ics</a></div>
+      </div>
   </div>
-</div>
-
-<div class="wrap foot">
-  <span>GroupexPro JSON → <code>a=1045</code> • location 7021 Boroughs, 7022 Central, 7023 Greendale, 7024 Leominster, 7025 Montachusett, 7026 Tri-Community • iCal UTC <code>DTSTART:20260916T093000Z</code> • <a href="https://github.com/besartbytyqi/ymca-central-ma-calendars">GitHub</a> • <a href="/api/categories?branch=greendale">/api/categories</a></span>
 </div>
 
 <script>
@@ -205,7 +199,6 @@ const els = {
   url: document.getElementById("url"),
   preview: document.getElementById("preview"),
   counts: document.getElementById("counts"),
-  staticLink: document.getElementById("staticLink"),
   copy: document.getElementById("copy"),
   addGoogle: document.getElementById("addGoogle"),
   addOutlook: document.getElementById("addOutlook"),
@@ -262,8 +255,6 @@ function update(){
   const url = buildUrl();
   els.url.textContent = url;
   const b = BRANCHES[activeBranches[0] || "greendale"];
-  els.staticLink.href = `https://raw.githubusercontent.com/besartbytyqi/ymca-central-ma-calendars/main/calendars/${activeBranches[0] || "greendale"}.ics`;
-  els.staticLink.textContent = els.staticLink.href;
   const selCats = Array.from(els.category.selectedOptions).map(o=>o.value).filter(v=>v);
   const selStuds = Array.from(els.studio.selectedOptions).map(o=>o.value).filter(v=>v);
   const branchStr = activeBranches.join(', ');
