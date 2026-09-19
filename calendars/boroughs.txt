@@ -1,16 +1,6 @@
-# Boroughs Family Branch - 4 Valente Drive, Westborough, MA 01581 - 2026-09-18 to 2026-09-24
-# 83 events
+# Boroughs Family Branch - 4 Valente Drive, Westborough, MA 01581 - 2026-09-19 to 2026-09-25
+# 80 events
 
-Fri 09/18 05:45AM - 06:30AM | Pilates @ Studio 1 [Group Exercise]
-Fri 09/18 05:45AM - 06:30AM | Group Cycling @ Cycling Studio [Group Exercise]
-Fri 09/18 06:45AM - 07:15AM | Morning Muscle: LIIT @ Studio 1 [Group Exercise]
-Fri 09/18 08:00AM - 09:00AM | Aqua Fit @ Indoor Pool [Group Exercise]
-Fri 09/18 08:00AM - 09:00AM | Power Vinyasa Yoga @ Studio 2 [Group Exercise]
-Fri 09/18 09:15AM - 10:15AM | Kick Bootcamp @ Studio 1 [Group Exercise]
-Fri 09/18 10:30AM - 11:30AM | Kripalu Vinyasa Yoga @ Studio 2 [Group Exercise]
-Fri 09/18 10:30AM - 11:30AM | SilverSneakers @ Studio 1 [Group Exercise]
-Fri 09/18 11:30AM - 12:25PM | Chair Assisted Yoga @ Studio 1 [Group Exercise]
-Fri 09/18 06:45PM - 07:45PM | Zumba @ Studio 1 [Group Exercise]
 Sat 09/19 07:00AM - 08:00AM | Group Cycling @ Cycling Studio [Group Exercise]
 Sat 09/19 08:15AM - 09:15AM | Yoga @ Studio 2 [Group Exercise]
 Sat 09/19 08:30AM - 09:30AM | Group Cycling @ Cycling Studio [Group Exercise]
@@ -84,3 +74,10 @@ Fri 09/25 10:30AM - 11:30AM | Kripalu Vinyasa Yoga @ Studio 2 [Group Exercise]
 Fri 09/25 10:30AM - 11:30AM | SilverSneakers @ Studio 1 [Group Exercise]
 Fri 09/25 11:30AM - 12:25PM | Chair Assisted Yoga @ Studio 1 [Group Exercise]
 Fri 09/25 06:45PM - 07:45PM | Zumba @ Studio 1 [Group Exercise]
+Sat 09/26 07:00AM - 08:00AM | Group Cycling @ Cycling Studio [Group Exercise]
+Sat 09/26 08:15AM - 09:15AM | Yoga @ Studio 2 [Group Exercise]
+Sat 09/26 08:30AM - 09:30AM | Group Cycling @ Cycling Studio [Group Exercise]
+Sat 09/26 08:45AM - 09:45AM | Mat PiYo Core @ Studio 1 [Group Exercise]
+Sat 09/26 10:00AM - 11:00AM | Muscle Conditioning @ Studio 1 [Group Exercise]
+Sat 09/26 10:00AM - 11:00AM | Zumba @ Studio 2 [Group Exercise]
+Sat 09/26 11:15AM - 12:45PM | Pilates Barre @ Studio 1 [Group Exercise]
