@@ -1,12 +1,6 @@
-# Leominster Community Branch - 108 Adams St, Leominster, MA 01453 - 2026-09-21 to 2026-09-27
+# Leominster Community Branch - 108 Adams St, Leominster, MA 01453 - 2026-09-22 to 2026-09-28
 # 40 events
 
-Mon 09/21 05:15AM - 06:00AM | Early Bird Cycling @ Group Exercise Room [Group Exercise]
-Mon 09/21 08:15AM - 09:00AM | HIIT @ HIIT Deck [Group Exercise]
-Mon 09/21 09:15AM - 10:15AM | Zumba Gold @ Group Exercise Room [Group Exercise]
-Mon 09/21 10:30AM - 11:15AM | HIIT @ HIIT Deck [Group Exercise]
-Mon 09/21 05:00PM - 06:00PM | LIVESTRONG @ Group Exercise Room [Group Exercise]
-Mon 09/21 05:30PM - 06:15PM | HIIT @ Group Exercise Room [Group Exercise]
 Tue 09/22 05:15AM - 06:00AM | Sunrise Strength @ Group Exercise Room [Group Exercise]
 Tue 09/22 08:00AM - 09:00AM | Yoga for All @ Group Exercise Room [Group Exercise]
 Tue 09/22 09:15AM - 10:15AM | SilverSneakers @ Group Exercise Room [Group Exercise]
@@ -41,3 +35,9 @@ Mon 09/28 09:15AM - 10:15AM | Zumba Gold @ Group Exercise Room [Group Exercise]
 Mon 09/28 10:30AM - 11:15AM | HIIT @ HIIT Deck [Group Exercise]
 Mon 09/28 05:00PM - 06:00PM | LIVESTRONG @ Group Exercise Room [Group Exercise]
 Mon 09/28 05:30PM - 06:15PM | HIIT @ Group Exercise Room [Group Exercise]
+Tue 09/29 05:15AM - 06:00AM | Sunrise Strength @ Group Exercise Room [Group Exercise]
+Tue 09/29 08:00AM - 09:00AM | Yoga for All @ Group Exercise Room [Group Exercise]
+Tue 09/29 09:15AM - 10:15AM | SilverSneakers @ Group Exercise Room [Group Exercise]
+Tue 09/29 10:30AM - 11:30AM | SilverSneakers @ Group Exercise Room [Group Exercise]
+Tue 09/29 11:45AM - 12:30PM | Scenic Cycling @ Group Exercise Room [Group Exercise]
+Tue 09/29 04:30PM - 05:30PM | Zumba @ Group Exercise Room [Group Exercise]
