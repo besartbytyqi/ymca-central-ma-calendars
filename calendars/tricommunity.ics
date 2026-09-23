@@ -8,148 +8,10 @@ DESCRIPTION:Schedule for Tri-Community Family Branch - 43 Everett St\, Sou
 X-WR-CALNAME:YMCA - Tri-Community Family Branch
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Power Pulse @ Studio 2
-DTSTART:20260922T100000Z
-DTEND:20260922T104500Z
-DTSTAMP:20260922T135458Z
-UID:tricommunity-tuesday-september-22-2026-600am-645am-power-pulse@ymcaofc
- m-7026
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nGet ready to ignit
- e your strength and stamina with Power Pulse\, the ultimate fusion of HIIT
-  and Tabata training combined with free weights and dynamic equipment. Thi
- s high-energy class is designed to strengthen your entire body.\nBranch: T
- ri-Community Family Branch
-LOCATION:Studio 2\, Tri-Community Family Branch\, 43 Everett St\, Southbri
- dge\, MA 01550
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cycling @ Lower Level
-DTSTART:20260922T101500Z
-DTEND:20260922T110000Z
-DTSTAMP:20260922T135458Z
-UID:tricommunity-tuesday-september-22-2026-615am-700am-cycling@ymcaofcm-70
- 26
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Lower Level\nA high-energy i
- ndoor cycling class set to motivating music. Ride through intervals\, clim
- bs\, and sprints designed to build endurance\, strength\, and confidence\,
-  no experience needed.\nBranch: Tri-Community Family Branch
-LOCATION:Lower Level\, Tri-Community Family Branch\, 43 Everett St\, South
- bridge\, MA 01550
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Group Exercise @ Gym
-DTSTART:20260922T123000Z
-DTEND:20260922T143000Z
-DTSTAMP:20260922T135458Z
-UID:tricommunity-tuesday-september-22-2026-830am-1030am-group-exercise@ymc
- aofcm-7026
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Gym\nBranch: Tri-Community F
- amily Branch
-LOCATION:Gym\, Tri-Community Family Branch\, 43 Everett St\, Southbridge\,
-  MA 01550
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga for All @ Lower Level
-DTSTART:20260922T123000Z
-DTEND:20260922T133000Z
-DTSTAMP:20260922T135458Z
-UID:tricommunity-tuesday-september-22-2026-830am-930am-yoga-for-all@ymcaof
- cm-7026
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Lower Level\nBranch: Tri-Com
- munity Family Branch
-LOCATION:Lower Level\, Tri-Community Family Branch\, 43 Everett St\, South
- bridge\, MA 01550
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba Fusion @ Gym
-DTSTART:20260922T130000Z
-DTEND:20260922T140000Z
-DTSTAMP:20260922T135458Z
-UID:tricommunity-tuesday-september-22-2026-900am-1000am-zumba-fusion@ymcao
- fcm-7026
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Gym\nA fun Zumba workout wit
- h mixed intervals of intensity combined with balance work and muscle tonin
- g.\nBranch: Tri-Community Family Branch
-LOCATION:Gym\, Tri-Community Family Branch\, 43 Everett St\, Southbridge\,
-  MA 01550
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Water Volleyball @ Pool
-DTSTART:20260922T130000Z
-DTEND:20260922T140000Z
-DTSTAMP:20260922T135458Z
-UID:tricommunity-tuesday-september-22-2026-900am-1000am-water-volleyball@y
- mcaofcm-7026
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Pool\nRemember how much fun 
- volleyball was in middle school? This is your chance to relive the fun\, l
- aughs and camaraderie - just add water! All the rules are the same. Teams 
- will serve\, rotate and keep score. Games to 15. All levels welcome.\nBran
- ch: Tri-Community Family Branch
-LOCATION:Pool\, Tri-Community Family Branch\, 43 Everett St\, Southbridge
- \, MA 01550
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Strength Training Circuit @ Fitness Center
-DTSTART:20260922T140000Z
-DTEND:20260922T151500Z
-DTSTAMP:20260922T135458Z
-UID:tricommunity-tuesday-september-22-2026-1000am-1115am-strength-training
- -circuit@ymcaofcm-7026
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Fitness Center\nBranch: Tri-
- Community Family Branch
-LOCATION:Fitness Center\, Tri-Community Family Branch\, 43 Everett St\, So
- uthbridge\, MA 01550
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pool Tabata @ Pool
-DTSTART:20260922T201500Z
-DTEND:20260922T210000Z
-DTSTAMP:20260922T135458Z
-UID:tricommunity-tuesday-september-22-2026-415pm-500pm-pool-tabata@ymcaofc
- m-7026
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Pool\nA high energy interval
- -based water workout that alternates short burts of intense exercise with 
- a brief rest period to bosst cardio fitness and strength\, all while being
-  low impact on joints.\nBranch: Tri-Community Family Branch
-LOCATION:Pool\, Tri-Community Family Branch\, 43 Everett St\, Southbridge
- \, MA 01550
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fitball @ Lower Level
-DTSTART:20260922T214500Z
-DTEND:20260922T224500Z
-DTSTAMP:20260922T135458Z
-UID:tricommunity-tuesday-september-22-2026-545pm-645pm-fitball@ymcaofcm-70
- 26
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Lower Level\nLarge stability
-  ball cardio intervals and strength training to fun music!\nBranch: Tri-Co
- mmunity Family Branch
-LOCATION:Lower Level\, Tri-Community Family Branch\, 43 Everett St\, South
- bridge\, MA 01550
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cycling @ Lower Level
 DTSTART:20260923T100000Z
 DTEND:20260923T104500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-wednesday-september-23-2026-600am-645am-cycling@ymcaofcm-
  7026
 CATEGORIES:Group Exercise
@@ -165,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Group Exercise @ Gym
 DTSTART:20260923T120000Z
 DTEND:20260923T143000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-wednesday-september-23-2026-800am-1030am-group-exercise@y
  mcaofcm-7026
 CATEGORIES:Group Exercise
@@ -179,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fitness @ Pool
 DTSTART:20260923T121500Z
 DTEND:20260923T124500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-wednesday-september-23-2026-815am-845am-water-fitness@ymc
  aofcm-7026
 CATEGORIES:Group Exercise
@@ -195,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:POUND @ Lower Level
 DTSTART:20260923T130000Z
 DTEND:20260923T134500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-wednesday-september-23-2026-900am-945am-pound@ymcaofcm-70
  26
 CATEGORIES:Group Exercise
@@ -212,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Gym
 DTSTART:20260923T130000Z
 DTEND:20260923T134500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-wednesday-september-23-2026-900am-945am-zumba@ymcaofcm-70
  26
 CATEGORIES:Group Exercise
@@ -228,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Fit After 50 @ Lower Level
 DTSTART:20260923T140000Z
 DTEND:20260923T144500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-wednesday-september-23-2026-1000am-1045am-fit-after-50@ym
  caofcm-7026
 CATEGORIES:Group Exercise
@@ -244,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga @ Lower Level
 DTSTART:20260923T220000Z
 DTEND:20260923T230000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-wednesday-september-23-2026-600pm-700pm-yoga@ymcaofcm-702
  6
 CATEGORIES:Group Exercise
@@ -259,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Power Pulse @ Studio 2
 DTSTART:20260924T100000Z
 DTEND:20260924T104500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-thursday-september-24-2026-600am-645am-power-pulse@ymcaof
  cm-7026
 CATEGORIES:Group Exercise
@@ -276,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Cycling @ Lower Level
 DTSTART:20260924T101500Z
 DTEND:20260924T110000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-thursday-september-24-2026-615am-700am-cycling@ymcaofcm-7
  026
 CATEGORIES:Group Exercise
@@ -292,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Group Exercise @ Gym
 DTSTART:20260924T120000Z
 DTEND:20260924T153000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-thursday-september-24-2026-800am-1130am-group-exercise@ym
  caofcm-7026
 CATEGORIES:Group Exercise
@@ -306,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga for All @ Lower Level
 DTSTART:20260924T123000Z
 DTEND:20260924T133000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-thursday-september-24-2026-830am-930am-yoga-for-all@ymcao
  fcm-7026
 CATEGORIES:Group Exercise
@@ -320,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fitness @ Pool
 DTSTART:20260924T130000Z
 DTEND:20260924T140000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-thursday-september-24-2026-900am-1000am-water-fitness@ymc
  aofcm-7026
 CATEGORIES:Group Exercise
@@ -336,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Water Volleyball @ Pool
 DTSTART:20260924T130000Z
 DTEND:20260924T140000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-thursday-september-24-2026-900am-1000am-water-volleyball@
  ymcaofcm-7026
 CATEGORIES:Group Exercise
@@ -353,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Strength Training Circuit @ Fitness Center
 DTSTART:20260924T140000Z
 DTEND:20260924T151500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-thursday-september-24-2026-1000am-1115am-strength-trainin
  g-circuit@ymcaofcm-7026
 CATEGORIES:Group Exercise
@@ -367,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Circuits &amp\; More @ Lower Level
 DTSTART:20260924T210000Z
 DTEND:20260924T220000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-thursday-september-24-2026-500pm-600pm-circuits-amp-more@
  ymcaofcm-7026
 CATEGORIES:Group Exercise
@@ -382,7 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Power Yoga @ Lower Level
 DTSTART:20260924T221500Z
 DTEND:20260924T231500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-thursday-september-24-2026-615pm-715pm-power-yoga@ymcaofc
  m-7026
 CATEGORIES:Group Exercise
@@ -399,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fitness @ Pool
 DTSTART:20260925T111500Z
 DTEND:20260925T130000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-friday-september-25-2026-715am-900am-water-fitness@ymcaof
  cm-7026
 CATEGORIES:Group Exercise
@@ -415,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:Group Exercise @ Gym
 DTSTART:20260925T120000Z
 DTEND:20260925T153000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-friday-september-25-2026-800am-1130am-group-exercise@ymca
  ofcm-7026
 CATEGORIES:Group Exercise
@@ -429,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:Fitball @ Lower Level
 DTSTART:20260925T130000Z
 DTEND:20260925T134500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-friday-september-25-2026-900am-945am-fitball@ymcaofcm-702
  6
 CATEGORIES:Group Exercise
@@ -444,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:Progressive Hatha @ Lower Level
 DTSTART:20260925T140000Z
 DTEND:20260925T150000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-friday-september-25-2026-1000am-1100am-progressive-hatha@
  ymcaofcm-7026
 CATEGORIES:Group Exercise
@@ -461,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:Mindfulness Meditation @ Studio 2
 DTSTART:20260925T151500Z
 DTEND:20260925T160000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-friday-september-25-2026-1115am-1200pm-mindfulness-medita
  tion@ymcaofcm-7026
 CATEGORIES:Group Exercise
@@ -475,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:Cycle Fusion @ Lower Level
 DTSTART:20260926T120000Z
 DTEND:20260926T130000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-saturday-september-26-2026-800am-900am-cycle-fusion@ymcao
  fcm-7026
 CATEGORIES:Group Exercise
@@ -491,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga for All @ Lower Level
 DTSTART:20260926T131500Z
 DTEND:20260926T141500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-saturday-september-26-2026-915am-1015am-yoga-for-all@ymca
  ofcm-7026
 CATEGORIES:Group Exercise
@@ -505,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:Group Exercise @ Gym
 DTSTART:20260928T120000Z
 DTEND:20260928T153000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-monday-september-28-2026-800am-1130am-group-exercise@ymca
  ofcm-7026
 CATEGORIES:Group Exercise
@@ -519,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fitness @ Pool
 DTSTART:20260928T121500Z
 DTEND:20260928T124500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-monday-september-28-2026-815am-845am-water-fitness@ymcaof
  cm-7026
 CATEGORIES:Group Exercise
@@ -535,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:Fit After 50 @ Gym
 DTSTART:20260928T130000Z
 DTEND:20260928T134500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-monday-september-28-2026-900am-945am-fit-after-50@ymcaofc
  m-7026
 CATEGORIES:Group Exercise
@@ -551,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:Progressive Hatha @ Lower Level
 DTSTART:20260928T140000Z
 DTEND:20260928T150000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-monday-september-28-2026-1000am-1100am-progressive-hatha@
  ymcaofcm-7026
 CATEGORIES:Group Exercise
@@ -568,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Toy Box @ Lower Level
 DTSTART:20260928T213000Z
 DTEND:20260928T221500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-monday-september-28-2026-530pm-615pm-toy-box@ymcaofcm-702
  6
 CATEGORIES:Group Exercise
@@ -585,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:Power Pulse @ Studio 2
 DTSTART:20260929T100000Z
 DTEND:20260929T104500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-tuesday-september-29-2026-600am-645am-power-pulse@ymcaofc
  m-7026
 CATEGORIES:Group Exercise
@@ -602,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Cycling @ Lower Level
 DTSTART:20260929T101500Z
 DTEND:20260929T110000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-tuesday-september-29-2026-615am-700am-cycling@ymcaofcm-70
  26
 CATEGORIES:Group Exercise
@@ -618,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:Group Exercise @ Gym
 DTSTART:20260929T123000Z
 DTEND:20260929T143000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-tuesday-september-29-2026-830am-1030am-group-exercise@ymc
  aofcm-7026
 CATEGORIES:Group Exercise
@@ -632,7 +494,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga for All @ Lower Level
 DTSTART:20260929T123000Z
 DTEND:20260929T133000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-tuesday-september-29-2026-830am-930am-yoga-for-all@ymcaof
  cm-7026
 CATEGORIES:Group Exercise
@@ -646,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba Fusion @ Gym
 DTSTART:20260929T130000Z
 DTEND:20260929T140000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-tuesday-september-29-2026-900am-1000am-zumba-fusion@ymcao
  fcm-7026
 CATEGORIES:Group Exercise
@@ -661,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:Water Volleyball @ Pool
 DTSTART:20260929T130000Z
 DTEND:20260929T140000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-tuesday-september-29-2026-900am-1000am-water-volleyball@y
  mcaofcm-7026
 CATEGORIES:Group Exercise
@@ -678,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Strength Training Circuit @ Fitness Center
 DTSTART:20260929T140000Z
 DTEND:20260929T151500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-tuesday-september-29-2026-1000am-1115am-strength-training
  -circuit@ymcaofcm-7026
 CATEGORIES:Group Exercise
@@ -692,7 +554,7 @@ BEGIN:VEVENT
 SUMMARY:Pool Tabata @ Pool
 DTSTART:20260929T201500Z
 DTEND:20260929T210000Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-tuesday-september-29-2026-415pm-500pm-pool-tabata@ymcaofc
  m-7026
 CATEGORIES:Group Exercise
@@ -708,13 +570,139 @@ BEGIN:VEVENT
 SUMMARY:Fitball @ Lower Level
 DTSTART:20260929T214500Z
 DTEND:20260929T224500Z
-DTSTAMP:20260922T135458Z
+DTSTAMP:20260923T140453Z
 UID:tricommunity-tuesday-september-29-2026-545pm-645pm-fitball@ymcaofcm-70
  26
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Lower Level\nLarge stability
   ball cardio intervals and strength training to fun music!\nBranch: Tri-Co
  mmunity Family Branch
+LOCATION:Lower Level\, Tri-Community Family Branch\, 43 Everett St\, South
+ bridge\, MA 01550
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cycling @ Lower Level
+DTSTART:20260930T100000Z
+DTEND:20260930T104500Z
+DTSTAMP:20260923T140453Z
+UID:tricommunity-wednesday-september-30-2026-600am-645am-cycling@ymcaofcm-
+ 7026
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Lower Level\nA high-energy i
+ ndoor cycling class set to motivating music. Ride through intervals\, clim
+ bs\, and sprints designed to build endurance\, strength\, and confidence\,
+  no experience needed.\nBranch: Tri-Community Family Branch
+LOCATION:Lower Level\, Tri-Community Family Branch\, 43 Everett St\, South
+ bridge\, MA 01550
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Group Exercise @ Gym
+DTSTART:20260930T120000Z
+DTEND:20260930T143000Z
+DTSTAMP:20260923T140453Z
+UID:tricommunity-wednesday-september-30-2026-800am-1030am-group-exercise@y
+ mcaofcm-7026
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Gym\nBranch: Tri-Community F
+ amily Branch
+LOCATION:Gym\, Tri-Community Family Branch\, 43 Everett St\, Southbridge\,
+  MA 01550
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Fitness @ Pool
+DTSTART:20260930T121500Z
+DTEND:20260930T124500Z
+DTSTAMP:20260923T140453Z
+UID:tricommunity-wednesday-september-30-2026-815am-845am-water-fitness@ymc
+ aofcm-7026
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Pool\nGet a great total body
+  workout using a variety of equipment and the resistance of the water. Whi
+ teboard workout guidelines will be available. Self-led class.\nBranch: Tri
+ -Community Family Branch
+LOCATION:Pool\, Tri-Community Family Branch\, 43 Everett St\, Southbridge
+ \, MA 01550
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POUND @ Lower Level
+DTSTART:20260930T130000Z
+DTEND:20260930T134500Z
+DTSTAMP:20260923T140453Z
+UID:tricommunity-wednesday-september-30-2026-900am-945am-pound@ymcaofcm-70
+ 26
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Lower Level\nUse lightly wei
+ ghted drumsticks to transform drumming into a fun and effective workout! B
+ e prepared to find your inner rockstar in this full body workout that comb
+ ines cardio and strength training with yoga and Pilates inspired movements
+ .\nBranch: Tri-Community Family Branch
+LOCATION:Lower Level\, Tri-Community Family Branch\, 43 Everett St\, South
+ bridge\, MA 01550
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba @ Gym
+DTSTART:20260930T130000Z
+DTEND:20260930T134500Z
+DTSTAMP:20260923T140453Z
+UID:tricommunity-wednesday-september-30-2026-900am-945am-zumba@ymcaofcm-70
+ 26
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Gym\nLatin-inspired dance su
+ re to get your heart pumping! This is a non-verbal form of group exercise.
+  Instructors demonstrate repetitive combinations along with inspiring musi
+ c choices.\nBranch: Tri-Community Family Branch
+LOCATION:Gym\, Tri-Community Family Branch\, 43 Everett St\, Southbridge\,
+  MA 01550
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fit After 50 @ Lower Level
+DTSTART:20260930T140000Z
+DTEND:20260930T144500Z
+DTSTAMP:20260923T140453Z
+UID:tricommunity-wednesday-september-30-2026-1000am-1045am-fit-after-50@ym
+ caofcm-7026
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Lower Level\nAn energetic\, 
+ fun class for all (even if you're under 50!). Weights\, bands and chairs c
+ an be used to target balance\, core and cardio.\nBranch: Tri-Community Fam
+ ily Branch
+LOCATION:Lower Level\, Tri-Community Family Branch\, 43 Everett St\, South
+ bridge\, MA 01550
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRX @ Lower Level
+DTSTART:20260930T150000Z
+DTEND:20260930T160000Z
+DTSTAMP:20260923T140453Z
+UID:tricommunity-wednesday-september-30-2026-1100am-1200pm-trx@ymcaofcm-70
+ 26
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Lower Level\nLearn how to ma
+ ke the most out of suspension training as you build strength\, improve bal
+ ance and challenge your core. LIMITED SPACE. FRONT DESK REGISTRATION IS RE
+ QUIRED. 60 minutes\nBranch: Tri-Community Family Branch
+LOCATION:Lower Level\, Tri-Community Family Branch\, 43 Everett St\, South
+ bridge\, MA 01550
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga @ Lower Level
+DTSTART:20260930T220000Z
+DTEND:20260930T230000Z
+DTSTAMP:20260923T140453Z
+UID:tricommunity-wednesday-september-30-2026-600pm-700pm-yoga@ymcaofcm-702
+ 6
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Lower Level\nThis mixed-leve
+ l class includes breathing\, centering\, sun salutations\, poses\, stretch
+ es and a final relaxation/meditation.\nBranch: Tri-Community Family Branch
 LOCATION:Lower Level\, Tri-Community Family Branch\, 43 Everett St\, South
  bridge\, MA 01550
 STATUS:CONFIRMED

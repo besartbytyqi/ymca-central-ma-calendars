@@ -1,17 +1,11 @@
-# Leominster Community Branch - 108 Adams St, Leominster, MA 01453 - 2026-09-22 to 2026-09-28
-# 40 events
+# Leominster Community Branch - 108 Adams St, Leominster, MA 01453 - 2026-09-23 to 2026-09-29
+# 39 events
 
-Tue 09/22 05:15AM - 06:00AM | Sunrise Strength @ Group Exercise Room [Group Exercise]
-Tue 09/22 08:00AM - 09:00AM | Yoga for All @ Group Exercise Room [Group Exercise]
-Tue 09/22 09:15AM - 10:15AM | SilverSneakers @ Group Exercise Room [Group Exercise]
-Tue 09/22 10:30AM - 11:30AM | SilverSneakers @ Group Exercise Room [Group Exercise]
-Tue 09/22 11:45AM - 12:30PM | Scenic Cycling @ Group Exercise Room [Group Exercise]
-Tue 09/22 04:30PM - 05:30PM | Zumba @ Group Exercise Room [Group Exercise]
 Wed 09/23 05:15AM - 06:00AM | Early Bird Cycling @ Group Exercise Room [Group Exercise]
-Wed 09/23 08:15AM - 09:00AM | HIIT @ HIIT Deck [Group Exercise]
+Wed 09/23 08:15AM - 09:00AM | CANCELED: HIIT @ HIIT Deck [Group Exercise]
 Wed 09/23 09:15AM - 10:15AM | Zumba Gold @ Group Exercise Room [Group Exercise]
 Wed 09/23 10:30AM - 11:15AM | Zumba Gold Chair @ Group Exercise Room [Group Exercise]
-Wed 09/23 10:30AM - 11:15AM | HIIT @ HIIT Deck [Group Exercise]
+Wed 09/23 10:30AM - 11:15AM | CANCELED: HIIT @ HIIT Deck [Group Exercise]
 Thu 09/24 05:15AM - 06:00AM | Sunrise Strength @ Group Exercise Room [Group Exercise]
 Thu 09/24 08:00AM - 09:00AM | Yoga for All @ Group Exercise Room [Group Exercise]
 Thu 09/24 09:15AM - 10:15AM | SilverSneakers @ Group Exercise Room [Group Exercise]
@@ -41,3 +35,8 @@ Tue 09/29 09:15AM - 10:15AM | SilverSneakers @ Group Exercise Room [Group Exerci
 Tue 09/29 10:30AM - 11:30AM | SilverSneakers @ Group Exercise Room [Group Exercise]
 Tue 09/29 11:45AM - 12:30PM | Scenic Cycling @ Group Exercise Room [Group Exercise]
 Tue 09/29 04:30PM - 05:30PM | Zumba @ Group Exercise Room [Group Exercise]
+Wed 09/30 05:15AM - 06:00AM | Early Bird Cycling @ Group Exercise Room [Group Exercise]
+Wed 09/30 08:15AM - 09:00AM | HIIT @ HIIT Deck [Group Exercise]
+Wed 09/30 09:15AM - 10:15AM | Zumba Gold @ Group Exercise Room [Group Exercise]
+Wed 09/30 10:30AM - 11:15AM | Zumba Gold Chair @ Group Exercise Room [Group Exercise]
+Wed 09/30 10:30AM - 11:15AM | HIIT @ HIIT Deck [Group Exercise]
