@@ -1,10 +1,6 @@
-# Montachusett Community Branch - 55 Wallace Ave, Fitchburg, MA 01420 - 2026-09-23 to 2026-09-29
-# 21 events
+# Montachusett Community Branch - 55 Wallace Ave, Fitchburg, MA 01420 - 2026-09-24 to 2026-09-30
+# 22 events
 
-Wed 09/23 08:00AM - 09:00AM | Yoga @ Community Room [Group Exercise]
-Wed 09/23 09:15AM - 10:15AM | SilverSneakers @ Gymnasium [Group Exercise]
-Wed 09/23 10:30AM - 11:30AM | Water Fit @ Pool [Group Exercise]
-Wed 09/23 06:00PM - 06:45PM | POUND @ Community Room [Group Exercise]
 Thu 09/24 09:15AM - 10:15AM | Zumba Gold @ Upper Studio [Group Exercise]
 Thu 09/24 09:15AM - 10:15AM | SilverSneakers Stability @ Gymnasium [Group Exercise]
 Thu 09/24 10:30AM - 11:30AM | Water Fit @ Pool [Group Exercise]
@@ -22,3 +18,8 @@ Wed 09/30 08:00AM - 09:00AM | Yoga @ Community Room [Group Exercise]
 Wed 09/30 09:15AM - 10:15AM | SilverSneakers @ Gymnasium [Group Exercise]
 Wed 09/30 10:30AM - 11:30AM | Water Fit @ Pool [Group Exercise]
 Wed 09/30 06:00PM - 06:45PM | POUND @ Community Room [Group Exercise]
+Thu 10/01 09:15AM - 10:15AM | Zumba Gold @ Upper Studio [Group Exercise]
+Thu 10/01 09:15AM - 10:15AM | SilverSneakers Stability @ Gymnasium [Group Exercise]
+Thu 10/01 10:30AM - 11:30AM | Water Fit @ Pool [Group Exercise]
+Thu 10/01 10:30AM - 11:30AM | LIVESTRONG @ Lower Studio [Group Exercise]
+Thu 10/01 10:45AM - 11:30AM | Water Fit @ Pool [Group Exercise]
