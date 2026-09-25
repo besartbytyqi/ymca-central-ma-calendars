@@ -1,13 +1,6 @@
-# Leominster Community Branch - 108 Adams St, Leominster, MA 01453 - 2026-09-24 to 2026-09-30
+# Leominster Community Branch - 108 Adams St, Leominster, MA 01453 - 2026-09-25 to 2026-10-01
 # 41 events
 
-Thu 09/24 05:15AM - 06:00AM | Sunrise Strength @ Group Exercise Room [Group Exercise]
-Thu 09/24 08:00AM - 09:00AM | Yoga for All @ Group Exercise Room [Group Exercise]
-Thu 09/24 09:15AM - 10:15AM | SilverSneakers @ Group Exercise Room [Group Exercise]
-Thu 09/24 10:30AM - 11:15AM | Active Adults @ Group Exercise Room [Group Exercise]
-Thu 09/24 11:45AM - 12:30PM | Scenic Cycling @ Group Exercise Room [Group Exercise]
-Thu 09/24 04:30PM - 05:30PM | Zumba @ Group Exercise Room [Group Exercise]
-Thu 09/24 06:15PM - 07:00PM | Spin @ Group Exercise Room [Group Exercise]
 Fri 09/25 05:15AM - 06:00AM | Early Bird Cycling @ Group Exercise Room [Group Exercise]
 Fri 09/25 08:00AM - 09:00AM | Yoga for All @ Group Exercise Room [Group Exercise]
 Fri 09/25 08:15AM - 09:00AM | HIIT @ HIIT Deck [Group Exercise]
@@ -15,7 +8,7 @@ Fri 09/25 09:15AM - 10:15AM | Active Chair Yoga @ Group Exercise Room [Group Exe
 Fri 09/25 10:30AM - 11:15AM | Active Adults @ Group Exercise Room [Group Exercise]
 Fri 09/25 10:30AM - 11:15AM | HIIT @ HIIT Deck [Group Exercise]
 Fri 09/25 11:30AM - 12:30PM | Gentle Yoga @ Group Exercise Room [Group Exercise]
-Sat 09/26 08:00AM - 09:00AM | Spin Fusion @ Group Exercise Room [Group Exercise]
+Sat 09/26 08:00AM - 09:00AM | CANCELED: Spin Fusion @ Group Exercise Room [Group Exercise]
 Sat 09/26 10:30AM - 11:15AM | HIIT @ HIIT Deck [Group Exercise]
 Sun 09/27 08:15AM - 09:15AM | Spin @ Group Exercise Room [Group Exercise]
 Mon 09/28 05:15AM - 06:00AM | Early Bird Cycling @ Group Exercise Room [Group Exercise]
@@ -42,3 +35,10 @@ Thu 10/01 10:30AM - 11:15AM | Active Adults @ Group Exercise Room [Group Exercis
 Thu 10/01 11:45AM - 12:30PM | Scenic Cycling @ Group Exercise Room [Group Exercise]
 Thu 10/01 04:30PM - 05:30PM | Zumba @ Group Exercise Room [Group Exercise]
 Thu 10/01 06:15PM - 07:00PM | Spin @ Group Exercise Room [Group Exercise]
+Fri 10/02 05:15AM - 06:00AM | Early Bird Cycling @ Group Exercise Room [Group Exercise]
+Fri 10/02 08:00AM - 09:00AM | Yoga for All @ Group Exercise Room [Group Exercise]
+Fri 10/02 08:15AM - 09:00AM | HIIT @ HIIT Deck [Group Exercise]
+Fri 10/02 09:15AM - 10:15AM | Active Chair Yoga @ Group Exercise Room [Group Exercise]
+Fri 10/02 10:30AM - 11:15AM | Active Adults @ Group Exercise Room [Group Exercise]
+Fri 10/02 10:30AM - 11:15AM | HIIT @ HIIT Deck [Group Exercise]
+Fri 10/02 11:30AM - 12:30PM | Gentle Yoga @ Group Exercise Room [Group Exercise]
