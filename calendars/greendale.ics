@@ -8,215 +8,10 @@ DESCRIPTION:Schedule for Greendale Family Branch - 75 Shore Dr\, Worcester
 X-WR-CALNAME:YMCA - Greendale Family Branch
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Les Mills Body Pump/Core @ Main Studio (Lower Level)
-DTSTART:20260925T093000Z
-DTEND:20260925T103000Z
-DTSTAMP:20260925T142547Z
-UID:greendale-friday-september-25-2026-530am-630am-les-mills-body-pumpcore
- @ymcaofcm-7023
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Main Studio (Lower Level)\nT
- his class starts with 30 min of light to moderate weights to tone and scul
- pt your body followed by 30 min of Core to help improve core stability\, s
- trength and endurance.\nBranch: Greendale Family Branch
-LOCATION:Main Studio (Lower Level)\, Greendale Family Branch\, 75 Shore Dr
- \, Worcester\, MA 01605
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spin Revolution w/ Jill W @ Spin Studio (Lower Level)
-DTSTART:20260925T121500Z
-DTEND:20260925T130000Z
-DTSTAMP:20260925T142547Z
-UID:greendale-friday-september-25-2026-815am-900am-spin-revolution-w-jill-
- w@ymcaofcm-7023
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Spin Studio (Lower Level)\nT
- his cycling class is a great non-impact cardiovascular workout. Pedal thro
- ugh Hill climbs\, sprints and endurance rides all to great high energy mus
- ic to give you the best workout.\nBranch: Greendale Family Branch
-LOCATION:Spin Studio (Lower Level)\, Greendale Family Branch\, 75 Shore Dr
- \, Worcester\, MA 01605
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pilates with Lisa @ SMB Studio (Main Level)
-DTSTART:20260925T121500Z
-DTEND:20260925T130000Z
-DTSTAMP:20260925T142547Z
-UID:greendale-friday-september-25-2026-815am-900am-pilates-with-lisa@ymcao
- fcm-7023
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: SMB Studio (Main Level)\nBra
- nch: Greendale Family Branch
-LOCATION:SMB Studio (Main Level)\, Greendale Family Branch\, 75 Shore Dr\,
-  Worcester\, MA 01605
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deep Water Burdenko - 6 Lanes @ Woodbury Pool (3ft-10ft)
-DTSTART:20260925T130000Z
-DTEND:20260925T134500Z
-DTSTAMP:20260925T142547Z
-UID:greendale-friday-september-25-2026-900am-945am-deep-water-burdenko---6
- -lanes@ymcaofcm-7023
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Woodbury Pool (3ft-10ft)\nDe
- ep Water Burdenko class that offers a non-weight bearing environment in th
- e pool where exercises are based on everyday movements and promotes rehabi
- litation and/or conditioning training.\nBranch: Greendale Family Branch
-LOCATION:Woodbury Pool (3ft-10ft)\, Greendale Family Branch\, 75 Shore Dr
- \, Worcester\, MA 01605
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba @ Main Studio (Lower Level)
-DTSTART:20260925T131500Z
-DTEND:20260925T140000Z
-DTSTAMP:20260925T142547Z
-UID:greendale-friday-september-25-2026-915am-1000am-zumba@ymcaofcm-7023
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Main Studio (Lower Level)\nL
- atin-inspired dance sure to get your heart pumping! This is a non-verbal f
- orm of group exercise. Instructors demonstrate repetitive combinations alo
- ng with inspiring music choices.\nBranch: Greendale Family Branch
-LOCATION:Main Studio (Lower Level)\, Greendale Family Branch\, 75 Shore Dr
- \, Worcester\, MA 01605
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cuts and Curves w/ Linda @ SMB Studio (Main Level)
-DTSTART:20260925T131500Z
-DTEND:20260925T140000Z
-DTSTAMP:20260925T142547Z
-UID:greendale-friday-september-25-2026-915am-1000am-cuts-and-curves-w-lind
- a@ymcaofcm-7023
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: SMB Studio (Main Level)\nHav
- e fun and build muscle in this 45 minute class utilizing body weight with 
- rubber tubing and bands.\nBranch: Greendale Family Branch
-LOCATION:SMB Studio (Main Level)\, Greendale Family Branch\, 75 Shore Dr\,
-  Worcester\, MA 01605
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Body Burn HIIT w/ Tarsha @ HIIT DECK (Wellness Center)
-DTSTART:20260925T133000Z
-DTEND:20260925T141500Z
-DTSTAMP:20260925T142547Z
-UID:greendale-friday-september-25-2026-930am-1015am-body-burn-hiit-w-tarsh
- a@ymcaofcm-7023
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: HIIT DECK (Wellness Center)
- \nGet out of your comfort zone and into a burn high intensity interval tra
- ining (HIIT) with Tarsha to strengthen and improve your overall endurance
- \, aerobic\, and anaerobic capacity. All levels welcome!\nBranch: Greendal
- e Family Branch
-LOCATION:HIIT DECK (Wellness Center)\, Greendale Family Branch\, 75 Shore 
- Dr\, Worcester\, MA 01605
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rise &amp\; Align Yoga with Walter @ SMB Studio (Main Level)
-DTSTART:20260925T143000Z
-DTEND:20260925T151500Z
-DTSTAMP:20260925T142547Z
-UID:greendale-friday-september-25-2026-1030am-1115am-rise-amp-align-yoga-w
- ith-walter@ymcaofcm-7023
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: SMB Studio (Main Level)\nThi
- s class will improve on balance\, flexibility and over all well-being spir
- itually\, mentally and physically.\nBranch: Greendale Family Branch
-LOCATION:SMB Studio (Main Level)\, Greendale Family Branch\, 75 Shore Dr\,
-  Worcester\, MA 01605
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Back2Hips with Geoff @ SMB Studio (Main Level)
-DTSTART:20260925T160000Z
-DTEND:20260925T164500Z
-DTSTAMP:20260925T142547Z
-UID:greendale-friday-september-25-2026-1200pm-1245pm-back2hips-with-geoff@
- ymcaofcm-7023
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: SMB Studio (Main Level)\nJoi
- n Geoff as he uses bands and exercises to stretch and create strength in y
- our back and hips. This class is great for recovering from lower back pain
-  and weakness. Feel the difference.\nBranch: Greendale Family Branch
-LOCATION:SMB Studio (Main Level)\, Greendale Family Branch\, 75 Shore Dr\,
-  Worcester\, MA 01605
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FIrst Step Fitness w/Geoff @ Wellness Center
-DTSTART:20260925T180000Z
-DTEND:20260925T184500Z
-DTSTAMP:20260925T142547Z
-UID:greendale-friday-september-25-2026-200pm-245pm-first-step-fitness-wgeo
- ff@ymcaofcm-7023
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Wellness Center\nFormly know
-  as Y Curves our new and improved beginner circuit class is now 60 min ski
- lled for all levels. Come join the fun with our Lead Trainer Geoff Fayyad 
- who will bring your fitness to the next level using our Nautilus line\, ca
- rdio exercises and balance and stability for a total body workout. Sign up
-  today and reserve your spot.\nBranch: Greendale Family Branch
-LOCATION:Wellness Center\, Greendale Family Branch\, 75 Shore Dr\, Worcest
- er\, MA 01605
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paula&#039\;s Deep Water Class @ Woodbury Pool (3ft-10ft)
-DTSTART:20260925T211500Z
-DTEND:20260925T220000Z
-DTSTAMP:20260925T142547Z
-UID:greendale-friday-september-25-2026-515pm-600pm-paula039s-deep-water-cl
- ass@ymcaofcm-7023
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Woodbury Pool (3ft-10ft)\nJo
- in Paula on Friday evenings as she teaches this total body deep water clas
- s with zero impact on your joints. Have fun and dive right in! All levels 
- welcome.\nBranch: Greendale Family Branch
-LOCATION:Woodbury Pool (3ft-10ft)\, Greendale Family Branch\, 75 Shore Dr
- \, Worcester\, MA 01605
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rhythm Ride w/ Francesca @ Spin Studio (Lower Level)
-DTSTART:20260925T213000Z
-DTEND:20260925T221500Z
-DTSTAMP:20260925T142547Z
-UID:greendale-friday-september-25-2026-530pm-615pm-rhythm-ride-w-francesca
- @ymcaofcm-7023
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Spin Studio (Lower Level)\nB
- ranch: Greendale Family Branch
-LOCATION:Spin Studio (Lower Level)\, Greendale Family Branch\, 75 Shore Dr
- \, Worcester\, MA 01605
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yin Yoga w/Paula @ SMB Studio (Main Level)
-DTSTART:20260925T221500Z
-DTEND:20260925T230000Z
-DTSTAMP:20260925T142547Z
-UID:greendale-friday-september-25-2026-615pm-700pm-yin-yoga-wpaula@ymcaofc
- m-7023
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: SMB Studio (Main Level)\nEnd
-  your week in this cozy Yin Yoga class as Paula leads you through slow\, g
- entle poses and deep stretches in a calm and quiet atmosphere. Bring a pil
- low and blanket\, wear comfortable clothing\, and allow yourself to rest a
- nd let go.\nBranch: Greendale Family Branch
-LOCATION:SMB Studio (Main Level)\, Greendale Family Branch\, 75 Shore Dr\,
-  Worcester\, MA 01605
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Les Mills Body Combat Rotation @ Main Studio (Lower Level)
 DTSTART:20260926T121500Z
 DTEND:20260926T130000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-saturday-september-26-2026-815am-900am-les-mills-body-combat
  -rotation@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -230,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Cycling /Rotating Instructors @ Spin Studio (Lower Level)
 DTSTART:20260926T123000Z
 DTEND:20260926T131500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-saturday-september-26-2026-830am-915am-cycling-rotating-inst
  ructors@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -244,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Power PiYo with Pat D @ SMB Studio (Main Level)
 DTSTART:20260926T131500Z
 DTEND:20260926T141500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-saturday-september-26-2026-915am-1015am-power-piyo-with-pat-
  d@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -261,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Gladiator Fitness HIIT w/Geoff @ HIIT DECK (Wellness Center)
 DTSTART:20260926T133000Z
 DTEND:20260926T141500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-saturday-september-26-2026-930am-1015am-gladiator-fitness-hi
  it-wgeoff@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -277,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Les Mills BodyPump w/Francesca @ Main Studio (Lower Level)
 DTSTART:20260926T133000Z
 DTEND:20260926T143000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-saturday-september-26-2026-930am-1030am-les-mills-bodypump-w
  francesca@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -294,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates with Pat D. @ SMB Studio (Main Level)
 DTSTART:20260927T133000Z
 DTEND:20260927T143000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-sunday-september-27-2026-930am-1030am-pilates-with-pat-d@ymc
  aofcm-7023
 CATEGORIES:Group Exercise
@@ -312,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:Les Mills Body Pump w/Theresa @ Main Studio (Lower Level)
 DTSTART:20260928T093000Z
 DTEND:20260928T103000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-monday-september-28-2026-530am-630am-les-mills-body-pump-wth
  eresa@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -330,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Spin Revolution w/ Jill W @ Spin Studio (Lower Level)
 DTSTART:20260928T121500Z
 DTEND:20260928T130000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-monday-september-28-2026-815am-900am-spin-revolution-w-jill-
  w@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -346,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Morning Movement and Flow @ SMB Studio (Main Level)
 DTSTART:20260928T121500Z
 DTEND:20260928T131500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-monday-september-28-2026-815am-915am-morning-movement-and-fl
  ow@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -363,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Deep Water Burdenko - 6 Lanes @ Woodbury Pool (3ft-10ft)
 DTSTART:20260928T130000Z
 DTEND:20260928T134500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-monday-september-28-2026-900am-945am-deep-water-burdenko---6
  -lanes@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -379,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:Les Mills Body Pump w/ Tori @ Main Studio (Lower Level)
 DTSTART:20260928T131500Z
 DTEND:20260928T140000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-monday-september-28-2026-915am-1000am-les-mills-body-pump-w-
  tori@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -393,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Body Burn HIIT w/ Tarsha @ HIIT DECK (Wellness Center)
 DTSTART:20260928T133000Z
 DTEND:20260928T141500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-monday-september-28-2026-930am-1015am-body-burn-hiit-w-tarsh
  a@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -410,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Flow @ Alden Pool (4ft)
 DTSTART:20260928T134500Z
 DTEND:20260928T143000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-monday-september-28-2026-945am-1030am-aqua-flow@ymcaofcm-702
  3
 CATEGORIES:Group Exercise
@@ -424,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Now and Zen w/ Tarsha @ SMB Studio (Main Level)
 DTSTART:20260928T143000Z
 DTEND:20260928T151500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-monday-september-28-2026-1030am-1115am-now-and-zen-w-tarsha@
  ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -440,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:Cuddle &amp\; Flow w/Lisa +Landon @ SMB Studio (Main Level)
 DTSTART:20260928T160000Z
 DTEND:20260928T164500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-monday-september-28-2026-1200pm-1245pm-cuddle-amp-flow-wlisa
  -landon@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -458,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:FIrst Step Fitness w/Geoff @ Wellness Center
 DTSTART:20260928T160000Z
 DTEND:20260928T164500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-monday-september-28-2026-1200pm-1245pm-first-step-fitness-wg
  eoff@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -476,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:Cycling with Paul @ Spin Studio (Lower Level)
 DTSTART:20260928T211500Z
 DTEND:20260928T220000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-monday-september-28-2026-515pm-600pm-cycling-with-paul@ymcao
  fcm-7023
 CATEGORIES:Group Exercise
@@ -492,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba + Lift with Linda K @ Main Studio (Lower Level)
 DTSTART:20260928T211500Z
 DTEND:20260928T220000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-monday-september-28-2026-515pm-600pm-zumba--lift-with-linda-
  k@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -508,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Les Mills Body Pump w/Victoria @ Main Studio (Lower Level)
 DTSTART:20260928T221500Z
 DTEND:20260928T231500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-monday-september-28-2026-615pm-715pm-les-mills-body-pump-wvi
  ctoria@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -522,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Hatha Flow w/Paula @ SMB Studio (Main Level)
 DTSTART:20260928T221500Z
 DTEND:20260928T230000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-monday-september-28-2026-615pm-700pm-hatha-flow-wpaula@ymcao
  fcm-7023
 CATEGORIES:Group Exercise
@@ -538,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Cycling /Rotating Instructors @ Spin Studio (Lower Level)
 DTSTART:20260929T093000Z
 DTEND:20260929T101500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-530am-615am-cycling-rotating-instr
  uctors@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -552,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:RowFit w/ Jill W @ HIIT DECK (Wellness Center)
 DTSTART:20260929T121500Z
 DTEND:20260929T130000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-815am-900am-rowfit-w-jill-w@ymcaof
  cm-7023
 CATEGORIES:Group Exercise
@@ -569,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Dance and Tone w/ Sue @ Main Studio (Lower Level)
 DTSTART:20260929T123000Z
 DTEND:20260929T133000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-830am-930am-dance-and-tone-w-sue@y
  mcaofcm-7023
 CATEGORIES:Group Exercise
@@ -586,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:Mobility with Jill Andros @ HIIT DECK (Wellness Center)
 DTSTART:20260929T131500Z
 DTEND:20260929T140000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-915am-1000am-mobility-with-jill-an
  dros@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -603,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Triple Fusion with Betsy @ Main Studio (Lower Level)
 DTSTART:20260929T133000Z
 DTEND:20260929T141500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-930am-1015am-triple-fusion-with-be
  tsy@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -619,7 +414,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates with Alisha @ SMB Studio (Main Level)
 DTSTART:20260929T133000Z
 DTEND:20260929T141500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-930am-1015am-pilates-with-alisha@y
  mcaofcm-7023
 CATEGORIES:Group Exercise
@@ -635,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Strict Strength w/Jill Andros @ HIIT DECK (Wellness Center)
 DTSTART:20260929T141500Z
 DTEND:20260929T150000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-1015am-1100am-strict-strength-wjil
  l-andros@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -651,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates with Lisa @ SMB Studio (Main Level)
 DTSTART:20260929T143000Z
 DTEND:20260929T153000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-1030am-1130am-pilates-with-lisa@ym
  caofcm-7023
 CATEGORIES:Group Exercise
@@ -665,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:Silver Sneakers Circuit @ Main Studio (Lower Level)
 DTSTART:20260929T143000Z
 DTEND:20260929T151500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-1030am-1115am-silver-sneakers-circ
  uit@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -681,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:Hard Core HIIT w/ Jill A @ HIIT DECK (Wellness Center)
 DTSTART:20260929T153000Z
 DTEND:20260929T161500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-1130am-1215pm-hard-core-hiit-w-jil
  l-a@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -696,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:FIrst Step Fitness w/Geoff @ Wellness Center
 DTSTART:20260929T201500Z
 DTEND:20260929T210000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-415pm-500pm-first-step-fitness-wge
  off@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -714,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:Gentle Inclusive Yoga w/Jim @ SMB Studio (Main Level)
 DTSTART:20260929T201500Z
 DTEND:20260929T210000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-415pm-500pm-gentle-inclusive-yoga-
  wjim@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -733,7 +528,7 @@ BEGIN:VEVENT
 SUMMARY:Deep Water Moves W/Bernadette @ Woodbury Pool (3ft-10ft)
 DTSTART:20260929T211000Z
 DTEND:20260929T215500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-510pm-555pm-deep-water-moves-wbern
  adette@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -750,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:Cardio Combat w/ Pat @ Main Studio (Lower Level)
 DTSTART:20260929T211500Z
 DTEND:20260929T220000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-515pm-600pm-cardio-combat-w-pat@ym
  caofcm-7023
 CATEGORIES:Group Exercise
@@ -765,7 +560,7 @@ BEGIN:VEVENT
 SUMMARY:Sculpt with Pat D @ Main Studio (Lower Level)
 DTSTART:20260929T221500Z
 DTEND:20260929T230000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-615pm-700pm-sculpt-with-pat-d@ymca
  ofcm-7023
 CATEGORIES:Group Exercise
@@ -783,7 +578,7 @@ BEGIN:VEVENT
 SUMMARY:Power &amp\; Pedal w/ John Bubello @ Spin Studio (Lower Level)
 DTSTART:20260929T221500Z
 DTEND:20260929T231500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-615pm-715pm-power-amp-pedal-w-john
  -bubello@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -800,7 +595,7 @@ BEGIN:VEVENT
 SUMMARY:Stretch\, Flex\, &amp\; Reset w/Jacob @ SMB Studio (Main Level)
 DTSTART:20260929T231500Z
 DTEND:20260930T000000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-tuesday-september-29-2026-715pm-800pm-stretch-flex-amp-reset
  -wjacob@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -816,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:Gladiator Fitness HIIT w/Geoff @ HIIT DECK (Wellness Center)
 DTSTART:20260930T093000Z
 DTEND:20260930T101500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-wednesday-september-30-2026-530am-615am-gladiator-fitness-hi
  it-wgeoff@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -832,7 +627,7 @@ BEGIN:VEVENT
 SUMMARY:Wake Up Yoga w/ Walter @ SMB Studio (Main Level)
 DTSTART:20260930T093000Z
 DTEND:20260930T101500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-wednesday-september-30-2026-530am-615am-wake-up-yoga-w-walte
  r@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -849,7 +644,7 @@ BEGIN:VEVENT
 SUMMARY:Les Mills Body Pump w/ Tori @ Main Studio (Lower Level)
 DTSTART:20260930T121500Z
 DTEND:20260930T131500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-wednesday-september-30-2026-815am-915am-les-mills-body-pump-
  w-tori@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -863,7 +658,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Fit @ Alden Pool (4ft)
 DTSTART:20260930T130000Z
 DTEND:20260930T134500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-wednesday-september-30-2026-900am-945am-aqua-fit@ymcaofcm-70
  23
 CATEGORIES:Group Exercise
@@ -879,7 +674,7 @@ BEGIN:VEVENT
 SUMMARY:Advanced Burdenko @ Woodbury Pool (3ft-10ft)
 DTSTART:20260930T130000Z
 DTEND:20260930T134500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-wednesday-september-30-2026-900am-945am-advanced-burdenko@ym
  caofcm-7023
 CATEGORIES:Group Exercise
@@ -895,7 +690,7 @@ BEGIN:VEVENT
 SUMMARY:Step by Step with Linda K @ Main Studio (Lower Level)
 DTSTART:20260930T131500Z
 DTEND:20260930T140000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-wednesday-september-30-2026-915am-1000am-step-by-step-with-l
  inda-k@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -911,7 +706,7 @@ BEGIN:VEVENT
 SUMMARY:Cycle Fusion w/Tarsha @ Spin Studio (Lower Level)
 DTSTART:20260930T133000Z
 DTEND:20260930T141500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-wednesday-september-30-2026-930am-1015am-cycle-fusion-wtarsh
  a@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -927,7 +722,7 @@ BEGIN:VEVENT
 SUMMARY:Water Walking @ Alden Pool (4ft)
 DTSTART:20260930T134500Z
 DTEND:20260930T143000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-wednesday-september-30-2026-945am-1030am-water-walking@ymcao
  fcm-7023
 CATEGORIES:Group Exercise
@@ -941,7 +736,7 @@ BEGIN:VEVENT
 SUMMARY:Mindful Flow w/ Ellery @ SMB Studio (Main Level)
 DTSTART:20260930T143000Z
 DTEND:20260930T153000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-wednesday-september-30-2026-1030am-1130am-mindful-flow-w-ell
  ery@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -957,7 +752,7 @@ BEGIN:VEVENT
 SUMMARY:Sit &amp\; Stand Chair Yoga/Betsy @ SMB Studio (Main Level)
 DTSTART:20260930T154500Z
 DTEND:20260930T164500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-wednesday-september-30-2026-1145am-1245pm-sit-amp-stand-chai
  r-yogabetsy@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -974,7 +769,7 @@ BEGIN:VEVENT
 SUMMARY:Cycling w/ Betsy @ Spin Studio (Lower Level)
 DTSTART:20260930T211500Z
 DTEND:20260930T220000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-wednesday-september-30-2026-515pm-600pm-cycling-w-betsy@ymca
  ofcm-7023
 CATEGORIES:Group Exercise
@@ -994,7 +789,7 @@ BEGIN:VEVENT
 SUMMARY:Les Mills Body Combat- Theresa @ Main Studio (Lower Level)
 DTSTART:20260930T211500Z
 DTEND:20260930T220000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-wednesday-september-30-2026-515pm-600pm-les-mills-body-comba
  t--theresa@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1011,7 +806,7 @@ BEGIN:VEVENT
 SUMMARY:Les Mills Body Pump w/ Yesi @ Main Studio (Lower Level)
 DTSTART:20260930T221500Z
 DTEND:20260930T231500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-wednesday-september-30-2026-615pm-715pm-les-mills-body-pump-
  w-yesi@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1025,7 +820,7 @@ BEGIN:VEVENT
 SUMMARY:Back2Hips with Geoff @ SMB Studio (Main Level)
 DTSTART:20260930T221500Z
 DTEND:20260930T230000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-wednesday-september-30-2026-615pm-700pm-back2hips-with-geoff
  @ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1041,7 +836,7 @@ BEGIN:VEVENT
 SUMMARY:Cycling with John B @ Spin Studio (Lower Level)
 DTSTART:20261001T093000Z
 DTEND:20261001T101500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-530am-615am-cycling-with-john-b@ymca
  ofcm-7023
 CATEGORIES:Group Exercise
@@ -1057,7 +852,7 @@ BEGIN:VEVENT
 SUMMARY:RowFit w/ Jill W @ HIIT DECK (Wellness Center)
 DTSTART:20261001T121500Z
 DTEND:20261001T130000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-815am-900am-rowfit-w-jill-w@ymcaofcm
  -7023
 CATEGORIES:Group Exercise
@@ -1074,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:Dance and Tone w/ Sue @ Main Studio (Lower Level)
 DTSTART:20261001T123000Z
 DTEND:20261001T133000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-830am-930am-dance-and-tone-w-sue@ymc
  aofcm-7023
 CATEGORIES:Group Exercise
@@ -1091,7 +886,7 @@ BEGIN:VEVENT
 SUMMARY:Soul In Motion with Linda K @ SMB Studio (Main Level)
 DTSTART:20261001T131500Z
 DTEND:20261001T140000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-915am-1000am-soul-in-motion-with-lin
  da-k@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1108,7 +903,7 @@ BEGIN:VEVENT
 SUMMARY:Triple Fusion with Betsy @ Main Studio (Lower Level)
 DTSTART:20261001T133000Z
 DTEND:20261001T141500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-930am-1015am-triple-fusion-with-bets
  y@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1124,7 +919,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga Meditation w/ Ellery @ SMB Studio (Main Level)
 DTSTART:20261001T143000Z
 DTEND:20261001T153000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-1030am-1130am-yoga-meditation-w-elle
  ry@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1139,7 +934,7 @@ BEGIN:VEVENT
 SUMMARY:Silver Sneakers Classic/Betsy @ Main Studio (Lower Level)
 DTSTART:20261001T143000Z
 DTEND:20261001T153000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-1030am-1130am-silver-sneakers-classi
  cbetsy@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1154,7 +949,7 @@ BEGIN:VEVENT
 SUMMARY:Silver Sneakers Circuit @ Main Studio (Lower Level)
 DTSTART:20261001T143000Z
 DTEND:20261001T151500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-1030am-1115am-silver-sneakers-circui
  t@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1170,7 +965,7 @@ BEGIN:VEVENT
 SUMMARY:Met-Con HIIT w Sy @ HIIT DECK (Wellness Center)
 DTSTART:20261001T153000Z
 DTEND:20261001T161500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-1130am-1215pm-met-con-hiit-w-sy@ymca
  ofcm-7023
 CATEGORIES:Group Exercise
@@ -1186,7 +981,7 @@ BEGIN:VEVENT
 SUMMARY:Reserved @ SMB Studio (Main Level)
 DTSTART:20261001T163000Z
 DTEND:20261001T174500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-1230pm-145pm-reserved@ymcaofcm-7023
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: SMB Studio (Main Level)\nThi
@@ -1200,7 +995,7 @@ BEGIN:VEVENT
 SUMMARY:FIrst Step Fitness w/Geoff @ Wellness Center
 DTSTART:20261001T201500Z
 DTEND:20261001T210000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-415pm-500pm-first-step-fitness-wgeof
  f@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1218,7 +1013,7 @@ BEGIN:VEVENT
 SUMMARY:Deep Water Moves W/Bernadette @ Woodbury Pool (3ft-10ft)
 DTSTART:20261001T211000Z
 DTEND:20261001T215500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-510pm-555pm-deep-water-moves-wbernad
  ette@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1235,7 +1030,7 @@ BEGIN:VEVENT
 SUMMARY:Cardio Combat w/ Pat @ Main Studio (Lower Level)
 DTSTART:20261001T211500Z
 DTEND:20261001T220000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-515pm-600pm-cardio-combat-w-pat@ymca
  ofcm-7023
 CATEGORIES:Group Exercise
@@ -1250,7 +1045,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Main Studio (Lower Level)
 DTSTART:20261001T221500Z
 DTEND:20261001T230000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-615pm-700pm-zumba@ymcaofcm-7023
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Main Studio (Lower Level)\nL
@@ -1265,7 +1060,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates &amp\; Strength w/Francesca @ SMB Studio (Main Level)
 DTSTART:20261001T221500Z
 DTEND:20261001T231500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-thursday-october-1-2026-615pm-715pm-pilates-amp-strength-wfr
  ancesca@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1282,7 +1077,7 @@ BEGIN:VEVENT
 SUMMARY:Les Mills Body Pump/Core @ Main Studio (Lower Level)
 DTSTART:20261002T093000Z
 DTEND:20261002T103000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-friday-october-2-2026-530am-630am-les-mills-body-pumpcore@ym
  caofcm-7023
 CATEGORIES:Group Exercise
@@ -1298,7 +1093,7 @@ BEGIN:VEVENT
 SUMMARY:Spin Revolution w/ Jill W @ Spin Studio (Lower Level)
 DTSTART:20261002T121500Z
 DTEND:20261002T130000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-friday-october-2-2026-815am-900am-spin-revolution-w-jill-w@y
  mcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1314,7 +1109,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates with Lisa @ SMB Studio (Main Level)
 DTSTART:20261002T121500Z
 DTEND:20261002T130000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-friday-october-2-2026-815am-900am-pilates-with-lisa@ymcaofcm
  -7023
 CATEGORIES:Group Exercise
@@ -1328,7 +1123,7 @@ BEGIN:VEVENT
 SUMMARY:Deep Water Burdenko - 6 Lanes @ Woodbury Pool (3ft-10ft)
 DTSTART:20261002T130000Z
 DTEND:20261002T134500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-friday-october-2-2026-900am-945am-deep-water-burdenko---6-la
  nes@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1344,7 +1139,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Main Studio (Lower Level)
 DTSTART:20261002T131500Z
 DTEND:20261002T140000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-friday-october-2-2026-915am-1000am-zumba@ymcaofcm-7023
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Main Studio (Lower Level)\nL
@@ -1359,7 +1154,7 @@ BEGIN:VEVENT
 SUMMARY:Cuts and Curves w/ Linda @ SMB Studio (Main Level)
 DTSTART:20261002T131500Z
 DTEND:20261002T140000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-friday-october-2-2026-915am-1000am-cuts-and-curves-w-linda@y
  mcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1374,7 +1169,7 @@ BEGIN:VEVENT
 SUMMARY:Body Burn HIIT w/ Tarsha @ HIIT DECK (Wellness Center)
 DTSTART:20261002T133000Z
 DTEND:20261002T141500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-friday-october-2-2026-930am-1015am-body-burn-hiit-w-tarsha@y
  mcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1391,7 +1186,7 @@ BEGIN:VEVENT
 SUMMARY:Rise &amp\; Align Yoga with Walter @ SMB Studio (Main Level)
 DTSTART:20261002T143000Z
 DTEND:20261002T151500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-friday-october-2-2026-1030am-1115am-rise-amp-align-yoga-with
  -walter@ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1406,7 +1201,7 @@ BEGIN:VEVENT
 SUMMARY:Back2Hips with Geoff @ SMB Studio (Main Level)
 DTSTART:20261002T160000Z
 DTEND:20261002T164500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-friday-october-2-2026-1200pm-1245pm-back2hips-with-geoff@ymc
  aofcm-7023
 CATEGORIES:Group Exercise
@@ -1422,7 +1217,7 @@ BEGIN:VEVENT
 SUMMARY:FIrst Step Fitness w/Geoff @ Wellness Center
 DTSTART:20261002T180000Z
 DTEND:20261002T184500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-friday-october-2-2026-200pm-245pm-first-step-fitness-wgeoff@
  ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1440,7 +1235,7 @@ BEGIN:VEVENT
 SUMMARY:Paula&#039\;s Deep Water Class @ Woodbury Pool (3ft-10ft)
 DTSTART:20261002T211500Z
 DTEND:20261002T220000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-friday-october-2-2026-515pm-600pm-paula039s-deep-water-class
  @ymcaofcm-7023
 CATEGORIES:Group Exercise
@@ -1456,7 +1251,7 @@ BEGIN:VEVENT
 SUMMARY:Rhythm Ride w/ Francesca @ Spin Studio (Lower Level)
 DTSTART:20261002T213000Z
 DTEND:20261002T221500Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-friday-october-2-2026-530pm-615pm-rhythm-ride-w-francesca@ym
  caofcm-7023
 CATEGORIES:Group Exercise
@@ -1470,7 +1265,7 @@ BEGIN:VEVENT
 SUMMARY:Yin Yoga w/Paula @ SMB Studio (Main Level)
 DTSTART:20261002T221500Z
 DTEND:20261002T230000Z
-DTSTAMP:20260925T142547Z
+DTSTAMP:20260926T133719Z
 UID:greendale-friday-october-2-2026-615pm-700pm-yin-yoga-wpaula@ymcaofcm-7
  023
 CATEGORIES:Group Exercise
@@ -1481,6 +1276,84 @@ DESCRIPTION:Category: Group Exercise\nStudio: SMB Studio (Main Level)\nEnd
  nd let go.\nBranch: Greendale Family Branch
 LOCATION:SMB Studio (Main Level)\, Greendale Family Branch\, 75 Shore Dr\,
   Worcester\, MA 01605
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Mills Body Combat Rotation @ Main Studio (Lower Level)
+DTSTART:20261003T121500Z
+DTEND:20261003T130000Z
+DTSTAMP:20260926T133719Z
+UID:greendale-saturday-october-3-2026-815am-900am-les-mills-body-combat-ro
+ tation@ymcaofcm-7023
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Main Studio (Lower Level)\nB
+ ranch: Greendale Family Branch
+LOCATION:Main Studio (Lower Level)\, Greendale Family Branch\, 75 Shore Dr
+ \, Worcester\, MA 01605
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cycling /Rotating Instructors @ Spin Studio (Lower Level)
+DTSTART:20261003T123000Z
+DTEND:20261003T131500Z
+DTSTAMP:20260926T133719Z
+UID:greendale-saturday-october-3-2026-830am-915am-cycling-rotating-instruc
+ tors@ymcaofcm-7023
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Spin Studio (Lower Level)\nB
+ ranch: Greendale Family Branch
+LOCATION:Spin Studio (Lower Level)\, Greendale Family Branch\, 75 Shore Dr
+ \, Worcester\, MA 01605
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Power PiYo with Pat D @ SMB Studio (Main Level)
+DTSTART:20261003T131500Z
+DTEND:20261003T141500Z
+DTSTAMP:20260926T133719Z
+UID:greendale-saturday-october-3-2026-915am-1015am-power-piyo-with-pat-d@y
+ mcaofcm-7023
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: SMB Studio (Main Level)\nPiY
+ o is a dynamic workout that combines the core-strengthening benefits of Pi
+ lates with the flexibility and balance of yoga\, all while being low-impac
+ t yet high-intensity. Join Pat in the SMB studio on Saturday mornings for 
+ this amazing workout!\nBranch: Greendale Family Branch
+LOCATION:SMB Studio (Main Level)\, Greendale Family Branch\, 75 Shore Dr\,
+  Worcester\, MA 01605
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gladiator Fitness HIIT w/Geoff @ HIIT DECK (Wellness Center)
+DTSTART:20261003T133000Z
+DTEND:20261003T141500Z
+DTSTAMP:20260926T133719Z
+UID:greendale-saturday-october-3-2026-930am-1015am-gladiator-fitness-hiit-
+ wgeoff@ymcaofcm-7023
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: HIIT DECK (Wellness Center)
+ \nTap into your inner Warrior and take your Fitness to the next level\, wo
+ rking on agility\, strength\, and over all conditioning. Push the barriers
+  within.\nBranch: Greendale Family Branch
+LOCATION:HIIT DECK (Wellness Center)\, Greendale Family Branch\, 75 Shore 
+ Dr\, Worcester\, MA 01605
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Mills BodyPump w/Francesca @ Main Studio (Lower Level)
+DTSTART:20261003T133000Z
+DTEND:20261003T143000Z
+DTSTAMP:20260926T133719Z
+UID:greendale-saturday-october-3-2026-930am-1030am-les-mills-bodypump-wfra
+ ncesca@ymcaofcm-7023
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Main Studio (Lower Level)\nL
+ es Mills BODYPUMP is a group fitness class that combines barbell strength 
+ training with high-energy music. It is a popular workout that provides a f
+ ull-body workout\, building muscle strength and endurance.\nBranch: Greend
+ ale Family Branch
+LOCATION:Main Studio (Lower Level)\, Greendale Family Branch\, 75 Shore Dr
+ \, Worcester\, MA 01605
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
