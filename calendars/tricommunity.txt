@@ -1,9 +1,6 @@
-# Tri-Community Family Branch - 43 Everett St, Southbridge, MA 01550 - 2026-09-26 to 2026-10-02
-# 44 events
+# Tri-Community Family Branch - 43 Everett St, Southbridge, MA 01550 - 2026-09-27 to 2026-10-03
+# 42 events
 
-Sat 09/26 08:00AM - 09:00AM | Cycle Fusion @ Lower Level [Group Exercise]
-Sat 09/26 09:15AM - 10:15AM | Yoga for All @ Lower Level [Group Exercise]
-Sat 09/26 10:00AM - 11:15AM | Strength Training Circuit @ Fitness Center [Group Exercise]
 Sun 09/27 10:00AM - 11:15AM | Strength Training Circuit @ Fitness Center [Group Exercise]
 Mon 09/28 08:00AM - 11:30AM | Group Exercise @ Gym [Group Exercise]
 Mon 09/28 08:15AM - 08:45AM | Water Fitness @ Pool [Group Exercise]
@@ -45,3 +42,4 @@ Fri 10/02 10:00AM - 11:15AM | Strength Training Circuit @ Fitness Center [Group 
 Sat 10/03 08:00AM - 09:00AM | Cycle Fusion @ Lower Level [Group Exercise]
 Sat 10/03 09:15AM - 10:15AM | Yoga for All @ Lower Level [Group Exercise]
 Sat 10/03 10:00AM - 11:15AM | Strength Training Circuit @ Fitness Center [Group Exercise]
+Sun 10/04 10:00AM - 11:15AM | Strength Training Circuit @ Fitness Center [Group Exercise]
