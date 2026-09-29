@@ -1,12 +1,6 @@
-# Tri-Community Family Branch - 43 Everett St, Southbridge, MA 01550 - 2026-09-28 to 2026-10-04
-# 47 events
+# Tri-Community Family Branch - 43 Everett St, Southbridge, MA 01550 - 2026-09-29 to 2026-10-05
+# 52 events
 
-Mon 09/28 08:00AM - 11:30AM | Group Exercise @ Gym [Group Exercise]
-Mon 09/28 08:15AM - 08:45AM | Water Fitness @ Pool [Group Exercise]
-Mon 09/28 09:00AM - 09:45AM | Fit After 50 @ Gym [Group Exercise]
-Mon 09/28 10:00AM - 11:00AM | Progressive Hatha @ Lower Level [Group Exercise]
-Mon 09/28 10:00AM - 11:15AM | Strength Training Circuit @ Fitness Center [Group Exercise]
-Mon 09/28 05:30PM - 06:15PM | Toy Box @ Lower Level [Group Exercise]
 Tue 09/29 06:00AM - 06:45AM | Power Pulse @ Studio 2 [Group Exercise]
 Tue 09/29 06:15AM - 07:00AM | Cycling @ Lower Level [Group Exercise]
 Tue 09/29 08:30AM - 10:30AM | Group Exercise @ Gym [Group Exercise]
@@ -48,3 +42,14 @@ Mon 10/05 09:00AM - 09:45AM | Fit After 50 @ Gym [Group Exercise]
 Mon 10/05 10:00AM - 11:00AM | Progressive Hatha @ Lower Level [Group Exercise]
 Mon 10/05 10:00AM - 11:15AM | Strength Training Circuit @ Fitness Center [Group Exercise]
 Mon 10/05 05:30PM - 06:15PM | Toy Box @ Lower Level [Group Exercise]
+Tue 10/06 06:00AM - 06:45AM | Power Pulse @ Studio 2 [Group Exercise]
+Tue 10/06 06:15AM - 07:00AM | Cycling @ Lower Level [Group Exercise]
+Tue 10/06 08:30AM - 10:30AM | Group Exercise @ Gym [Group Exercise]
+Tue 10/06 08:30AM - 09:30AM | Yoga for All @ Lower Level [Group Exercise]
+Tue 10/06 09:00AM - 10:00AM | Zumba Fusion @ Gym [Group Exercise]
+Tue 10/06 09:00AM - 10:00AM | Water Volleyball @ Pool [Group Exercise]
+Tue 10/06 10:00AM - 11:15AM | Strength Training Circuit @ Fitness Center [Group Exercise]
+Tue 10/06 04:15PM - 05:00PM | Pool Tabata @ Pool [Group Exercise]
+Tue 10/06 04:45PM - 05:30PM | Cycling @ Lower Level [Group Exercise]
+Tue 10/06 05:45PM - 06:45PM | Fitball @ Lower Level [Group Exercise]
+Tue 10/06 06:00PM - 07:00PM | Gentle Yoga @ Studio 2 [Group Exercise]
