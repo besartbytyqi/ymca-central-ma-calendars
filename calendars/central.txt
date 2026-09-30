@@ -1,12 +1,6 @@
-# Central Community Branch - 766 Main St, Worcester, MA 01610 - 2026-09-29 to 2026-10-05
+# Central Community Branch - 766 Main St, Worcester, MA 01610 - 2026-09-30 to 2026-10-06
 # 39 events
 
-Tue 09/29 06:00AM - 07:00AM | Cycling @ Cycling [Group Exercise]
-Tue 09/29 06:30AM - 07:15AM | Express 45 @ Studio A [Group Exercise]
-Tue 09/29 08:00AM - 09:00AM | Mobility Training @ Studio A [Group Exercise]
-Tue 09/29 09:00AM - 09:45AM | Aqua Stretch and Flex @ Small Pool [Group Exercise]
-Tue 09/29 06:00PM - 08:30PM | Boxing Open Gym @ Boxing Room [Group Exercise]
-Tue 09/29 06:00PM - 07:00PM | CANCELED: Cycling @ Studio C [Group Exercise]
 Wed 09/30 06:30AM - 07:15AM | Express 45 @ Studio A [Group Exercise]
 Wed 09/30 08:15AM - 09:15AM | Yoga @ Studio A [Group Exercise]
 Wed 09/30 09:00AM - 09:45AM | Aqua Stretch and Flex @ Small Pool [Group Exercise]
@@ -40,3 +34,9 @@ Tue 10/06 09:00AM - 09:45AM | Aqua Stretch and Flex @ Small Pool [Group Exercise
 Tue 10/06 06:00PM - 08:30PM | Boxing Open Gym @ Boxing Room [Group Exercise]
 Tue 10/06 06:00PM - 07:00PM | Cycling @ Studio C [Group Exercise]
 Tue 10/06 06:00PM - 07:30PM | Line Dance! @ Studio A [Group Exercise]
+Wed 10/07 06:30AM - 07:15AM | Express 45 @ Studio A [Group Exercise]
+Wed 10/07 08:15AM - 09:15AM | Yoga @ Studio A [Group Exercise]
+Wed 10/07 09:00AM - 09:45AM | Aqua Stretch and Flex @ Small Pool [Group Exercise]
+Wed 10/07 05:00PM - 06:00PM | HIIT @ Studio A [Group Exercise]
+Wed 10/07 06:45PM - 07:45PM | Zumba @ Studio A [Group Exercise]
+Wed 10/07 07:00PM - 08:30PM | Boxing Open Gym @ Boxing Room [Group Exercise]
