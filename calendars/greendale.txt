@@ -1,11 +1,6 @@
-# Greendale Family Branch - 75 Shore Dr, Worcester, MA 01605 - 2026-10-03 to 2026-10-09
-# 84 events
+# Greendale Family Branch - 75 Shore Dr, Worcester, MA 01605 - 2026-10-04 to 2026-10-10
+# 80 events
 
-Sat 10/03 08:15AM - 09:00AM | Les Mills Body Combat Rotation @ Main Studio (Lower Level) [Group Exercise]
-Sat 10/03 08:30AM - 09:15AM | Cycling /Rotating Instructors @ Spin Studio (Lower Level) [Group Exercise]
-Sat 10/03 09:15AM - 10:15AM | Power PiYo with Pat D @ SMB Studio (Main Level) [Group Exercise]
-Sat 10/03 09:30AM - 10:15AM | Gladiator Fitness HIIT w/Geoff @ HIIT DECK (Wellness Center) [Group Exercise]
-Sat 10/03 09:30AM - 10:30AM | Les Mills BodyPump w/Francesca @ Main Studio (Lower Level) [Group Exercise]
 Sun 10/04 09:30AM - 10:30AM | Pilates with Pat D. @ SMB Studio (Main Level) [Group Exercise]
 Mon 10/05 05:30AM - 06:30AM | Les Mills Body Pump w/Theresa @ Main Studio (Lower Level) [Group Exercise]
 Mon 10/05 08:15AM - 09:00AM | Spin Revolution w/ Jill W @ Spin Studio (Lower Level) [Group Exercise]
@@ -85,3 +80,4 @@ Sat 10/10 08:30AM - 09:15AM | Cycling /Rotating Instructors @ Spin Studio (Lower
 Sat 10/10 09:15AM - 10:15AM | Power PiYo with Pat D @ SMB Studio (Main Level) [Group Exercise]
 Sat 10/10 09:30AM - 10:15AM | Gladiator Fitness HIIT w/Geoff @ HIIT DECK (Wellness Center) [Group Exercise]
 Sat 10/10 09:30AM - 10:30AM | Les Mills BodyPump w/Francesca @ Main Studio (Lower Level) [Group Exercise]
+Sun 10/11 09:30AM - 10:30AM | Pilates with Pat D. @ SMB Studio (Main Level) [Group Exercise]
