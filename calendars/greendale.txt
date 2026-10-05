@@ -1,7 +1,6 @@
-# Greendale Family Branch - 75 Shore Dr, Worcester, MA 01605 - 2026-10-04 to 2026-10-10
-# 80 events
+# Greendale Family Branch - 75 Shore Dr, Worcester, MA 01605 - 2026-10-05 to 2026-10-11
+# 93 events
 
-Sun 10/04 09:30AM - 10:30AM | Pilates with Pat D. @ SMB Studio (Main Level) [Group Exercise]
 Mon 10/05 05:30AM - 06:30AM | Les Mills Body Pump w/Theresa @ Main Studio (Lower Level) [Group Exercise]
 Mon 10/05 08:15AM - 09:00AM | Spin Revolution w/ Jill W @ Spin Studio (Lower Level) [Group Exercise]
 Mon 10/05 08:15AM - 09:15AM | Morning Movement and Flow @ SMB Studio (Main Level) [Group Exercise]
@@ -16,7 +15,7 @@ Mon 10/05 05:15PM - 06:00PM | Cycling with Paul @ Spin Studio (Lower Level) [Gro
 Mon 10/05 05:15PM - 06:00PM | Zumba + Lift with Linda K @ Main Studio (Lower Level) [Group Exercise]
 Mon 10/05 06:15PM - 07:15PM | Les Mills Body Pump w/Victoria @ Main Studio (Lower Level) [Group Exercise]
 Mon 10/05 06:15PM - 07:00PM | Hatha Flow w/Paula @ SMB Studio (Main Level) [Group Exercise]
-Tue 10/06 05:30AM - 06:15AM | Cycling /Rotating Instructors @ Spin Studio (Lower Level) [Group Exercise]
+Tue 10/06 05:30AM - 06:15AM | CANCELED: Cycling /Rotating Instructors @ Spin Studio (Lower Level) [Group Exercise]
 Tue 10/06 08:15AM - 09:00AM | RowFit w/ Jill W @ HIIT DECK (Wellness Center) [Group Exercise]
 Tue 10/06 08:30AM - 09:30AM | Dance and Tone w/ Sue @ Main Studio (Lower Level) [Group Exercise]
 Tue 10/06 09:15AM - 10:00AM | Mobility with Jill Andros @ HIIT DECK (Wellness Center) [Group Exercise]
@@ -81,3 +80,17 @@ Sat 10/10 09:15AM - 10:15AM | Power PiYo with Pat D @ SMB Studio (Main Level) [G
 Sat 10/10 09:30AM - 10:15AM | Gladiator Fitness HIIT w/Geoff @ HIIT DECK (Wellness Center) [Group Exercise]
 Sat 10/10 09:30AM - 10:30AM | Les Mills BodyPump w/Francesca @ Main Studio (Lower Level) [Group Exercise]
 Sun 10/11 09:30AM - 10:30AM | Pilates with Pat D. @ SMB Studio (Main Level) [Group Exercise]
+Mon 10/12 05:30AM - 06:30AM | Les Mills Body Pump w/Theresa @ Main Studio (Lower Level) [Group Exercise]
+Mon 10/12 08:15AM - 09:00AM | Spin Revolution w/ Jill W @ Spin Studio (Lower Level) [Group Exercise]
+Mon 10/12 08:15AM - 09:15AM | Morning Movement and Flow @ SMB Studio (Main Level) [Group Exercise]
+Mon 10/12 09:00AM - 09:45AM | Deep Water Burdenko - 6 Lanes @ Woodbury Pool (3ft-10ft) [Group Exercise]
+Mon 10/12 09:15AM - 10:00AM | Les Mills Body Pump w/ Tori @ Main Studio (Lower Level) [Group Exercise]
+Mon 10/12 09:30AM - 10:15AM | Body Burn HIIT w/ Tarsha @ HIIT DECK (Wellness Center) [Group Exercise]
+Mon 10/12 09:45AM - 10:30AM | Aqua Flow @ Alden Pool (4ft) [Group Exercise]
+Mon 10/12 10:30AM - 11:15AM | Now and Zen w/ Tarsha @ SMB Studio (Main Level) [Group Exercise]
+Mon 10/12 12:00PM - 12:45PM | Cuddle &amp; Flow w/Lisa +Landon @ SMB Studio (Main Level) [Group Exercise]
+Mon 10/12 12:00PM - 12:45PM | FIrst Step Fitness w/Geoff @ Wellness Center [Group Exercise]
+Mon 10/12 05:15PM - 06:00PM | Cycling with Paul @ Spin Studio (Lower Level) [Group Exercise]
+Mon 10/12 05:15PM - 06:00PM | Zumba + Lift with Linda K @ Main Studio (Lower Level) [Group Exercise]
+Mon 10/12 06:15PM - 07:15PM | Les Mills Body Pump w/Victoria @ Main Studio (Lower Level) [Group Exercise]
+Mon 10/12 06:15PM - 07:00PM | Hatha Flow w/Paula @ SMB Studio (Main Level) [Group Exercise]

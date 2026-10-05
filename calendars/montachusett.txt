@@ -1,5 +1,5 @@
-# Montachusett Community Branch - 55 Wallace Ave, Fitchburg, MA 01420 - 2026-10-04 to 2026-10-10
-# 17 events
+# Montachusett Community Branch - 55 Wallace Ave, Fitchburg, MA 01420 - 2026-10-05 to 2026-10-11
+# 21 events
 
 Mon 10/05 08:00AM - 09:00AM | Yoga @ Community Room [Group Exercise]
 Mon 10/05 09:15AM - 10:15AM | Chair Yoga @ Gymnasium [Group Exercise]
@@ -18,3 +18,7 @@ Thu 10/08 10:30AM - 11:30AM | Water Fit @ Pool [Group Exercise]
 Thu 10/08 10:30AM - 11:30AM | LIVESTRONG @ Lower Studio [Group Exercise]
 Thu 10/08 10:45AM - 11:30AM | Water Fit @ Pool [Group Exercise]
 Fri 10/09 09:15AM - 10:15AM | SilverSneakers @ Gymnasium [Group Exercise]
+Mon 10/12 08:00AM - 09:00AM | Yoga @ Community Room [Group Exercise]
+Mon 10/12 09:15AM - 10:15AM | Chair Yoga @ Gymnasium [Group Exercise]
+Mon 10/12 10:30AM - 11:30AM | Water Fit @ Pool [Group Exercise]
+Mon 10/12 06:00PM - 07:00PM | Total Strength @ Lower Studio [Group Exercise]
