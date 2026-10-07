@@ -8,60 +8,10 @@ DESCRIPTION:Schedule for Montachusett Community Branch - 55 Wallace Ave\,
 X-WR-CALNAME:YMCA - Montachusett Community Branch
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:A.Y.A. @ Gymnasium
-DTSTART:20261006T131500Z
-DTEND:20261006T141500Z
-DTSTAMP:20261006T154135Z
-UID:montachusett-tuesday-october-6-2026-915am-1015am-aya@ymcaofcm-7025
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Gymnasium\nFrom a chair\, en
- joy a high energy workout tailored for seniors that utilizes lightly weigh
- ted drumsticks. Engage in fun and accessible movements inspired by Pound\,
-  blending gentle cardio\, strength training\, and rhythmic exercises.\nBra
- nch: Montachusett Community Branch
-LOCATION:Gymnasium\, Montachusett Community Branch\, 55 Wallace Ave\, Fitc
- hburg\, MA 01420
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Water Fit @ Pool
-DTSTART:20261006T143000Z
-DTEND:20261006T153000Z
-DTSTAMP:20261006T154135Z
-UID:montachusett-tuesday-october-6-2026-1030am-1130am-water-fit@ymcaofcm-7
- 025
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Pool\nIncorporate stretching
- \, toning\, muscle strengthening and cardiovascular exercises using water 
- resistance and other equipment. Ability to swim is not required.\nBranch: 
- Montachusett Community Branch
-LOCATION:Pool\, Montachusett Community Branch\, 55 Wallace Ave\, Fitchburg
- \, MA 01420
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sculpt with Pat D @ Upper Studio
-DTSTART:20261006T213000Z
-DTEND:20261006T223000Z
-DTSTAMP:20261006T154135Z
-UID:montachusett-tuesday-october-6-2026-530pm-630pm-sculpt-with-pat-d@ymca
- ofcm-7025
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Upper Studio\nJoin Pat on Tu
- esdays in the main studio for a dynamic full-body strength workout combini
- ng Pilates and yoga principles\, designed to tone\, tighten\, and transfor
- m your muscles while improving endurance\, enhancing core stability\, and 
- promoting flexibility and mindfulness.\nBranch: Montachusett Community Bra
- nch
-LOCATION:Upper Studio\, Montachusett Community Branch\, 55 Wallace Ave\, F
- itchburg\, MA 01420
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yoga @ Community Room
 DTSTART:20261007T120000Z
 DTEND:20261007T130000Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-wednesday-october-7-2026-800am-900am-yoga@ymcaofcm-7025
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Community Room\nThis mixed-l
@@ -76,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:SilverSneakers @ Gymnasium
 DTSTART:20261007T131500Z
 DTEND:20261007T141500Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-wednesday-october-7-2026-915am-1015am-silversneakers@ymca
  ofcm-7025
 CATEGORIES:Group Exercise
@@ -93,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit @ Pool
 DTSTART:20261007T143000Z
 DTEND:20261007T153000Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-wednesday-october-7-2026-1030am-1130am-water-fit@ymcaofcm
  -7025
 CATEGORIES:Group Exercise
@@ -109,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:POUND @ Community Room
 DTSTART:20261007T220000Z
 DTEND:20261007T224500Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-wednesday-october-7-2026-600pm-645pm-pound@ymcaofcm-7025
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Community Room\nUse lightly 
@@ -125,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba Gold @ Upper Studio
 DTSTART:20261008T131500Z
 DTEND:20261008T141500Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-thursday-october-8-2026-915am-1015am-zumba-gold@ymcaofcm-
  7025
 CATEGORIES:Group Exercise
@@ -141,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:SilverSneakers Stability @ Gymnasium
 DTSTART:20261008T131500Z
 DTEND:20261008T141500Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-thursday-october-8-2026-915am-1015am-silversneakers-stabi
  lity@ymcaofcm-7025
 CATEGORIES:Group Exercise
@@ -158,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit @ Pool
 DTSTART:20261008T143000Z
 DTEND:20261008T153000Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-thursday-october-8-2026-1030am-1130am-water-fit@ymcaofcm-
  7025
 CATEGORIES:Group Exercise
@@ -174,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:LIVESTRONG @ Lower Studio
 DTSTART:20261008T143000Z
 DTEND:20261008T153000Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-thursday-october-8-2026-1030am-1130am-livestrong@ymcaofcm
  -7025
 CATEGORIES:Group Exercise
@@ -191,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit @ Pool
 DTSTART:20261008T144500Z
 DTEND:20261008T153000Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-thursday-october-8-2026-1045am-1130am-water-fit@ymcaofcm-
  7025
 CATEGORIES:Group Exercise
@@ -207,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:SilverSneakers @ Gymnasium
 DTSTART:20261009T131500Z
 DTEND:20261009T141500Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-friday-october-9-2026-915am-1015am-silversneakers@ymcaofc
  m-7025
 CATEGORIES:Group Exercise
@@ -224,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga @ Community Room
 DTSTART:20261012T120000Z
 DTEND:20261012T130000Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-monday-october-12-2026-800am-900am-yoga@ymcaofcm-7025
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Community Room\nThis mixed-l
@@ -239,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Chair Yoga @ Gymnasium
 DTSTART:20261012T131500Z
 DTEND:20261012T141500Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-monday-october-12-2026-915am-1015am-chair-yoga@ymcaofcm-7
  025
 CATEGORIES:Group Exercise
@@ -255,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit @ Pool
 DTSTART:20261012T143000Z
 DTEND:20261012T153000Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-monday-october-12-2026-1030am-1130am-water-fit@ymcaofcm-7
  025
 CATEGORIES:Group Exercise
@@ -271,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:Total Strength @ Lower Studio
 DTSTART:20261012T220000Z
 DTEND:20261012T230000Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-monday-october-12-2026-600pm-700pm-total-strength@ymcaofc
  m-7025
 CATEGORIES:Group Exercise
@@ -288,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:A.Y.A. @ Gymnasium
 DTSTART:20261013T131500Z
 DTEND:20261013T141500Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-tuesday-october-13-2026-915am-1015am-aya@ymcaofcm-7025
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Gymnasium\nFrom a chair\, en
@@ -304,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:Water Fit @ Pool
 DTSTART:20261013T143000Z
 DTEND:20261013T153000Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-tuesday-october-13-2026-1030am-1130am-water-fit@ymcaofcm-
  7025
 CATEGORIES:Group Exercise
@@ -320,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:Sculpt with Pat D @ Upper Studio
 DTSTART:20261013T213000Z
 DTEND:20261013T223000Z
-DTSTAMP:20261006T154135Z
+DTSTAMP:20261007T160529Z
 UID:montachusett-tuesday-october-13-2026-530pm-630pm-sculpt-with-pat-d@ymc
  aofcm-7025
 CATEGORIES:Group Exercise
@@ -332,6 +282,70 @@ DESCRIPTION:Category: Group Exercise\nStudio: Upper Studio\nJoin Pat on Tu
  nch
 LOCATION:Upper Studio\, Montachusett Community Branch\, 55 Wallace Ave\, F
  itchburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga @ Community Room
+DTSTART:20261014T120000Z
+DTEND:20261014T130000Z
+DTSTAMP:20261007T160529Z
+UID:montachusett-wednesday-october-14-2026-800am-900am-yoga@ymcaofcm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Community Room\nThis mixed-l
+ evel class includes breathing\, centering\, sun salutations\, poses\, stre
+ tches and a final relaxation/meditation.\nBranch: Montachusett Community B
+ ranch
+LOCATION:Community Room\, Montachusett Community Branch\, 55 Wallace Ave\,
+  Fitchburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SilverSneakers @ Gymnasium
+DTSTART:20261014T131500Z
+DTEND:20261014T141500Z
+DTSTAMP:20261007T160529Z
+UID:montachusett-wednesday-october-14-2026-915am-1015am-silversneakers@ymc
+ aofcm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Gymnasium\nHave fun and move
+  to the music through a variety of exercises designed to increase muscular
+  strength\, range of motion and activity for daily living skills. A chair 
+ is used for seated and/or standing support. Weights and bands are optional
+ .\nBranch: Montachusett Community Branch
+LOCATION:Gymnasium\, Montachusett Community Branch\, 55 Wallace Ave\, Fitc
+ hburg\, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Water Fit @ Pool
+DTSTART:20261014T143000Z
+DTEND:20261014T153000Z
+DTSTAMP:20261007T160529Z
+UID:montachusett-wednesday-october-14-2026-1030am-1130am-water-fit@ymcaofc
+ m-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Pool\nIncorporate stretching
+ \, toning\, muscle strengthening and cardiovascular exercises using water 
+ resistance and other equipment. Ability to swim is not required.\nBranch: 
+ Montachusett Community Branch
+LOCATION:Pool\, Montachusett Community Branch\, 55 Wallace Ave\, Fitchburg
+ \, MA 01420
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POUND @ Community Room
+DTSTART:20261014T220000Z
+DTEND:20261014T224500Z
+DTSTAMP:20261007T160529Z
+UID:montachusett-wednesday-october-14-2026-600pm-645pm-pound@ymcaofcm-7025
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Community Room\nUse lightly 
+ weighted drumsticks to transform drumming into a fun and effective workout
+ ! Be prepared to find your inner rockstar in this full body workout that c
+ ombines cardio and strength training with yoga and Pilates inspired moveme
+ nts.\nBranch: Montachusett Community Branch
+LOCATION:Community Room\, Montachusett Community Branch\, 55 Wallace Ave\,
+  Fitchburg\, MA 01420
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
