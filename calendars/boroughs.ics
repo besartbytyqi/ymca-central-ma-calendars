@@ -8,179 +8,10 @@ DESCRIPTION:Schedule for Boroughs Family Branch - 4 Valente Drive\, Westbo
 X-WR-CALNAME:YMCA - Boroughs Family Branch
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Pilates @ Studio 1
-DTSTART:20261009T094500Z
-DTEND:20261009T103000Z
-DTSTAMP:20261009T154938Z
-UID:boroughs-friday-october-9-2026-545am-630am-pilates@ymcaofcm-7021
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nStrengthen your co
- re\, work on shoulder & hip mobility as well as balance & flexibility thro
- ugh sequences combining traditional and non-traditional Pilates moves. 60 
- minutes\nBranch: Boroughs Family Branch
-LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
- \, MA 01581
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Group Cycling @ Cycling Studio
-DTSTART:20261009T094500Z
-DTEND:20261009T103000Z
-DTSTAMP:20261009T154938Z
-UID:boroughs-friday-october-9-2026-545am-630am-group-cycling@ymcaofcm-7021
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Cycling Studio\nIndoor cycli
- ng class\, led by a certified instructor.\nBranch: Boroughs Family Branch
-LOCATION:Cycling Studio\, Boroughs Family Branch\, 4 Valente Drive\, Westb
- orough\, MA 01581
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Morning Muscle: LIIT @ Studio 1
-DTSTART:20261009T104500Z
-DTEND:20261009T111500Z
-DTSTAMP:20261009T154938Z
-UID:boroughs-friday-october-9-2026-645am-715am-morning-muscle-liit@ymcaofc
- m-7021
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nLow-intensity inte
- rval training consists of higher and lower intensity intervals &ndash\; ju
- st like HIIT\, except that the difference between the higher and lower isn
- &rsquo\;t as intense. Think of LIIT as a jog and HIIT as a sprint. Featuri
- ng balance\, core flexibility\, and cardiovascular training using mats\, c
- hairs\, bands\, weights\, and balls\, join this fun low-intensity interval
-  training class tailored for all ages and abilities.\nBranch: Boroughs Fam
- ily Branch
-LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
- \, MA 01581
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aqua Fit @ Indoor Pool
-DTSTART:20261009T120000Z
-DTEND:20261009T130000Z
-DTSTAMP:20261009T154938Z
-UID:boroughs-friday-october-9-2026-800am-900am-aqua-fit@ymcaofcm-7021
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Indoor Pool\nThis low-impact
-  class is performed in water and is designed to improve joint stability\, 
- coordination\, and strength. The class will incorporate cardio.\nBranch: B
- oroughs Family Branch
-LOCATION:Indoor Pool\, Boroughs Family Branch\, 4 Valente Drive\, Westboro
- ugh\, MA 01581
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Power Vinyasa Yoga @ Studio 2
-DTSTART:20261009T120000Z
-DTEND:20261009T130000Z
-DTSTAMP:20261009T154938Z
-UID:boroughs-friday-october-9-2026-800am-900am-power-vinyasa-yoga@ymcaofcm
- -7021
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nPower Vinyasa Yoga
-  moves at a moderate pace\, linking breath and movement to strengthen your
-  mind-body connection. You&rsquo\;ll learn variations for all poses\, maki
- ng the class approachable for all levels. All classes include elements of 
- strength\, endurance\, stillness and reflection. Previous yoga experience 
- helpful\, but not required. Class is appropriate for all levels.\nBranch: 
- Boroughs Family Branch
-LOCATION:Studio 2\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
- \, MA 01581
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kick Bootcamp @ Studio 1
-DTSTART:20261009T131500Z
-DTEND:20261009T141500Z
-DTSTAMP:20261009T154938Z
-UID:boroughs-friday-october-9-2026-915am-1015am-kick-bootcamp@ymcaofcm-702
- 1
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nThis is the perfec
- t storm of kickboxing and boot camp! A high energy and high intensity clas
- s combining elements of boxing and martial arts with traditional calisthen
- ics\, interval and strength training. Designed to improve overall enduranc
- e and strength!\nBranch: Boroughs Family Branch
-LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
- \, MA 01581
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kripalu Vinyasa Yoga @ Studio 2
-DTSTART:20261009T143000Z
-DTEND:20261009T153000Z
-DTSTAMP:20261009T154938Z
-UID:boroughs-friday-october-9-2026-1030am-1130am-kripalu-vinyasa-yoga@ymca
- ofcm-7021
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nAll are welcome! B
- reathe\, move and be still by cultivating self-compassion\, acceptance and
-  awareness. Students will build strength and increase range of motion usin
- g fluid movement\, breath and energy. Connect your body\, heart and mind. 
- As a beginner or seasoned practitioner\, this class offers the freedom to 
- personalize\, explore\, build and grow your practice on and off the mat.\n
- Branch: Boroughs Family Branch
-LOCATION:Studio 2\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
- \, MA 01581
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SilverSneakers @ Studio 1
-DTSTART:20261009T143000Z
-DTEND:20261009T153000Z
-DTSTAMP:20261009T154938Z
-UID:boroughs-friday-october-9-2026-1030am-1130am-silversneakers@ymcaofcm-7
- 021
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nHave fun and move 
- to the music through a variety of exercises designed to increase muscular 
- strength\, range of motion and activity for daily living skills. A chair i
- s used for seated and/or standing support. Weights and bands are optional.
- \nBranch: Boroughs Family Branch
-LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
- \, MA 01581
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Assisted Yoga @ Studio 1
-DTSTART:20261009T153000Z
-DTEND:20261009T162500Z
-DTSTAMP:20261009T154938Z
-UID:boroughs-friday-october-9-2026-1130am-1225pm-chair-assisted-yoga@ymcao
- fcm-7021
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nThis adaptable yog
- a class combines the aid of a chair with traditional seated and standing p
- oses to build strength\, balance\, flexibility\, and mindfulness. Using th
- e chair both as a seat and as a stability tool\, participants move through
-  a well-rounded practice that includes seated stretches\, standing poses w
- ith chair support for balance\, and gentle flows designed to improve range
-  of motion and circulation.\nBranch: Boroughs Family Branch
-LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
- \, MA 01581
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba @ Studio 1
-DTSTART:20261009T224500Z
-DTEND:20261009T234500Z
-DTSTAMP:20261009T154938Z
-UID:boroughs-friday-october-9-2026-645pm-745pm-zumba@ymcaofcm-7021
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nLatin-inspired dan
- ce sure to get your heart pumping! This is a non-verbal form of group exer
- cise. Instructors demonstrate repetitive combinations along with inspiring
-  music choices.\nBranch: Boroughs Family Branch
-LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
- \, MA 01581
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Group Cycling @ Cycling Studio
 DTSTART:20261010T110000Z
 DTEND:20261010T120000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-saturday-october-10-2026-700am-800am-group-cycling@ymcaofcm-7
  021
 CATEGORIES:Group Exercise
@@ -194,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga @ Studio 2
 DTSTART:20261010T121500Z
 DTEND:20261010T131500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-saturday-october-10-2026-815am-915am-yoga@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nThis mixed-level c
@@ -208,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Group Cycling @ Cycling Studio
 DTSTART:20261010T123000Z
 DTEND:20261010T133000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-saturday-october-10-2026-830am-930am-group-cycling@ymcaofcm-7
  021
 CATEGORIES:Group Exercise
@@ -222,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Mat PiYo Core @ Studio 1
 DTSTART:20261010T124500Z
 DTEND:20261010T134500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-saturday-october-10-2026-845am-945am-mat-piyo-core@ymcaofcm-7
  021
 CATEGORIES:Group Exercise
@@ -240,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Muscle Conditioning @ Studio 1
 DTSTART:20261010T140000Z
 DTEND:20261010T150000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-saturday-october-10-2026-1000am-1100am-muscle-conditioning@ym
  caofcm-7021
 CATEGORIES:Group Exercise
@@ -257,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Studio 2
 DTSTART:20261010T140000Z
 DTEND:20261010T150000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-saturday-october-10-2026-1000am-1100am-zumba@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nLatin-inspired dan
@@ -272,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates Barre @ Studio 1
 DTSTART:20261010T151500Z
 DTEND:20261010T164500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-saturday-october-10-2026-1115am-1245pm-pilates-barre@ymcaofcm
  -7021
 CATEGORIES:Group Exercise
@@ -293,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Yoga @ Studio 2
 DTSTART:20261011T123000Z
 DTEND:20261011T133000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-sunday-october-11-2026-830am-930am-vinyasa-yoga@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nFlow class linking
@@ -310,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Tabata @ Studio 1
 DTSTART:20261011T131500Z
 DTEND:20261011T141500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-sunday-october-11-2026-915am-1015am-tabata@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nWhole body\, High 
@@ -326,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Studio 1
 DTSTART:20261011T150000Z
 DTEND:20261011T160000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-sunday-october-11-2026-1100am-1200pm-zumba@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nLatin-inspired dan
@@ -341,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Muscle Conditioning @ Studio 1
 DTSTART:20261012T094500Z
 DTEND:20261012T103000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-545am-630am-muscle-conditioning@ymcaof
  cm-7021
 CATEGORIES:Group Exercise
@@ -358,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Group Cycling @ Cycling Studio
 DTSTART:20261012T094500Z
 DTEND:20261012T103000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-545am-630am-group-cycling@ymcaofcm-702
  1
 CATEGORIES:Group Exercise
@@ -372,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:Morning Muscle: LIIT @ Studio 1
 DTSTART:20261012T104500Z
 DTEND:20261012T111500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-645am-715am-morning-muscle-liit@ymcaof
  cm-7021
 CATEGORIES:Group Exercise
@@ -392,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Fit @ Indoor Pool
 DTSTART:20261012T120000Z
 DTEND:20261012T130000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-800am-900am-aqua-fit@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Indoor Pool\nThis low-impact
@@ -407,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Metabolic Conditioning @ Studio 1
 DTSTART:20261012T123000Z
 DTEND:20261012T131500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-830am-915am-metabolic-conditioning@ymc
  aofcm-7021
 CATEGORIES:Group Exercise
@@ -422,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:Slow Flow Yoga @ Studio 1
 DTSTART:20261012T131500Z
 DTEND:20261012T140000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-915am-1000am-slow-flow-yoga@ymcaofcm-7
  021
 CATEGORIES:Group Exercise
@@ -439,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:Group Cycling @ Cycling Studio
 DTSTART:20261012T131500Z
 DTEND:20261012T141500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-915am-1015am-group-cycling@ymcaofcm-70
  21
 CATEGORIES:Group Exercise
@@ -453,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:Core Fusion @ Studio 2
 DTSTART:20261012T142500Z
 DTEND:20261012T145500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-1025am-1055am-core-fusion@ymcaofcm-702
  1
 CATEGORIES:Group Exercise
@@ -469,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:SilverSneakers @ Studio 1
 DTSTART:20261012T143000Z
 DTEND:20261012T153000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-1030am-1130am-silversneakers@ymcaofcm-
  7021
 CATEGORIES:Group Exercise
@@ -486,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Adaptive Total Body Cond. @ Studio 1
 DTSTART:20261012T160000Z
 DTEND:20261012T170000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-1200pm-100pm-adaptive-total-body-cond@
  ymcaofcm-7021
 CATEGORIES:Group Exercise
@@ -502,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Total Body Cond. @ Studio 1
 DTSTART:20261012T203000Z
 DTEND:20261012T211500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-430pm-515pm-total-body-cond@ymcaofcm-7
  021
 CATEGORIES:Group Exercise
@@ -521,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:Restorative Yoga @ Studio 2
 DTSTART:20261012T213000Z
 DTEND:20261012T223000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-530pm-630pm-restorative-yoga@ymcaofcm-
  7021
 CATEGORIES:Group Exercise
@@ -536,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:Sports Cond. @ Studio 1
 DTSTART:20261012T213500Z
 DTEND:20261012T223500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-535pm-635pm-sports-cond@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nMusic based athlet
@@ -551,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:Bollywood Dance @ Studio 1
 DTSTART:20261012T224500Z
 DTEND:20261012T234500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-645pm-745pm-bollywood-dance@ymcaofcm-7
  021
 CATEGORIES:Group Exercise
@@ -568,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:High Intensity Zumba @ Studio 2
 DTSTART:20261012T224500Z
 DTEND:20261012T234500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-monday-october-12-2026-645pm-745pm-high-intensity-zumba@ymcao
  fcm-7021
 CATEGORIES:Group Exercise
@@ -585,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga @ Studio 2
 DTSTART:20261013T094500Z
 DTEND:20261013T104500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-tuesday-october-13-2026-545am-645am-yoga@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nThis mixed-level c
@@ -599,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Group Cycling @ Cycling Studio
 DTSTART:20261013T094500Z
 DTEND:20261013T103000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-tuesday-october-13-2026-545am-630am-group-cycling@ymcaofcm-70
  21
 CATEGORIES:Group Exercise
@@ -613,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:20/20/20 @ Studio 1
 DTSTART:20261013T120000Z
 DTEND:20261013T130000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-tuesday-october-13-2026-800am-900am-202020@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nNO RESERVATION NEE
@@ -627,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga @ Studio 2
 DTSTART:20261013T120000Z
 DTEND:20261013T130000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-tuesday-october-13-2026-800am-900am-yoga@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nThis mixed-level c
@@ -641,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:Kickboxing @ Studio 1
 DTSTART:20261013T131500Z
 DTEND:20261013T141500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-tuesday-october-13-2026-915am-1015am-kickboxing@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nNO RESERVATION NEE
@@ -656,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:Barre @ Studio 2
 DTSTART:20261013T131500Z
 DTEND:20261013T141500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-tuesday-october-13-2026-915am-1015am-barre@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nBarre is an invigo
@@ -672,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:SilverSneakers @ Studio 1
 DTSTART:20261013T143000Z
 DTEND:20261013T153000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-tuesday-october-13-2026-1030am-1130am-silversneakers@ymcaofcm
  -7021
 CATEGORIES:Group Exercise
@@ -689,7 +520,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Fit @ Indoor Pool
 DTSTART:20261013T153000Z
 DTEND:20261013T163000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-tuesday-october-13-2026-1130am-1230pm-aqua-fit@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Indoor Pool\nThis low-impact
@@ -704,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Tai Chi @ Studio 3
 DTSTART:20261013T213000Z
 DTEND:20261013T223000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-tuesday-october-13-2026-530pm-630pm-tai-chi@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 3\nNo Reservation Nee
@@ -721,7 +552,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates @ Studio 2
 DTSTART:20261013T213000Z
 DTEND:20261013T223000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-tuesday-october-13-2026-530pm-630pm-pilates@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nStrengthen your co
@@ -736,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:20/20/20 @ Studio 1
 DTSTART:20261013T213000Z
 DTEND:20261013T223000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-tuesday-october-13-2026-530pm-630pm-202020@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nNO RESERVATION NEE
@@ -750,7 +581,7 @@ BEGIN:VEVENT
 SUMMARY:Group Cycling @ Cycling Studio
 DTSTART:20261013T220000Z
 DTEND:20261013T230000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-tuesday-october-13-2026-600pm-700pm-group-cycling@ymcaofcm-70
  21
 CATEGORIES:Group Exercise
@@ -764,7 +595,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Studio 1
 DTSTART:20261013T224500Z
 DTEND:20261013T234500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-tuesday-october-13-2026-645pm-745pm-zumba@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nLatin-inspired dan
@@ -779,7 +610,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga @ Studio 2
 DTSTART:20261013T224500Z
 DTEND:20261013T234500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-tuesday-october-13-2026-645pm-745pm-yoga@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nThis mixed-level c
@@ -793,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:Muscle Conditioning @ Studio 1
 DTSTART:20261014T094500Z
 DTEND:20261014T103000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-wednesday-october-14-2026-545am-630am-muscle-conditioning@ymc
  aofcm-7021
 CATEGORIES:Group Exercise
@@ -810,7 +641,7 @@ BEGIN:VEVENT
 SUMMARY:Group Cycling @ Cycling Studio
 DTSTART:20261014T094500Z
 DTEND:20261014T103000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-wednesday-october-14-2026-545am-630am-group-cycling@ymcaofcm-
  7021
 CATEGORIES:Group Exercise
@@ -824,7 +655,7 @@ BEGIN:VEVENT
 SUMMARY:Morning Muscle: LIIT @ Studio 1
 DTSTART:20261014T104500Z
 DTEND:20261014T111500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-wednesday-october-14-2026-645am-715am-morning-muscle-liit@ymc
  aofcm-7021
 CATEGORIES:Group Exercise
@@ -844,7 +675,7 @@ BEGIN:VEVENT
 SUMMARY:Bootcamp @ Studio 1
 DTSTART:20261014T120000Z
 DTEND:20261014T130000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-wednesday-october-14-2026-800am-900am-bootcamp@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nA full body fitnes
@@ -860,7 +691,7 @@ BEGIN:VEVENT
 SUMMARY:Bootcamp @ Studio 1
 DTSTART:20261014T131500Z
 DTEND:20261014T141500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-wednesday-october-14-2026-915am-1015am-bootcamp@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nA full body fitnes
@@ -876,7 +707,7 @@ BEGIN:VEVENT
 SUMMARY:Yin Gold @ Studio 2
 DTSTART:20261014T131500Z
 DTEND:20261014T141500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-wednesday-october-14-2026-915am-1015am-yin-gold@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nYin Yoga Gold is a
@@ -892,7 +723,7 @@ BEGIN:VEVENT
 SUMMARY:SilverSneakers @ Studio 1
 DTSTART:20261014T143000Z
 DTEND:20261014T153000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-wednesday-october-14-2026-1030am-1130am-silversneakers@ymcaof
  cm-7021
 CATEGORIES:Group Exercise
@@ -909,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:Kripalu Vinyasa Yoga @ Studio 2
 DTSTART:20261014T143000Z
 DTEND:20261014T153000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-wednesday-october-14-2026-1030am-1130am-kripalu-vinyasa-yoga@
  ymcaofcm-7021
 CATEGORIES:Group Exercise
@@ -928,7 +759,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Fit @ Indoor Pool
 DTSTART:20261014T153000Z
 DTEND:20261014T163000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-wednesday-october-14-2026-1130am-1230pm-aqua-fit@ymcaofcm-702
  1
 CATEGORIES:Group Exercise
@@ -944,7 +775,7 @@ BEGIN:VEVENT
 SUMMARY:Total Body Cond. @ Studio 1
 DTSTART:20261014T203000Z
 DTEND:20261014T211500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-wednesday-october-14-2026-430pm-515pm-total-body-cond@ymcaofc
  m-7021
 CATEGORIES:Group Exercise
@@ -963,7 +794,7 @@ BEGIN:VEVENT
 SUMMARY:Bootcamp @ Studio 1
 DTSTART:20261014T213000Z
 DTEND:20261014T223000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-wednesday-october-14-2026-530pm-630pm-bootcamp@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nA full body fitnes
@@ -979,7 +810,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga @ Studio 2
 DTSTART:20261014T224500Z
 DTEND:20261014T234500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-wednesday-october-14-2026-645pm-745pm-yoga@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nThis mixed-level c
@@ -993,7 +824,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Studio 1
 DTSTART:20261014T224500Z
 DTEND:20261014T234500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-wednesday-october-14-2026-645pm-745pm-zumba@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nLatin-inspired dan
@@ -1008,7 +839,7 @@ BEGIN:VEVENT
 SUMMARY:Body Dynamics @ Studio 1
 DTSTART:20261015T094500Z
 DTEND:20261015T103000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-thursday-october-15-2026-545am-630am-body-dynamics@ymcaofcm-7
  021
 CATEGORIES:Group Exercise
@@ -1024,7 +855,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga @ Studio 1
 DTSTART:20261015T120000Z
 DTEND:20261015T130000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-thursday-october-15-2026-800am-900am-yoga@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nThis mixed-level c
@@ -1038,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Studio 2
 DTSTART:20261015T131500Z
 DTEND:20261015T141500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-thursday-october-15-2026-915am-1015am-zumba@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nLatin-inspired dan
@@ -1053,7 +884,7 @@ BEGIN:VEVENT
 SUMMARY:Barbell Bootcamp @ Studio 1
 DTSTART:20261015T131500Z
 DTEND:20261015T141500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-thursday-october-15-2026-915am-1015am-barbell-bootcamp@ymcaof
  cm-7021
 CATEGORIES:Group Exercise
@@ -1071,7 +902,7 @@ BEGIN:VEVENT
 SUMMARY:Mobility and Stretching @ Studio 2
 DTSTART:20261015T142000Z
 DTEND:20261015T152000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-thursday-october-15-2026-1020am-1120am-mobility-and-stretchin
  g@ymcaofcm-7021
 CATEGORIES:Group Exercise
@@ -1089,7 +920,7 @@ BEGIN:VEVENT
 SUMMARY:SilverSneakers @ Studio 1
 DTSTART:20261015T143000Z
 DTEND:20261015T153000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-thursday-october-15-2026-1030am-1130am-silversneakers@ymcaofc
  m-7021
 CATEGORIES:Group Exercise
@@ -1106,7 +937,7 @@ BEGIN:VEVENT
 SUMMARY:Ageless: Strength and Cardio @ Studio 3
 DTSTART:20261015T143000Z
 DTEND:20261015T151500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-thursday-october-15-2026-1030am-1115am-ageless-strength-and-c
  ardio@ymcaofcm-7021
 CATEGORIES:Group Exercise
@@ -1126,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Fit @ Indoor Pool
 DTSTART:20261015T153000Z
 DTEND:20261015T163000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-thursday-october-15-2026-1130am-1230pm-aqua-fit@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Indoor Pool\nThis low-impact
@@ -1141,7 +972,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyasa Yoga @ Studio 2
 DTSTART:20261015T213500Z
 DTEND:20261015T223500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-thursday-october-15-2026-535pm-635pm-vinyasa-yoga@ymcaofcm-70
  21
 CATEGORIES:Group Exercise
@@ -1159,7 +990,7 @@ BEGIN:VEVENT
 SUMMARY:Tabata @ Studio 1
 DTSTART:20261015T213500Z
 DTEND:20261015T223500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-thursday-october-15-2026-535pm-635pm-tabata@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nWhole body\, High 
@@ -1175,7 +1006,7 @@ BEGIN:VEVENT
 SUMMARY:Bollywood Dance @ Studio 1
 DTSTART:20261015T224500Z
 DTEND:20261015T234500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-thursday-october-15-2026-645pm-745pm-bollywood-dance@ymcaofcm
  -7021
 CATEGORIES:Group Exercise
@@ -1192,7 +1023,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Studio 2
 DTSTART:20261015T224500Z
 DTEND:20261015T234500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-thursday-october-15-2026-645pm-745pm-zumba@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nLatin-inspired dan
@@ -1207,7 +1038,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates @ Studio 1
 DTSTART:20261016T094500Z
 DTEND:20261016T103000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-friday-october-16-2026-545am-630am-pilates@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nStrengthen your co
@@ -1222,7 +1053,7 @@ BEGIN:VEVENT
 SUMMARY:Group Cycling @ Cycling Studio
 DTSTART:20261016T094500Z
 DTEND:20261016T103000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-friday-october-16-2026-545am-630am-group-cycling@ymcaofcm-702
  1
 CATEGORIES:Group Exercise
@@ -1236,7 +1067,7 @@ BEGIN:VEVENT
 SUMMARY:Morning Muscle: LIIT @ Studio 1
 DTSTART:20261016T104500Z
 DTEND:20261016T111500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-friday-october-16-2026-645am-715am-morning-muscle-liit@ymcaof
  cm-7021
 CATEGORIES:Group Exercise
@@ -1256,7 +1087,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Fit @ Indoor Pool
 DTSTART:20261016T120000Z
 DTEND:20261016T130000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-friday-october-16-2026-800am-900am-aqua-fit@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Indoor Pool\nThis low-impact
@@ -1271,7 +1102,7 @@ BEGIN:VEVENT
 SUMMARY:Power Vinyasa Yoga @ Studio 2
 DTSTART:20261016T120000Z
 DTEND:20261016T130000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-friday-october-16-2026-800am-900am-power-vinyasa-yoga@ymcaofc
  m-7021
 CATEGORIES:Group Exercise
@@ -1290,7 +1121,7 @@ BEGIN:VEVENT
 SUMMARY:Kick Bootcamp @ Studio 1
 DTSTART:20261016T131500Z
 DTEND:20261016T141500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-friday-october-16-2026-915am-1015am-kick-bootcamp@ymcaofcm-70
  21
 CATEGORIES:Group Exercise
@@ -1307,7 +1138,7 @@ BEGIN:VEVENT
 SUMMARY:Kripalu Vinyasa Yoga @ Studio 2
 DTSTART:20261016T143000Z
 DTEND:20261016T153000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-friday-october-16-2026-1030am-1130am-kripalu-vinyasa-yoga@ymc
  aofcm-7021
 CATEGORIES:Group Exercise
@@ -1326,7 +1157,7 @@ BEGIN:VEVENT
 SUMMARY:SilverSneakers @ Studio 1
 DTSTART:20261016T143000Z
 DTEND:20261016T153000Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-friday-october-16-2026-1030am-1130am-silversneakers@ymcaofcm-
  7021
 CATEGORIES:Group Exercise
@@ -1343,7 +1174,7 @@ BEGIN:VEVENT
 SUMMARY:Chair Assisted Yoga @ Studio 1
 DTSTART:20261016T153000Z
 DTEND:20261016T162500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-friday-october-16-2026-1130am-1225pm-chair-assisted-yoga@ymca
  ofcm-7021
 CATEGORIES:Group Exercise
@@ -1362,13 +1193,126 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Studio 1
 DTSTART:20261016T224500Z
 DTEND:20261016T234500Z
-DTSTAMP:20261009T154938Z
+DTSTAMP:20261010T150250Z
 UID:boroughs-friday-october-16-2026-645pm-745pm-zumba@ymcaofcm-7021
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nLatin-inspired dan
  ce sure to get your heart pumping! This is a non-verbal form of group exer
  cise. Instructors demonstrate repetitive combinations along with inspiring
   music choices.\nBranch: Boroughs Family Branch
+LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
+ \, MA 01581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Group Cycling @ Cycling Studio
+DTSTART:20261017T110000Z
+DTEND:20261017T120000Z
+DTSTAMP:20261010T150250Z
+UID:boroughs-saturday-october-17-2026-700am-800am-group-cycling@ymcaofcm-7
+ 021
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Cycling Studio\nIndoor cycli
+ ng class\, led by a certified instructor.\nBranch: Boroughs Family Branch
+LOCATION:Cycling Studio\, Boroughs Family Branch\, 4 Valente Drive\, Westb
+ orough\, MA 01581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga @ Studio 2
+DTSTART:20261017T121500Z
+DTEND:20261017T131500Z
+DTSTAMP:20261010T150250Z
+UID:boroughs-saturday-october-17-2026-815am-915am-yoga@ymcaofcm-7021
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nThis mixed-level c
+ lass includes breathing\, centering\, sun salutations\, poses\, stretches 
+ and a final relaxation/meditation.\nBranch: Boroughs Family Branch
+LOCATION:Studio 2\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
+ \, MA 01581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Group Cycling @ Cycling Studio
+DTSTART:20261017T123000Z
+DTEND:20261017T133000Z
+DTSTAMP:20261010T150250Z
+UID:boroughs-saturday-october-17-2026-830am-930am-group-cycling@ymcaofcm-7
+ 021
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Cycling Studio\nIndoor cycli
+ ng class\, led by a certified instructor.\nBranch: Boroughs Family Branch
+LOCATION:Cycling Studio\, Boroughs Family Branch\, 4 Valente Drive\, Westb
+ orough\, MA 01581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mat PiYo Core @ Studio 1
+DTSTART:20261017T124500Z
+DTEND:20261017T134500Z
+DTSTAMP:20261010T150250Z
+UID:boroughs-saturday-october-17-2026-845am-945am-mat-piyo-core@ymcaofcm-7
+ 021
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nThis class takes p
+ lace exclusively on a mat\, with modified options available for all fitnes
+ s levels. Alternating segments of strengthening &amp\; stretching moves th
+ at improve your entire body's strength and flexibility all while keeping f
+ ocus on a strong\, stable\, and toned core.\nBranch: Boroughs Family Branc
+ h
+LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
+ \, MA 01581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muscle Conditioning @ Studio 1
+DTSTART:20261017T140000Z
+DTEND:20261017T150000Z
+DTSTAMP:20261010T150250Z
+UID:boroughs-saturday-october-17-2026-1000am-1100am-muscle-conditioning@ym
+ caofcm-7021
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nBody conditioning 
+ exercises target your whole body\, using lots of different muscles to stre
+ ngthen\, shape\, and tone your body. They may combine several types of exe
+ rcise\, such as flexibility\, strength\, and resistance training.\nBranch:
+  Boroughs Family Branch
+LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
+ \, MA 01581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba @ Studio 2
+DTSTART:20261017T140000Z
+DTEND:20261017T150000Z
+DTSTAMP:20261010T150250Z
+UID:boroughs-saturday-october-17-2026-1000am-1100am-zumba@ymcaofcm-7021
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Studio 2\nLatin-inspired dan
+ ce sure to get your heart pumping! This is a non-verbal form of group exer
+ cise. Instructors demonstrate repetitive combinations along with inspiring
+  music choices.\nBranch: Boroughs Family Branch
+LOCATION:Studio 2\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
+ \, MA 01581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pilates Barre @ Studio 1
+DTSTART:20261017T151500Z
+DTEND:20261017T164500Z
+DTSTAMP:20261010T150250Z
+UID:boroughs-saturday-october-17-2026-1115am-1245pm-pilates-barre@ymcaofcm
+ -7021
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Studio 1\nA dynamic fusion o
+ f Pilates and Barre that combines all-over body awareness\, strength\, fle
+ xibility\, and balance. Drawing from elements of classical ballet\, yoga\,
+  Pilates and strength training\, this class blends targeted muscle-sculpti
+ ng exercises with restorative stretching to strengthen adn tone the entire
+  body. You'll improve posture\, build core stability\, and enhance flexibi
+ lity while staying connected to mindful movement. Leave class feeling stro
+ nger\, energized\, and ready to take on the rest of your day.\nBranch: Bor
+ oughs Family Branch
 LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
  \, MA 01581
 STATUS:CONFIRMED

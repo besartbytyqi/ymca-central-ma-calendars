@@ -1,15 +1,10 @@
-# Tri-Community Family Branch - 43 Everett St, Southbridge, MA 01550 - 2026-10-09 to 2026-10-15
-# 46 events
+# Tri-Community Family Branch - 43 Everett St, Southbridge, MA 01550 - 2026-10-10 to 2026-10-16
+# 44 events
 
-Fri 10/09 07:15AM - 09:00AM | Water Fitness @ Pool [Group Exercise]
-Fri 10/09 08:00AM - 11:30AM | Group Exercise @ Gym [Group Exercise]
-Fri 10/09 09:00AM - 09:45AM | Fitball @ Lower Level [Group Exercise]
-Fri 10/09 10:00AM - 11:00AM | Progressive Hatha @ Lower Level [Group Exercise]
-Fri 10/09 10:00AM - 11:15AM | Strength Training Circuit @ Fitness Center [Group Exercise]
 Sat 10/10 08:00AM - 09:00AM | Cycle Fusion @ Lower Level [Group Exercise]
 Sat 10/10 09:15AM - 10:15AM | Yoga for All @ Lower Level [Group Exercise]
 Sat 10/10 10:00AM - 11:15AM | Strength Training Circuit @ Fitness Center [Group Exercise]
-Sun 10/11 10:00AM - 11:15AM | Strength Training Circuit @ Fitness Center [Group Exercise]
+Sun 10/11 10:00AM - 11:15AM | CANCELED: Strength Training Circuit @ Fitness Center [Group Exercise]
 Mon 10/12 08:00AM - 11:30AM | Group Exercise @ Gym [Group Exercise]
 Mon 10/12 08:15AM - 08:45AM | Water Fitness @ Pool [Group Exercise]
 Mon 10/12 09:00AM - 09:45AM | Fit After 50 @ Gym [Group Exercise]
@@ -47,3 +42,6 @@ Fri 10/16 07:15AM - 09:00AM | Water Fitness @ Pool [Group Exercise]
 Fri 10/16 08:00AM - 11:30AM | Group Exercise @ Gym [Group Exercise]
 Fri 10/16 09:00AM - 09:45AM | Fitball @ Lower Level [Group Exercise]
 Fri 10/16 10:00AM - 11:00AM | Progressive Hatha @ Lower Level [Group Exercise]
+Sat 10/17 08:00AM - 09:00AM | Cycle Fusion @ Lower Level [Group Exercise]
+Sat 10/17 09:15AM - 10:15AM | Yoga for All @ Lower Level [Group Exercise]
+Sat 10/17 09:15AM - 10:00AM | Butts, Guts and Guns @ Gym [Group Exercise]
