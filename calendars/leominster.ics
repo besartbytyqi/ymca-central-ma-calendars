@@ -8,120 +8,10 @@ DESCRIPTION:Schedule for Leominster Community Branch - 108 Adams St\, Leom
 X-WR-CALNAME:YMCA - Leominster Community Branch
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Sunrise Strength @ Group Exercise Room
-DTSTART:20261013T091500Z
-DTEND:20261013T100000Z
-DTSTAMP:20261013T164333Z
-UID:leominster-tuesday-october-13-2026-515am-600am-sunrise-strength@ymcaof
- cm-7024
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
-  Leominster Community Branch
-LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
- \, Leominster\, MA 01453
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELED: Yoga for All @ Group Exercise Room
-DTSTART:20261013T120000Z
-DTEND:20261013T130000Z
-DTSTAMP:20261013T164333Z
-UID:leominster-tuesday-october-13-2026-800am-900am-canceled-yoga-for-all@y
- mcaofcm-7024
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
-  Leominster Community Branch
-LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
- \, Leominster\, MA 01453
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SilverSneakers @ Group Exercise Room
-DTSTART:20261013T131500Z
-DTEND:20261013T141500Z
-DTSTAMP:20261013T164333Z
-UID:leominster-tuesday-october-13-2026-915am-1015am-silversneakers@ymcaofc
- m-7024
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nHave fu
- n and move to the music through a variety of exercises designed to increas
- e muscular strength\, range of motion and activity for daily living skills
- . A chair is used for seated and/or standing support. Weights and bands ar
- e optional.\nBranch: Leominster Community Branch
-LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
- \, Leominster\, MA 01453
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SilverSneakers @ Group Exercise Room
-DTSTART:20261013T143000Z
-DTEND:20261013T153000Z
-DTSTAMP:20261013T164333Z
-UID:leominster-tuesday-october-13-2026-1030am-1130am-silversneakers@ymcaof
- cm-7024
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nHave fu
- n and move to the music through a variety of exercises designed to increas
- e muscular strength\, range of motion and activity for daily living skills
- . A chair is used for seated and/or standing support. Weights and bands ar
- e optional.\nBranch: Leominster Community Branch
-LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
- \, Leominster\, MA 01453
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scenic Cycling @ Group Exercise Room
-DTSTART:20261013T164500Z
-DTEND:20261013T173000Z
-DTSTAMP:20261013T164333Z
-UID:leominster-tuesday-october-13-2026-1245pm-130pm-scenic-cycling@ymcaofc
- m-7024
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nImmerse
-  yourself in breathtaking landscapes around the world! This workout invite
- s you to enjoy a scenic ride at your own pace. Great for all abilities.\nB
- ranch: Leominster Community Branch
-LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
- \, Leominster\, MA 01453
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba @ Group Exercise Room
-DTSTART:20261013T203000Z
-DTEND:20261013T213000Z
-DTSTAMP:20261013T164333Z
-UID:leominster-tuesday-october-13-2026-430pm-530pm-zumba@ymcaofcm-7024
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nLatin-i
- nspired dance sure to get your heart pumping! This is a non-verbal form of
-  group exercise. Instructors demonstrate repetitive combinations along wit
- h inspiring music choices.\nBranch: Leominster Community Branch
-LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
- \, Leominster\, MA 01453
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HIIT @ HIIT Deck
-DTSTART:20261013T230000Z
-DTEND:20261013T234500Z
-DTSTAMP:20261013T164333Z
-UID:leominster-tuesday-october-13-2026-700pm-745pm-hiit@ymcaofcm-7024
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
- intensity interval training workout where you'll power through circuits of
-  10-30 second intervals using dumbbells\, kettlebells\, resistance bands\,
-  and bodyweight exercises. This intense class is designed to boost your ca
- rdiovascular health while dramatically increasing muscle strength.\nBranch
- : Leominster Community Branch
-LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
- er\, MA 01453
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Early Bird Cycling @ Group Exercise Room
 DTSTART:20261014T091500Z
 DTEND:20261014T100000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-wednesday-october-14-2026-515am-600am-early-bird-cycling@ym
  caofcm-7024
 CATEGORIES:Group Exercise
@@ -135,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED: HIIT @ HIIT Deck
 DTSTART:20261014T110000Z
 DTEND:20261014T114500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-wednesday-october-14-2026-700am-745am-canceled-hiit@ymcaofc
  m-7024
 CATEGORIES:Group Exercise
@@ -153,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ HIIT Deck
 DTSTART:20261014T121500Z
 DTEND:20261014T130000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-wednesday-october-14-2026-815am-900am-hiit@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
@@ -170,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba Gold @ Group Exercise Room
 DTSTART:20261014T131500Z
 DTEND:20261014T141500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-wednesday-october-14-2026-915am-1015am-zumba-gold@ymcaofcm-
  7024
 CATEGORIES:Group Exercise
@@ -186,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba Gold Chair @ Group Exercise Room
 DTSTART:20261014T143000Z
 DTEND:20261014T151500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-wednesday-october-14-2026-1030am-1115am-zumba-gold-chair@ym
  caofcm-7024
 CATEGORIES:Group Exercise
@@ -202,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ HIIT Deck
 DTSTART:20261014T143000Z
 DTEND:20261014T151500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-wednesday-october-14-2026-1030am-1115am-hiit@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
@@ -219,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Sunrise Strength @ Group Exercise Room
 DTSTART:20261015T091500Z
 DTEND:20261015T100000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-thursday-october-15-2026-515am-600am-sunrise-strength@ymcao
  fcm-7024
 CATEGORIES:Group Exercise
@@ -233,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED: Yoga for All @ Group Exercise Room
 DTSTART:20261015T120000Z
 DTEND:20261015T130000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-thursday-october-15-2026-800am-900am-canceled-yoga-for-all@
  ymcaofcm-7024
 CATEGORIES:Group Exercise
@@ -247,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:SilverSneakers @ Group Exercise Room
 DTSTART:20261015T131500Z
 DTEND:20261015T141500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-thursday-october-15-2026-915am-1015am-silversneakers@ymcaof
  cm-7024
 CATEGORIES:Group Exercise
@@ -264,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Active Adults @ Group Exercise Room
 DTSTART:20261015T143000Z
 DTEND:20261015T151500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-thursday-october-15-2026-1030am-1115am-active-adults@ymcaof
  cm-7024
 CATEGORIES:Group Exercise
@@ -278,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Scenic Cycling @ Group Exercise Room
 DTSTART:20261015T154500Z
 DTEND:20261015T163000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-thursday-october-15-2026-1145am-1230pm-scenic-cycling@ymcao
  fcm-7024
 CATEGORIES:Group Exercise
@@ -294,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Group Exercise Room
 DTSTART:20261015T203000Z
 DTEND:20261015T213000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-thursday-october-15-2026-430pm-530pm-zumba@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nLatin-i
@@ -309,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Spin @ Group Exercise Room
 DTSTART:20261015T221500Z
 DTEND:20261015T230000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-thursday-october-15-2026-615pm-700pm-spin@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nFind yo
@@ -325,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ HIIT Deck
 DTSTART:20261015T230000Z
 DTEND:20261015T234500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-thursday-october-15-2026-700pm-745pm-hiit@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
@@ -342,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:Early Bird Cycling @ Group Exercise Room
 DTSTART:20261016T091500Z
 DTEND:20261016T100000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-friday-october-16-2026-515am-600am-early-bird-cycling@ymcao
  fcm-7024
 CATEGORIES:Group Exercise
@@ -356,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ HIIT Deck
 DTSTART:20261016T110000Z
 DTEND:20261016T114500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-friday-october-16-2026-700am-745am-hiit@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
@@ -373,7 +263,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED: Yoga for All @ Group Exercise Room
 DTSTART:20261016T120000Z
 DTEND:20261016T130000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-friday-october-16-2026-800am-900am-canceled-yoga-for-all@ym
  caofcm-7024
 CATEGORIES:Group Exercise
@@ -387,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ HIIT Deck
 DTSTART:20261016T121500Z
 DTEND:20261016T130000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-friday-october-16-2026-815am-900am-hiit@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
@@ -404,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Active Chair Yoga @ Group Exercise Room
 DTSTART:20261016T131500Z
 DTEND:20261016T141500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-friday-october-16-2026-915am-1015am-active-chair-yoga@ymcao
  fcm-7024
 CATEGORIES:Group Exercise
@@ -418,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Active Adults @ Group Exercise Room
 DTSTART:20261016T143000Z
 DTEND:20261016T151500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-friday-october-16-2026-1030am-1115am-active-adults@ymcaofcm
  -7024
 CATEGORIES:Group Exercise
@@ -432,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ HIIT Deck
 DTSTART:20261016T143000Z
 DTEND:20261016T151500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-friday-october-16-2026-1030am-1115am-hiit@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
@@ -449,7 +339,7 @@ BEGIN:VEVENT
 SUMMARY:Gentle Yoga @ Group Exercise Room
 DTSTART:20261016T153000Z
 DTEND:20261016T163000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-friday-october-16-2026-1130am-1230pm-gentle-yoga@ymcaofcm-7
  024
 CATEGORIES:Group Exercise
@@ -468,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:Spin Fusion @ Group Exercise Room
 DTSTART:20261017T120000Z
 DTEND:20261017T130000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-saturday-october-17-2026-800am-900am-spin-fusion@ymcaofcm-7
  024
 CATEGORIES:Group Exercise
@@ -485,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ HIIT Deck
 DTSTART:20261017T143000Z
 DTEND:20261017T151500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-saturday-october-17-2026-1030am-1115am-hiit@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
@@ -502,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:Spin @ Group Exercise Room
 DTSTART:20261018T121500Z
 DTEND:20261018T131500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-sunday-october-18-2026-815am-915am-spin@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nFind yo
@@ -518,7 +408,7 @@ BEGIN:VEVENT
 SUMMARY:Early Bird Cycling @ Group Exercise Room
 DTSTART:20261019T091500Z
 DTEND:20261019T100000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-monday-october-19-2026-515am-600am-early-bird-cycling@ymcao
  fcm-7024
 CATEGORIES:Group Exercise
@@ -532,7 +422,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ HIIT Deck
 DTSTART:20261019T110000Z
 DTEND:20261019T114500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-monday-october-19-2026-700am-745am-hiit@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
@@ -549,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ HIIT Deck
 DTSTART:20261019T121500Z
 DTEND:20261019T130000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-monday-october-19-2026-815am-900am-hiit@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
@@ -566,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba Gold @ Group Exercise Room
 DTSTART:20261019T131500Z
 DTEND:20261019T141500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-monday-october-19-2026-915am-1015am-zumba-gold@ymcaofcm-702
  4
 CATEGORIES:Group Exercise
@@ -582,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ HIIT Deck
 DTSTART:20261019T143000Z
 DTEND:20261019T151500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-monday-october-19-2026-1030am-1115am-hiit@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
@@ -599,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:LIVESTRONG @ Group Exercise Room
 DTSTART:20261019T210000Z
 DTEND:20261019T220000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-monday-october-19-2026-500pm-600pm-livestrong@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nA free 
@@ -615,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ Group Exercise Room
 DTSTART:20261019T213000Z
 DTEND:20261019T221500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-monday-october-19-2026-530pm-615pm-hiit@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nDive in
@@ -632,7 +522,7 @@ BEGIN:VEVENT
 SUMMARY:Sunrise Strength @ Group Exercise Room
 DTSTART:20261020T091500Z
 DTEND:20261020T100000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-tuesday-october-20-2026-515am-600am-sunrise-strength@ymcaof
  cm-7024
 CATEGORIES:Group Exercise
@@ -646,7 +536,7 @@ BEGIN:VEVENT
 SUMMARY:CANCELED: Yoga for All @ Group Exercise Room
 DTSTART:20261020T120000Z
 DTEND:20261020T130000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-tuesday-october-20-2026-800am-900am-canceled-yoga-for-all@y
  mcaofcm-7024
 CATEGORIES:Group Exercise
@@ -660,7 +550,7 @@ BEGIN:VEVENT
 SUMMARY:SilverSneakers @ Group Exercise Room
 DTSTART:20261020T131500Z
 DTEND:20261020T141500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-tuesday-october-20-2026-915am-1015am-silversneakers@ymcaofc
  m-7024
 CATEGORIES:Group Exercise
@@ -677,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:SilverSneakers @ Group Exercise Room
 DTSTART:20261020T143000Z
 DTEND:20261020T153000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-tuesday-october-20-2026-1030am-1130am-silversneakers@ymcaof
  cm-7024
 CATEGORIES:Group Exercise
@@ -694,7 +584,7 @@ BEGIN:VEVENT
 SUMMARY:Scenic Cycling @ Group Exercise Room
 DTSTART:20261020T164500Z
 DTEND:20261020T173000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-tuesday-october-20-2026-1245pm-130pm-scenic-cycling@ymcaofc
  m-7024
 CATEGORIES:Group Exercise
@@ -710,7 +600,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Group Exercise Room
 DTSTART:20261020T203000Z
 DTEND:20261020T213000Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-tuesday-october-20-2026-430pm-530pm-zumba@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nLatin-i
@@ -725,8 +615,105 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ HIIT Deck
 DTSTART:20261020T230000Z
 DTEND:20261020T234500Z
-DTSTAMP:20261013T164333Z
+DTSTAMP:20261014T142029Z
 UID:leominster-tuesday-october-20-2026-700pm-745pm-hiit@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
+ intensity interval training workout where you'll power through circuits of
+  10-30 second intervals using dumbbells\, kettlebells\, resistance bands\,
+  and bodyweight exercises. This intense class is designed to boost your ca
+ rdiovascular health while dramatically increasing muscle strength.\nBranch
+ : Leominster Community Branch
+LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
+ er\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Bird Cycling @ Group Exercise Room
+DTSTART:20261021T091500Z
+DTEND:20261021T100000Z
+DTSTAMP:20261014T142029Z
+UID:leominster-wednesday-october-21-2026-515am-600am-early-bird-cycling@ym
+ caofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nBranch:
+  Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIIT @ HIIT Deck
+DTSTART:20261021T110000Z
+DTEND:20261021T114500Z
+DTSTAMP:20261014T142029Z
+UID:leominster-wednesday-october-21-2026-700am-745am-hiit@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
+ intensity interval training workout where you'll power through circuits of
+  10-30 second intervals using dumbbells\, kettlebells\, resistance bands\,
+  and bodyweight exercises. This intense class is designed to boost your ca
+ rdiovascular health while dramatically increasing muscle strength.\nBranch
+ : Leominster Community Branch
+LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
+ er\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIIT @ HIIT Deck
+DTSTART:20261021T121500Z
+DTEND:20261021T130000Z
+DTSTAMP:20261014T142029Z
+UID:leominster-wednesday-october-21-2026-815am-900am-hiit@ymcaofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
+ intensity interval training workout where you'll power through circuits of
+  10-30 second intervals using dumbbells\, kettlebells\, resistance bands\,
+  and bodyweight exercises. This intense class is designed to boost your ca
+ rdiovascular health while dramatically increasing muscle strength.\nBranch
+ : Leominster Community Branch
+LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
+ er\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba Gold @ Group Exercise Room
+DTSTART:20261021T131500Z
+DTEND:20261021T141500Z
+DTSTAMP:20261014T142029Z
+UID:leominster-wednesday-october-21-2026-915am-1015am-zumba-gold@ymcaofcm-
+ 7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nA low i
+ mpact and beginner friendly class suitable for all ages - from kids to sen
+ iors. Join the party\, highlighting the basics of Latin and international 
+ dance rhythms!\nBranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba Gold Chair @ Group Exercise Room
+DTSTART:20261021T143000Z
+DTEND:20261021T151500Z
+DTSTAMP:20261014T142029Z
+UID:leominster-wednesday-october-21-2026-1030am-1115am-zumba-gold-chair@ym
+ caofcm-7024
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Group Exercise Room\nA low i
+ mpact and beginner friendly class suitable for all ages - from kids to sen
+ iors. Join the party\, highlighting the basics of Latin and international 
+ dance rhythms!\nBranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIIT @ HIIT Deck
+DTSTART:20261021T143000Z
+DTEND:20261021T151500Z
+DTSTAMP:20261014T142029Z
+UID:leominster-wednesday-october-21-2026-1030am-1115am-hiit@ymcaofcm-7024
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: HIIT Deck\nDive into a high-
  intensity interval training workout where you'll power through circuits of
