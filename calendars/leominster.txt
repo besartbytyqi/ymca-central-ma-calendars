@@ -1,16 +1,8 @@
-# Leominster Community Branch - 108 Adams St, Leominster, MA 01453 - 2026-10-16 to 2026-10-22
-# 47 events
+# Leominster Community Branch - 108 Adams St, Leominster, MA 01453 - 2026-10-17 to 2026-10-23
+# 41 events
 
-Fri 10/16 05:15AM - 06:00AM | Early Bird Cycling @ Group Exercise Room [Group Exercise]
-Fri 10/16 07:00AM - 07:45AM | HIIT @ HIIT Deck [Group Exercise]
-Fri 10/16 08:00AM - 09:00AM | CANCELED: Yoga for All @ Group Exercise Room [Group Exercise]
-Fri 10/16 08:15AM - 09:00AM | HIIT @ HIIT Deck [Group Exercise]
-Fri 10/16 09:15AM - 10:15AM | Active Chair Yoga @ Group Exercise Room [Group Exercise]
-Fri 10/16 10:30AM - 11:15AM | Active Adults @ Group Exercise Room [Group Exercise]
-Fri 10/16 10:30AM - 11:15AM | HIIT @ HIIT Deck [Group Exercise]
-Fri 10/16 11:30AM - 12:30PM | Gentle Yoga @ Group Exercise Room [Group Exercise]
 Sat 10/17 08:00AM - 09:00AM | Spin Fusion @ Group Exercise Room [Group Exercise]
-Sat 10/17 10:30AM - 11:15AM | HIIT @ HIIT Deck [Group Exercise]
+Sat 10/17 10:30AM - 11:15AM | CANCELED: HIIT @ HIIT Deck [Group Exercise]
 Sun 10/18 08:15AM - 09:15AM | Spin @ Group Exercise Room [Group Exercise]
 Mon 10/19 05:15AM - 06:00AM | Early Bird Cycling @ Group Exercise Room [Group Exercise]
 Mon 10/19 07:00AM - 07:45AM | HIIT @ HIIT Deck [Group Exercise]
@@ -48,3 +40,5 @@ Fri 10/23 09:15AM - 10:15AM | Active Chair Yoga @ Group Exercise Room [Group Exe
 Fri 10/23 10:30AM - 11:15AM | Active Adults @ Group Exercise Room [Group Exercise]
 Fri 10/23 10:30AM - 11:15AM | HIIT @ HIIT Deck [Group Exercise]
 Fri 10/23 11:30AM - 12:30PM | Gentle Yoga @ Group Exercise Room [Group Exercise]
+Sat 10/24 08:00AM - 09:00AM | Spin Fusion @ Group Exercise Room [Group Exercise]
+Sat 10/24 10:30AM - 11:15AM | HIIT @ HIIT Deck [Group Exercise]
