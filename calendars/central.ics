@@ -8,93 +8,10 @@ DESCRIPTION:Schedule for Central Community Branch - 766 Main St\, Worceste
 X-WR-CALNAME:YMCA - Central Community Branch
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Aqua Zumba @ Small Pool
-DTSTART:20261019T130000Z
-DTEND:20261019T134500Z
-DTSTAMP:20261019T161154Z
-UID:central-monday-october-19-2026-900am-945am-aqua-zumba@ymcaofcm-7022
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Small Pool\nDive into Aqua Z
- umba\, where Zumba rhythm and dance meet the excitement of a pool party! T
- his invigorating workout blends fun dance moves with the resistance of wat
- er for a refreshing\, full-body experience. Get ready to splash\, dance\, 
- and energize your fitness routine!\nBranch: Central Community Branch
-LOCATION:Small Pool\, Central Community Branch\, 766 Main St\, Worcester\,
-  MA 01610
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HIIT @ Studio A
-DTSTART:20261019T210000Z
-DTEND:20261019T220000Z
-DTSTAMP:20261019T161154Z
-UID:central-monday-october-19-2026-500pm-600pm-hiit@ymcaofcm-7022
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nDive into a high-i
- ntensity interval training workout where you'll power through circuits of 
- 10-30 second intervals using dumbbells\, kettlebells\, resistance bands\, 
- and bodyweight exercises. This intense class is designed to boost your car
- diovascular health while dramatically increasing muscle strength.\nBranch:
-  Central Community Branch
-LOCATION:Studio A\, Central Community Branch\, 766 Main St\, Worcester\, M
- A 01610
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women's Boxing @ Boxing Room
-DTSTART:20261019T220000Z
-DTEND:20261019T230000Z
-DTSTAMP:20261019T161154Z
-UID:central-monday-october-19-2026-600pm-700pm-womens-boxing@ymcaofcm-7022
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Boxing Room\nFitness\, boxin
- g\, and practical self-defense\, all in a small group environment. *Fee-ba
- sed class\, $80 per 8-week session. Pre-registration is required. Sign up 
- online through the YMCA enrollment platform\, at the front desk\, or throu
- gh the membership service center. Participants must bring their own hand w
- raps and gloves\, available at most sporting goods stores.\nBranch: Centra
- l Community Branch
-LOCATION:Boxing Room\, Central Community Branch\, 766 Main St\, Worcester
- \, MA 01610
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba @ Studio A
-DTSTART:20261019T224500Z
-DTEND:20261019T234500Z
-DTSTAMP:20261019T161154Z
-UID:central-monday-october-19-2026-645pm-745pm-zumba@ymcaofcm-7022
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nLatin-inspired dan
- ce sure to get your heart pumping! This is a non-verbal form of group exer
- cise. Instructors demonstrate repetitive combinations along with inspiring
-  music choices.\nBranch: Central Community Branch
-LOCATION:Studio A\, Central Community Branch\, 766 Main St\, Worcester\, M
- A 01610
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Boxing Open Gym @ Boxing Room
-DTSTART:20261019T230000Z
-DTEND:20261020T003000Z
-DTSTAMP:20261019T161154Z
-UID:central-monday-october-19-2026-700pm-830pm-boxing-open-gym@ymcaofcm-70
- 22
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Boxing Room\nAdvanced traini
- ng for those familiar with boxing combinations and punches\, perfect for r
- efining skills and improving technique. Build a routine to work on your en
- durance\, speed\, agility\, balance\, ladder drills\, steps\, hands\, and 
- more.\nBranch: Central Community Branch
-LOCATION:Boxing Room\, Central Community Branch\, 766 Main St\, Worcester
- \, MA 01610
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cycling @ Cycling
 DTSTART:20261020T100000Z
 DTEND:20261020T110000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-tuesday-october-20-2026-600am-700am-cycling@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Cycling\nA high-energy indoo
@@ -109,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Mobility Training @ Studio A
 DTSTART:20261020T120000Z
 DTEND:20261020T130000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-tuesday-october-20-2026-800am-900am-mobility-training@ymcaofcm
  -7022
 CATEGORIES:Group Exercise
@@ -125,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Stretch and Flex @ Small Pool
 DTSTART:20261020T130000Z
 DTEND:20261020T134500Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-tuesday-october-20-2026-900am-945am-aqua-stretch-and-flex@ymca
  ofcm-7022
 CATEGORIES:Group Exercise
@@ -142,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Boxing Open Gym @ Boxing Room
 DTSTART:20261020T220000Z
 DTEND:20261021T003000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-tuesday-october-20-2026-600pm-830pm-boxing-open-gym@ymcaofcm-7
  022
 CATEGORIES:Group Exercise
@@ -159,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Cycling @ Studio C
 DTSTART:20261020T220000Z
 DTEND:20261020T230000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-tuesday-october-20-2026-600pm-700pm-cycling@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio C\nA high-energy indo
@@ -174,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga @ Studio A
 DTSTART:20261021T121500Z
 DTEND:20261021T131500Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-wednesday-october-21-2026-815am-915am-yoga@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nThis mixed-level c
@@ -188,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Stretch and Flex @ Small Pool
 DTSTART:20261021T130000Z
 DTEND:20261021T134500Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-wednesday-october-21-2026-900am-945am-aqua-stretch-and-flex@ym
  caofcm-7022
 CATEGORIES:Group Exercise
@@ -205,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ Studio A
 DTSTART:20261021T210000Z
 DTEND:20261021T220000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-wednesday-october-21-2026-500pm-600pm-hiit@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nDive into a high-i
@@ -222,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Studio A
 DTSTART:20261021T224500Z
 DTEND:20261021T234500Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-wednesday-october-21-2026-645pm-745pm-zumba@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nLatin-inspired dan
@@ -237,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:Boxing Open Gym @ Boxing Room
 DTSTART:20261021T230000Z
 DTEND:20261022T003000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-wednesday-october-21-2026-700pm-830pm-boxing-open-gym@ymcaofcm
  -7022
 CATEGORIES:Group Exercise
@@ -254,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Cycling @ Studio C
 DTSTART:20261022T100000Z
 DTEND:20261022T103000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-thursday-october-22-2026-600am-630am-cycling@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio C\nA high-energy indo
@@ -269,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Sunrise Strength @ Studio A
 DTSTART:20261022T103000Z
 DTEND:20261022T110000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-thursday-october-22-2026-630am-700am-sunrise-strength@ymcaofcm
  -7022
 CATEGORIES:Group Exercise
@@ -283,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Mobility Training @ Studio A
 DTSTART:20261022T120000Z
 DTEND:20261022T130000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-thursday-october-22-2026-800am-900am-mobility-training@ymcaofc
  m-7022
 CATEGORIES:Group Exercise
@@ -299,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Dance: Classics @ Small Pool
 DTSTART:20261022T130000Z
 DTEND:20261022T134500Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-thursday-october-22-2026-900am-945am-aqua-dance-classics@ymcao
  fcm-7022
 CATEGORIES:Group Exercise
@@ -315,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:Boxing Open Gym @ Boxing Room
 DTSTART:20261022T220000Z
 DTEND:20261023T003000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-thursday-october-22-2026-600pm-830pm-boxing-open-gym@ymcaofcm-
  7022
 CATEGORIES:Group Exercise
@@ -332,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:Cycling @ Studio C
 DTSTART:20261022T220000Z
 DTEND:20261022T230000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-thursday-october-22-2026-600pm-700pm-cycling@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio C\nA high-energy indo
@@ -347,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:ZumbaSTRONG @ Studio A
 DTSTART:20261022T224500Z
 DTEND:20261022T234500Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-thursday-october-22-2026-645pm-745pm-zumbastrong@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nZumbaSTRONG is a h
@@ -364,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates @ Studio A
 DTSTART:20261023T114500Z
 DTEND:20261023T123000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-friday-october-23-2026-745am-830am-pilates@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nStrengthen your co
@@ -379,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Zumba @ Small Pool
 DTSTART:20261023T130000Z
 DTEND:20261023T134500Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-friday-october-23-2026-900am-945am-aqua-zumba@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Small Pool\nDive into Aqua Z
@@ -395,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates @ Studio A
 DTSTART:20261023T213000Z
 DTEND:20261023T221500Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-friday-october-23-2026-530pm-615pm-pilates@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nStrengthen your co
@@ -410,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Studio A
 DTSTART:20261023T223000Z
 DTEND:20261023T233000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-friday-october-23-2026-630pm-730pm-zumba@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nLatin-inspired dan
@@ -425,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:Spin @ Studio C
 DTSTART:20261024T130000Z
 DTEND:20261024T140000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-saturday-october-24-2026-900am-1000am-spin@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio C\nFind your own rhyt
@@ -441,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Zumba @ Small Pool
 DTSTART:20261026T130000Z
 DTEND:20261026T134500Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-monday-october-26-2026-900am-945am-aqua-zumba@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Small Pool\nDive into Aqua Z
@@ -457,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ Studio A
 DTSTART:20261026T210000Z
 DTEND:20261026T220000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-monday-october-26-2026-500pm-600pm-hiit@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nDive into a high-i
@@ -474,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Women's Boxing @ Boxing Room
 DTSTART:20261026T220000Z
 DTEND:20261026T230000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-monday-october-26-2026-600pm-700pm-womens-boxing@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Boxing Room\nFitness\, boxin
@@ -492,7 +409,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Studio A
 DTSTART:20261026T224500Z
 DTEND:20261026T234500Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-monday-october-26-2026-645pm-745pm-zumba@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nLatin-inspired dan
@@ -507,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Boxing Open Gym @ Boxing Room
 DTSTART:20261026T230000Z
 DTEND:20261027T003000Z
-DTSTAMP:20261019T161154Z
+DTSTAMP:20261020T140635Z
 UID:central-monday-october-26-2026-700pm-830pm-boxing-open-gym@ymcaofcm-70
  22
 CATEGORIES:Group Exercise
@@ -518,6 +435,104 @@ DESCRIPTION:Category: Group Exercise\nStudio: Boxing Room\nAdvanced traini
  more.\nBranch: Central Community Branch
 LOCATION:Boxing Room\, Central Community Branch\, 766 Main St\, Worcester
  \, MA 01610
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cycling @ Cycling
+DTSTART:20261027T100000Z
+DTEND:20261027T110000Z
+DTSTAMP:20261020T140635Z
+UID:central-tuesday-october-27-2026-600am-700am-cycling@ymcaofcm-7022
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Cycling\nA high-energy indoo
+ r cycling class set to motivating music. Ride through intervals\, climbs\,
+  and sprints designed to build endurance\, strength\, and confidence\, no 
+ experience needed.\nBranch: Central Community Branch
+LOCATION:Cycling\, Central Community Branch\, 766 Main St\, Worcester\, MA
+  01610
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mobility Training @ Studio A
+DTSTART:20261027T120000Z
+DTEND:20261027T130000Z
+DTSTAMP:20261020T140635Z
+UID:central-tuesday-october-27-2026-800am-900am-mobility-training@ymcaofcm
+ -7022
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nMobility Training 
+ is a low-impact class that helps you move with ease through dynamic stretc
+ hes\, joint rotations\, and bodyweight exercises.\nBranch: Central Communi
+ ty Branch
+LOCATION:Studio A\, Central Community Branch\, 766 Main St\, Worcester\, M
+ A 01610
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aqua Stretch and Flex @ Small Pool
+DTSTART:20261027T130000Z
+DTEND:20261027T134500Z
+DTSTAMP:20261020T140635Z
+UID:central-tuesday-october-27-2026-900am-945am-aqua-stretch-and-flex@ymca
+ ofcm-7022
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Small Pool\nImprove your bal
+ ance and flexibility in a supportive environment. Specifically designed fo
+ r those with mobility challenges such as arthritis and bursitis\, this low
+ -impact class aims to increase circulation and reduce inflammation.\nBranc
+ h: Central Community Branch
+LOCATION:Small Pool\, Central Community Branch\, 766 Main St\, Worcester\,
+  MA 01610
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boxing Open Gym @ Boxing Room
+DTSTART:20261027T220000Z
+DTEND:20261028T003000Z
+DTSTAMP:20261020T140635Z
+UID:central-tuesday-october-27-2026-600pm-830pm-boxing-open-gym@ymcaofcm-7
+ 022
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Boxing Room\nAdvanced traini
+ ng for those familiar with boxing combinations and punches\, perfect for r
+ efining skills and improving technique. Build a routine to work on your en
+ durance\, speed\, agility\, balance\, ladder drills\, steps\, hands\, and 
+ more.\nBranch: Central Community Branch
+LOCATION:Boxing Room\, Central Community Branch\, 766 Main St\, Worcester
+ \, MA 01610
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cycling @ Studio C
+DTSTART:20261027T220000Z
+DTEND:20261027T230000Z
+DTSTAMP:20261020T140635Z
+UID:central-tuesday-october-27-2026-600pm-700pm-cycling@ymcaofcm-7022
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Studio C\nA high-energy indo
+ or cycling class set to motivating music. Ride through intervals\, climbs
+ \, and sprints designed to build endurance\, strength\, and confidence\, n
+ o experience needed.\nBranch: Central Community Branch
+LOCATION:Studio C\, Central Community Branch\, 766 Main St\, Worcester\, M
+ A 01610
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Line Dance! @ Studio A
+DTSTART:20261027T220000Z
+DTEND:20261027T233000Z
+DTSTAMP:20261020T140635Z
+UID:central-tuesday-october-27-2026-600pm-730pm-line-dance@ymcaofcm-7022
+CATEGORIES:Group Exercise
+DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nLine Dancing is a 
+ fun\, upbeat group class where participants learn choreographed dance patt
+ erns set to a variety of music styles. No partner is needed\, and all expe
+ rience levels are welcome. This class improves coordination\, balance\, ca
+ rdiovascular fitness\, and confidence while providing a social and energet
+ ic workout in a supportive environment. Perfect for anyone looking to move
+ \, sweat\, and have fun!\nBranch: Central Community Branch
+LOCATION:Studio A\, Central Community Branch\, 766 Main St\, Worcester\, M
+ A 01610
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
