@@ -1,13 +1,6 @@
-# Boroughs Family Branch - 4 Valente Drive, Westborough, MA 01581 - 2026-10-24 to 2026-10-30
-# 81 events
+# Boroughs Family Branch - 4 Valente Drive, Westborough, MA 01581 - 2026-10-25 to 2026-10-31
+# 77 events
 
-Sat 10/24 07:00AM - 08:00AM | Group Cycling @ Cycling Studio [Group Exercise]
-Sat 10/24 08:15AM - 09:15AM | Yoga @ Studio 2 [Group Exercise]
-Sat 10/24 08:30AM - 09:30AM | Group Cycling @ Cycling Studio [Group Exercise]
-Sat 10/24 08:45AM - 09:45AM | Mat PiYo Core @ Studio 1 [Group Exercise]
-Sat 10/24 10:00AM - 11:00AM | Muscle Conditioning @ Studio 1 [Group Exercise]
-Sat 10/24 10:00AM - 11:00AM | Zumba @ Studio 2 [Group Exercise]
-Sat 10/24 11:15AM - 12:45PM | Pilates Barre @ Studio 1 [Group Exercise]
 Sun 10/25 08:30AM - 09:30AM | Vinyasa Yoga @ Studio 2 [Group Exercise]
 Sun 10/25 09:15AM - 10:15AM | Tabata @ Studio 1 [Group Exercise]
 Sun 10/25 11:00AM - 12:00PM | Zumba @ Studio 1 [Group Exercise]
@@ -82,3 +75,6 @@ Sat 10/31 08:45AM - 09:45AM | Mat PiYo Core @ Studio 1 [Group Exercise]
 Sat 10/31 10:00AM - 11:00AM | Muscle Conditioning @ Studio 1 [Group Exercise]
 Sat 10/31 10:00AM - 11:00AM | Zumba @ Studio 2 [Group Exercise]
 Sat 10/31 11:15AM - 12:45PM | Pilates Barre @ Studio 1 [Group Exercise]
+Sun 11/01 08:30AM - 09:30AM | Vinyasa Yoga @ Studio 2 [Group Exercise]
+Sun 11/01 09:15AM - 10:15AM | Tabata @ Studio 1 [Group Exercise]
+Sun 11/01 11:00AM - 12:00PM | Zumba @ Studio 1 [Group Exercise]

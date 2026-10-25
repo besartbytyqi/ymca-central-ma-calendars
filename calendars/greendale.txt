@@ -1,12 +1,6 @@
-# Greendale Family Branch - 75 Shore Dr, Worcester, MA 01605 - 2026-10-24 to 2026-10-30
-# 85 events
+# Greendale Family Branch - 75 Shore Dr, Worcester, MA 01605 - 2026-10-25 to 2026-10-31
+# 80 events
 
-Sat 10/24 08:15AM - 09:00AM | CANCELED: Les Mills Body Combat Rotation @ Main Studio (Lower Level) [Group Exercise]
-Sat 10/24 08:30AM - 09:15AM | Cycling /Rotating Instructors @ Spin Studio (Lower Level) [Group Exercise]
-Sat 10/24 09:15AM - 10:15AM | Power PiYo with Pat D @ SMB Studio (Main Level) [Group Exercise]
-Sat 10/24 09:30AM - 10:15AM | Gladiator Fitness HIIT w/Geoff @ HIIT DECK (Wellness Center) [Group Exercise]
-Sat 10/24 09:30AM - 10:30AM | CANCELED: Les Mills BodyPump w/Francesca @ Main Studio (Lower Level) [Group Exercise]
-Sat 10/24 09:30AM - 11:00AM | Les Mills Launch! @ Main Studio (Lower Level) [Group Exercise]
 Sun 10/25 09:30AM - 10:30AM | Pilates with Pat D. @ SMB Studio (Main Level) [Group Exercise]
 Mon 10/26 05:30AM - 06:30AM | Les Mills Body Pump w/Theresa @ Main Studio (Lower Level) [Group Exercise]
 Mon 10/26 08:15AM - 09:00AM | Spin Revolution w/ Jill W @ Spin Studio (Lower Level) [Group Exercise]
@@ -86,3 +80,4 @@ Sat 10/31 08:30AM - 09:15AM | Cycling /Rotating Instructors @ Spin Studio (Lower
 Sat 10/31 09:15AM - 10:15AM | Power PiYo with Pat D @ SMB Studio (Main Level) [Group Exercise]
 Sat 10/31 09:30AM - 10:15AM | Gladiator Fitness HIIT w/Geoff @ HIIT DECK (Wellness Center) [Group Exercise]
 Sat 10/31 09:30AM - 10:30AM | Les Mills BodyPump w/Francesca @ Main Studio (Lower Level) [Group Exercise]
+Sun 11/01 09:30AM - 10:30AM | Pilates with Pat D. @ SMB Studio (Main Level) [Group Exercise]
