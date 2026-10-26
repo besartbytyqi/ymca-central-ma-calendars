@@ -1,5 +1,5 @@
-# Central Community Branch - 766 Main St, Worcester, MA 01610 - 2026-10-25 to 2026-10-31
-# 28 events
+# Central Community Branch - 766 Main St, Worcester, MA 01610 - 2026-10-26 to 2026-11-01
+# 33 events
 
 Mon 10/26 09:00AM - 09:45AM | Aqua Zumba @ Small Pool [Group Exercise]
 Mon 10/26 05:00PM - 06:00PM | HIIT @ Studio A [Group Exercise]
@@ -29,3 +29,8 @@ Fri 10/30 09:00AM - 09:45AM | Aqua Zumba @ Small Pool [Group Exercise]
 Fri 10/30 05:30PM - 06:15PM | Pilates @ Studio A [Group Exercise]
 Fri 10/30 06:30PM - 07:30PM | Zumba @ Studio A [Group Exercise]
 Sat 10/31 09:00AM - 10:00AM | Spin @ Studio C [Group Exercise]
+Mon 11/02 09:00AM - 09:45AM | Aqua Zumba @ Small Pool [Group Exercise]
+Mon 11/02 05:00PM - 06:00PM | HIIT @ Studio A [Group Exercise]
+Mon 11/02 06:00PM - 07:00PM | Women's Boxing @ Boxing Room [Group Exercise]
+Mon 11/02 06:45PM - 07:45PM | Zumba @ Studio A [Group Exercise]
+Mon 11/02 07:00PM - 08:30PM | Boxing Open Gym @ Boxing Room [Group Exercise]

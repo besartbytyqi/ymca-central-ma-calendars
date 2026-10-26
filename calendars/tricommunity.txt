@@ -1,7 +1,6 @@
-# Tri-Community Family Branch - 43 Everett St, Southbridge, MA 01550 - 2026-10-25 to 2026-10-31
-# 39 events
+# Tri-Community Family Branch - 43 Everett St, Southbridge, MA 01550 - 2026-10-26 to 2026-11-01
+# 43 events
 
-Mon 10/26 08:00AM - 11:30AM | Group Exercise @ Gym [Group Exercise]
 Mon 10/26 08:15AM - 08:45AM | Water Fitness @ Pool [Group Exercise]
 Mon 10/26 09:00AM - 09:45AM | Fit After 50 @ Gym [Group Exercise]
 Mon 10/26 10:00AM - 11:00AM | Progressive Hatha @ Lower Level [Group Exercise]
@@ -27,16 +26,21 @@ Wed 10/28 10:00AM - 10:45AM | Fit After 50 @ Lower Level [Group Exercise]
 Wed 10/28 06:00PM - 07:00PM | Yoga @ Lower Level [Group Exercise]
 Thu 10/29 06:00AM - 06:45AM | Power Pulse @ Studio 2 [Group Exercise]
 Thu 10/29 06:15AM - 07:00AM | Cycling @ Lower Level [Group Exercise]
-Thu 10/29 08:00AM - 11:30AM | Group Exercise @ Gym [Group Exercise]
 Thu 10/29 08:30AM - 09:30AM | Yoga for All @ Lower Level [Group Exercise]
 Thu 10/29 09:00AM - 10:00AM | Water Volleyball @ Pool [Group Exercise]
 Thu 10/29 05:00PM - 06:00PM | Circuits &amp; More @ Lower Level [Group Exercise]
 Thu 10/29 06:15PM - 07:15PM | Power Yoga @ Lower Level [Group Exercise]
 Fri 10/30 07:15AM - 09:00AM | Water Fitness @ Pool [Group Exercise]
-Fri 10/30 08:00AM - 11:30AM | Group Exercise @ Gym [Group Exercise]
 Fri 10/30 09:00AM - 09:45AM | Fitball @ Lower Level [Group Exercise]
 Fri 10/30 10:00AM - 11:00AM | Progressive Hatha @ Lower Level [Group Exercise]
 Fri 10/30 11:15AM - 12:00PM | Mindfulness Meditation @ Studio 2 [Group Exercise]
 Fri 10/30 05:30PM - 06:30PM | POUND @ Lower Level [Group Exercise]
 Sat 10/31 08:00AM - 09:00AM | Cycle Fusion @ Lower Level [Group Exercise]
 Sat 10/31 09:15AM - 10:15AM | Yoga for All @ Lower Level [Group Exercise]
+Mon 11/02 08:15AM - 08:45AM | Water Fitness @ Pool [Group Exercise]
+Mon 11/02 08:45AM - 09:45AM | TRX @ Lower Level [Group Exercise]
+Mon 11/02 09:00AM - 11:30AM | Group Exercise @ Gym [Group Exercise]
+Mon 11/02 09:00AM - 09:45AM | Fit After 50 @ Gym [Group Exercise]
+Mon 11/02 10:00AM - 11:00AM | Progressive Hatha @ Lower Level [Group Exercise]
+Mon 11/02 11:15AM - 12:00PM | Mindfulness Meditation @ Studio 2 [Group Exercise]
+Mon 11/02 05:30PM - 06:15PM | Toy Box @ Lower Level [Group Exercise]
