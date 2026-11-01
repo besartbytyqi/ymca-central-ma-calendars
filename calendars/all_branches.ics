@@ -5,106 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:YMCA - All Branches
 BEGIN:VEVENT
-SUMMARY:[Boroughs] Group Cycling @ Cycling Studio
-DTSTART:20261031T110000Z
-DTEND:20261031T120000Z
-DTSTAMP:20261031T150214Z
-UID:boroughs-saturday-october-31-2026-700am-800am-group-cycling@ymcaofcm-7
- 021
-DESCRIPTION:Group Exercise\nIndoor cycling class\, led by a certified inst
- ructor.\nBranch: Boroughs Family Branch
-LOCATION:Cycling Studio\, Boroughs Family Branch\, 4 Valente Drive\, Westb
- orough\, MA 01581
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Boroughs] Yoga @ Studio 2
-DTSTART:20261031T121500Z
-DTEND:20261031T131500Z
-DTSTAMP:20261031T150214Z
-UID:boroughs-saturday-october-31-2026-815am-915am-yoga@ymcaofcm-7021
-DESCRIPTION:Group Exercise\nThis mixed-level class includes breathing\, ce
- ntering\, sun salutations\, poses\, stretches and a final relaxation/medit
- ation.\nBranch: Boroughs Family Branch
-LOCATION:Studio 2\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
- \, MA 01581
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Boroughs] Group Cycling @ Cycling Studio
-DTSTART:20261031T123000Z
-DTEND:20261031T133000Z
-DTSTAMP:20261031T150214Z
-UID:boroughs-saturday-october-31-2026-830am-930am-group-cycling@ymcaofcm-7
- 021
-DESCRIPTION:Group Exercise\nIndoor cycling class\, led by a certified inst
- ructor.\nBranch: Boroughs Family Branch
-LOCATION:Cycling Studio\, Boroughs Family Branch\, 4 Valente Drive\, Westb
- orough\, MA 01581
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Boroughs] Mat PiYo Core @ Studio 1
-DTSTART:20261031T124500Z
-DTEND:20261031T134500Z
-DTSTAMP:20261031T150214Z
-UID:boroughs-saturday-october-31-2026-845am-945am-mat-piyo-core@ymcaofcm-7
- 021
-DESCRIPTION:Group Exercise\nThis class takes place exclusively on a mat\, 
- with modified options available for all fitness levels. Alternating segmen
- ts of strengthening &amp\; stretching moves that improve your entire body'
- s strength and flexibility all while keeping focus on a strong\, stable\, 
- and toned core.\nBranch: Boroughs Family Branch
-LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
- \, MA 01581
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Boroughs] Muscle Conditioning @ Studio 1
-DTSTART:20261031T140000Z
-DTEND:20261031T150000Z
-DTSTAMP:20261031T150214Z
-UID:boroughs-saturday-october-31-2026-1000am-1100am-muscle-conditioning@ym
- caofcm-7021
-DESCRIPTION:Group Exercise\nBody conditioning exercises target your whole 
- body\, using lots of different muscles to strengthen\, shape\, and tone yo
- ur body. They may combine several types of exercise\, such as flexibility
- \, strength\, and resistance training.\nBranch: Boroughs Family Branch
-LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
- \, MA 01581
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Boroughs] Zumba @ Studio 2
-DTSTART:20261031T140000Z
-DTEND:20261031T150000Z
-DTSTAMP:20261031T150214Z
-UID:boroughs-saturday-october-31-2026-1000am-1100am-zumba@ymcaofcm-7021
-DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
- mping! This is a non-verbal form of group exercise. Instructors demonstrat
- e repetitive combinations along with inspiring music choices.\nBranch: Bor
- oughs Family Branch
-LOCATION:Studio 2\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
- \, MA 01581
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Boroughs] Pilates Barre @ Studio 1
-DTSTART:20261031T151500Z
-DTEND:20261031T164500Z
-DTSTAMP:20261031T150214Z
-UID:boroughs-saturday-october-31-2026-1115am-1245pm-pilates-barre@ymcaofcm
- -7021
-DESCRIPTION:Group Exercise\nA dynamic fusion of Pilates and Barre that com
- bines all-over body awareness\, strength\, flexibility\, and balance. Draw
- ing from elements of classical ballet\, yoga\, Pilates and strength traini
- ng\, this class blends targeted muscle-sculpting exercises with restorativ
- e stretching to strengthen adn tone the entire body. You'll improve postur
- e\, build core stability\, and enhance flexibility while staying connected
-  to mindful movement. Leave class feeling stronger\, energized\, and ready
-  to take on the rest of your day.\nBranch: Boroughs Family Branch
-LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
- \, MA 01581
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Boroughs] Vinyasa Yoga @ Studio 2
 DTSTART:20261101T133000Z
 DTEND:20261101T143000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-sunday-november-1-2026-830am-930am-vinyasa-yoga@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nFlow class linking the asana (movement) to pra
  nayama (breath). Includes both held poses and transitions from pose to pos
@@ -118,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Tabata @ Studio 1
 DTSTART:20261101T141500Z
 DTEND:20261101T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-sunday-november-1-2026-915am-1015am-tabata@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nWhole body\, High Intensity Interval Training 
  using a Tabata Interval format (20 seconds work\, 10 seconds rest x 8 sets
@@ -132,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Zumba @ Studio 1
 DTSTART:20261101T160000Z
 DTEND:20261101T170000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-sunday-november-1-2026-1100am-1200pm-zumba@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -145,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Muscle Conditioning @ Studio 1
 DTSTART:20261102T104500Z
 DTEND:20261102T113000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-545am-630am-muscle-conditioning@ymcaof
  cm-7021
 DESCRIPTION:Group Exercise\nBody conditioning exercises target your whole 
@@ -159,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Group Cycling @ Cycling Studio
 DTSTART:20261102T104500Z
 DTEND:20261102T113000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-545am-630am-group-cycling@ymcaofcm-702
  1
 DESCRIPTION:Group Exercise\nIndoor cycling class\, led by a certified inst
@@ -171,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Morning Muscle: LIIT @ Studio 1
 DTSTART:20261102T114500Z
 DTEND:20261102T121500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-645am-715am-morning-muscle-liit@ymcaof
  cm-7021
 DESCRIPTION:Group Exercise\nLow-intensity interval training consists of hi
@@ -188,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Aqua Fit @ Indoor Pool
 DTSTART:20261102T130000Z
 DTEND:20261102T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-800am-900am-aqua-fit@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nThis low-impact class is performed in water an
  d is designed to improve joint stability\, coordination\, and strength. Th
@@ -200,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Metabolic Conditioning @ Studio 1
 DTSTART:20261102T133000Z
 DTEND:20261102T141500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-830am-915am-metabolic-conditioning@ymc
  aofcm-7021
 DESCRIPTION:Group Exercise\nMetabolic conditioning combines aerobic and st
@@ -213,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Slow Flow Yoga @ Studio 1
 DTSTART:20261102T141500Z
 DTEND:20261102T150000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-915am-1000am-slow-flow-yoga@ymcaofcm-7
  021
 DESCRIPTION:Group Exercise\n45 minute class blending gentle slow-flow move
@@ -228,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Group Cycling @ Cycling Studio
 DTSTART:20261102T141500Z
 DTEND:20261102T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-915am-1015am-group-cycling@ymcaofcm-70
  21
 DESCRIPTION:Group Exercise\nIndoor cycling class\, led by a certified inst
@@ -240,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Core Fusion @ Studio 2
 DTSTART:20261102T152500Z
 DTEND:20261102T155500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-1025am-1055am-core-fusion@ymcaofcm-702
  1
 DESCRIPTION:Group Exercise\nNO RESERVATION NEEDED- Strengthen your core an
@@ -253,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] SilverSneakers @ Studio 1
 DTSTART:20261102T153000Z
 DTEND:20261102T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-1030am-1130am-silversneakers@ymcaofcm-
  7021
 DESCRIPTION:Group Exercise\nHave fun and move to the music through a varie
@@ -268,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Adaptive Total Body Cond. @ Studio 1
 DTSTART:20261102T170000Z
 DTEND:20261102T180000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-1200pm-100pm-adaptive-total-body-cond@
  ymcaofcm-7021
 DESCRIPTION:Group Exercise\nA group ex class adapted to meet the special n
@@ -281,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Total Body Cond. @ Studio 1
 DTSTART:20261102T213000Z
 DTEND:20261102T221500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-430pm-515pm-total-body-cond@ymcaofcm-7
  021
 DESCRIPTION:Group Exercise\nTotal Body Conditioning is a full-body workout
@@ -297,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Restorative Yoga @ Studio 2
 DTSTART:20261102T223000Z
 DTEND:20261102T233000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-530pm-630pm-restorative-yoga@ymcaofcm-
  7021
 DESCRIPTION:Group Exercise\nRestorative yoga is a gentle\, slow-paced styl
@@ -310,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Sports Cond. @ Studio 1
 DTSTART:20261102T223500Z
 DTEND:20261102T233500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-535pm-635pm-sports-cond@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nMusic based athletic conditioning and agility 
  workout. High impact cardio that will also build muscular endurance and to
@@ -323,7 +227,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Bollywood Dance @ Studio 1
 DTSTART:20261102T234500Z
 DTEND:20261103T004500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-645pm-745pm-bollywood-dance@ymcaofcm-7
  021
 DESCRIPTION:Group Exercise\nBollywood-inspired dance-fitness program that 
@@ -338,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] High Intensity Zumba @ Studio 2
 DTSTART:20261102T234500Z
 DTEND:20261103T004500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-monday-november-2-2026-645pm-745pm-high-intensity-zumba@ymcao
  fcm-7021
 DESCRIPTION:Group Exercise\nThis Zumba class combines fast-paced movements
@@ -352,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Yoga @ Studio 2
 DTSTART:20261103T104500Z
 DTEND:20261103T114500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-tuesday-november-3-2026-545am-645am-yoga@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nThis mixed-level class includes breathing\, ce
  ntering\, sun salutations\, poses\, stretches and a final relaxation/medit
@@ -364,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Group Cycling @ Cycling Studio
 DTSTART:20261103T104500Z
 DTEND:20261103T113000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-tuesday-november-3-2026-545am-630am-group-cycling@ymcaofcm-70
  21
 DESCRIPTION:Group Exercise\nIndoor cycling class\, led by a certified inst
@@ -376,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] 20/20/20 @ Studio 1
 DTSTART:20261103T130000Z
 DTEND:20261103T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-tuesday-november-3-2026-800am-900am-202020@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nNO RESERVATION NEEDED- 20 minutes of cardio\, 
  20 minutes of weight training\, and 20 minutes of core\nBranch: Boroughs F
@@ -388,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Yoga @ Studio 2
 DTSTART:20261103T130000Z
 DTEND:20261103T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-tuesday-november-3-2026-800am-900am-yoga@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nThis mixed-level class includes breathing\, ce
  ntering\, sun salutations\, poses\, stretches and a final relaxation/medit
@@ -400,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Barre @ Studio 2
 DTSTART:20261103T141500Z
 DTEND:20261103T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-tuesday-november-3-2026-915am-1015am-barre@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nBarre is an invigorating total body workout cr
  eated from using the most progressive techniques and cutting edge choreogr
@@ -413,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Kickboxing @ Studio 1
 DTSTART:20261103T141500Z
 DTEND:20261103T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-tuesday-november-3-2026-915am-1015am-kickboxing@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nNO RESERVATION NEEDED- An aerobic workout comb
  ining elements of boxing and martial arts. Increase your stamina\, flexibi
@@ -426,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] SilverSneakers @ Studio 1
 DTSTART:20261103T153000Z
 DTEND:20261103T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-tuesday-november-3-2026-1030am-1130am-silversneakers@ymcaofcm
  -7021
 DESCRIPTION:Group Exercise\nHave fun and move to the music through a varie
@@ -441,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Aqua Fit @ Indoor Pool
 DTSTART:20261103T163000Z
 DTEND:20261103T173000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-tuesday-november-3-2026-1130am-1230pm-aqua-fit@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nThis low-impact class is performed in water an
  d is designed to improve joint stability\, coordination\, and strength. Th
@@ -453,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Tai Chi @ Studio 3
 DTSTART:20261103T223000Z
 DTEND:20261103T233000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-tuesday-november-3-2026-530pm-630pm-tai-chi@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nNo Reservation Needed -- Tai chi is an ancient
   Chinese Martial Arts. Initially developed for combat and self-defense\, i
@@ -468,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Pilates @ Studio 2
 DTSTART:20261103T223000Z
 DTEND:20261103T233000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-tuesday-november-3-2026-530pm-630pm-pilates@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nStrengthen your core\, work on shoulder & hip 
  mobility as well as balance & flexibility through sequences combining trad
@@ -481,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] 20/20/20 @ Studio 1
 DTSTART:20261103T223000Z
 DTEND:20261103T233000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-tuesday-november-3-2026-530pm-630pm-202020@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nNO RESERVATION NEEDED- 20 minutes of cardio\, 
  20 minutes of weight training\, and 20 minutes of core\nBranch: Boroughs F
@@ -493,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Group Cycling @ Cycling Studio
 DTSTART:20261103T230000Z
 DTEND:20261104T000000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-tuesday-november-3-2026-600pm-700pm-group-cycling@ymcaofcm-70
  21
 DESCRIPTION:Group Exercise\nIndoor cycling class\, led by a certified inst
@@ -505,7 +409,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Zumba @ Studio 1
 DTSTART:20261103T234500Z
 DTEND:20261104T004500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-tuesday-november-3-2026-645pm-745pm-zumba@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -518,7 +422,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Yoga @ Studio 2
 DTSTART:20261103T234500Z
 DTEND:20261104T004500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-tuesday-november-3-2026-645pm-745pm-yoga@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nThis mixed-level class includes breathing\, ce
  ntering\, sun salutations\, poses\, stretches and a final relaxation/medit
@@ -530,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Muscle Conditioning @ Studio 1
 DTSTART:20261104T104500Z
 DTEND:20261104T113000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-wednesday-november-4-2026-545am-630am-muscle-conditioning@ymc
  aofcm-7021
 DESCRIPTION:Group Exercise\nBody conditioning exercises target your whole 
@@ -544,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Group Cycling @ Cycling Studio
 DTSTART:20261104T104500Z
 DTEND:20261104T113000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-wednesday-november-4-2026-545am-630am-group-cycling@ymcaofcm-
  7021
 DESCRIPTION:Group Exercise\nIndoor cycling class\, led by a certified inst
@@ -556,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Morning Muscle: LIIT @ Studio 1
 DTSTART:20261104T114500Z
 DTEND:20261104T121500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-wednesday-november-4-2026-645am-715am-morning-muscle-liit@ymc
  aofcm-7021
 DESCRIPTION:Group Exercise\nLow-intensity interval training consists of hi
@@ -573,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Bootcamp @ Studio 1
 DTSTART:20261104T130000Z
 DTEND:20261104T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-wednesday-november-4-2026-800am-900am-bootcamp@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nA full body fitness program that mixes traditi
  onal calisthenic and body weight exercises with interval training and stre
@@ -586,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Bootcamp @ Studio 1
 DTSTART:20261104T141500Z
 DTEND:20261104T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-wednesday-november-4-2026-915am-1015am-bootcamp@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nA full body fitness program that mixes traditi
  onal calisthenic and body weight exercises with interval training and stre
@@ -599,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Yin Gold @ Studio 2
 DTSTART:20261104T141500Z
 DTEND:20261104T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-wednesday-november-4-2026-915am-1015am-yin-gold@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nYin Yoga Gold is a deliberate\, mindful\, rece
  ptive practice. The three principles of Yin: finding your pose\, holding t
@@ -613,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] SilverSneakers @ Studio 1
 DTSTART:20261104T153000Z
 DTEND:20261104T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-wednesday-november-4-2026-1030am-1130am-silversneakers@ymcaof
  cm-7021
 DESCRIPTION:Group Exercise\nHave fun and move to the music through a varie
@@ -628,7 +532,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Kripalu Vinyasa Yoga @ Studio 2
 DTSTART:20261104T153000Z
 DTEND:20261104T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-wednesday-november-4-2026-1030am-1130am-kripalu-vinyasa-yoga@
  ymcaofcm-7021
 DESCRIPTION:Group Exercise\nAll are welcome! Breathe\, move and be still b
@@ -645,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Aqua Fit @ Indoor Pool
 DTSTART:20261104T163000Z
 DTEND:20261104T173000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-wednesday-november-4-2026-1130am-1230pm-aqua-fit@ymcaofcm-702
  1
 DESCRIPTION:Group Exercise\nThis low-impact class is performed in water an
@@ -658,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Total Body Cond. @ Studio 1
 DTSTART:20261104T213000Z
 DTEND:20261104T221500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-wednesday-november-4-2026-430pm-515pm-total-body-cond@ymcaofc
  m-7021
 DESCRIPTION:Group Exercise\nTotal Body Conditioning is a full-body workout
@@ -674,7 +578,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Bootcamp @ Studio 1
 DTSTART:20261104T223000Z
 DTEND:20261104T233000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-wednesday-november-4-2026-530pm-630pm-bootcamp@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nA full body fitness program that mixes traditi
  onal calisthenic and body weight exercises with interval training and stre
@@ -687,7 +591,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Zumba @ Studio 1
 DTSTART:20261104T234500Z
 DTEND:20261105T004500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-wednesday-november-4-2026-645pm-745pm-zumba@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -700,7 +604,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Yoga @ Studio 2
 DTSTART:20261104T234500Z
 DTEND:20261105T004500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-wednesday-november-4-2026-645pm-745pm-yoga@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nThis mixed-level class includes breathing\, ce
  ntering\, sun salutations\, poses\, stretches and a final relaxation/medit
@@ -712,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Body Dynamics @ Studio 1
 DTSTART:20261105T104500Z
 DTEND:20261105T113000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-thursday-november-5-2026-545am-630am-body-dynamics@ymcaofcm-7
  021
 DESCRIPTION:Group Exercise\nCombining body weight exercises with plyometri
@@ -725,7 +629,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Pilates @ Studio 1
 DTSTART:20261105T130000Z
 DTEND:20261105T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-thursday-november-5-2026-800am-900am-pilates@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nStrengthen your core\, work on shoulder & hip 
  mobility as well as balance & flexibility through sequences combining trad
@@ -738,7 +642,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Barbell Bootcamp @ Studio 1
 DTSTART:20261105T141500Z
 DTEND:20261105T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-thursday-november-5-2026-915am-1015am-barbell-bootcamp@ymcaof
  cm-7021
 DESCRIPTION:Group Exercise\nReady to raise the bar on your strength? No be
@@ -754,7 +658,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Zumba @ Studio 2
 DTSTART:20261105T141500Z
 DTEND:20261105T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-thursday-november-5-2026-915am-1015am-zumba@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -767,7 +671,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Mobility and Stretching @ Studio 2
 DTSTART:20261105T152000Z
 DTEND:20261105T162000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-thursday-november-5-2026-1020am-1120am-mobility-and-stretchin
  g@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nRegular mobility training improves your genera
@@ -783,7 +687,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] SilverSneakers @ Studio 1
 DTSTART:20261105T153000Z
 DTEND:20261105T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-thursday-november-5-2026-1030am-1130am-silversneakers@ymcaofc
  m-7021
 DESCRIPTION:Group Exercise\nHave fun and move to the music through a varie
@@ -798,7 +702,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Ageless: Strength and Cardio @ Studio 3
 DTSTART:20261105T153000Z
 DTEND:20261105T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-thursday-november-5-2026-1030am-1115am-ageless-strength-and-c
  ardio@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nStay strong\, energized\, and ready for whatev
@@ -816,7 +720,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Aqua Fit @ Indoor Pool
 DTSTART:20261105T163000Z
 DTEND:20261105T173000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-thursday-november-5-2026-1130am-1230pm-aqua-fit@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nThis low-impact class is performed in water an
  d is designed to improve joint stability\, coordination\, and strength. Th
@@ -828,7 +732,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Vinyasa Yoga @ Studio 2
 DTSTART:20261105T223500Z
 DTEND:20261105T233500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-thursday-november-5-2026-535pm-635pm-vinyasa-yoga@ymcaofcm-70
  21
 DESCRIPTION:Group Exercise\nFlow class linking the asana (movement) to pra
@@ -843,7 +747,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Tabata @ Studio 1
 DTSTART:20261105T223500Z
 DTEND:20261105T233500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-thursday-november-5-2026-535pm-635pm-tabata@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nWhole body\, High Intensity Interval Training 
  using a Tabata Interval format (20 seconds work\, 10 seconds rest x 8 sets
@@ -857,7 +761,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Bollywood Dance @ Studio 1
 DTSTART:20261105T234500Z
 DTEND:20261106T004500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-thursday-november-5-2026-645pm-745pm-bollywood-dance@ymcaofcm
  -7021
 DESCRIPTION:Group Exercise\nBollywood-inspired dance-fitness program that 
@@ -872,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Zumba @ Studio 2
 DTSTART:20261105T234500Z
 DTEND:20261106T004500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-thursday-november-5-2026-645pm-745pm-zumba@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -885,7 +789,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Pilates @ Studio 1
 DTSTART:20261106T104500Z
 DTEND:20261106T113000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-friday-november-6-2026-545am-630am-pilates@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nStrengthen your core\, work on shoulder & hip 
  mobility as well as balance & flexibility through sequences combining trad
@@ -898,7 +802,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Group Cycling @ Cycling Studio
 DTSTART:20261106T104500Z
 DTEND:20261106T113000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-friday-november-6-2026-545am-630am-group-cycling@ymcaofcm-702
  1
 DESCRIPTION:Group Exercise\nIndoor cycling class\, led by a certified inst
@@ -910,7 +814,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Morning Muscle: LIIT @ Studio 1
 DTSTART:20261106T114500Z
 DTEND:20261106T121500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-friday-november-6-2026-645am-715am-morning-muscle-liit@ymcaof
  cm-7021
 DESCRIPTION:Group Exercise\nLow-intensity interval training consists of hi
@@ -927,7 +831,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Aqua Fit @ Indoor Pool
 DTSTART:20261106T130000Z
 DTEND:20261106T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-friday-november-6-2026-800am-900am-aqua-fit@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nThis low-impact class is performed in water an
  d is designed to improve joint stability\, coordination\, and strength. Th
@@ -939,7 +843,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Power Vinyasa Yoga @ Studio 2
 DTSTART:20261106T130000Z
 DTEND:20261106T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-friday-november-6-2026-800am-900am-power-vinyasa-yoga@ymcaofc
  m-7021
 DESCRIPTION:Group Exercise\nPower Vinyasa Yoga moves at a moderate pace\, 
@@ -955,7 +859,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Kick Bootcamp @ Studio 1
 DTSTART:20261106T141500Z
 DTEND:20261106T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-friday-november-6-2026-915am-1015am-kick-bootcamp@ymcaofcm-70
  21
 DESCRIPTION:Group Exercise\nThis is the perfect storm of kickboxing and bo
@@ -970,7 +874,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Kripalu Vinyasa Yoga @ Studio 2
 DTSTART:20261106T153000Z
 DTEND:20261106T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-friday-november-6-2026-1030am-1130am-kripalu-vinyasa-yoga@ymc
  aofcm-7021
 DESCRIPTION:Group Exercise\nAll are welcome! Breathe\, move and be still b
@@ -987,7 +891,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] SilverSneakers @ Studio 1
 DTSTART:20261106T153000Z
 DTEND:20261106T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-friday-november-6-2026-1030am-1130am-silversneakers@ymcaofcm-
  7021
 DESCRIPTION:Group Exercise\nHave fun and move to the music through a varie
@@ -1002,7 +906,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Chair Assisted Yoga @ Studio 1
 DTSTART:20261106T163000Z
 DTEND:20261106T172500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-friday-november-6-2026-1130am-1225pm-chair-assisted-yoga@ymca
  ofcm-7021
 DESCRIPTION:Group Exercise\nThis adaptable yoga class combines the aid of 
@@ -1019,7 +923,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Zumba @ Studio 1
 DTSTART:20261106T234500Z
 DTEND:20261107T004500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-friday-november-6-2026-645pm-745pm-zumba@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -1032,7 +936,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Group Cycling @ Cycling Studio
 DTSTART:20261107T120000Z
 DTEND:20261107T130000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-saturday-november-7-2026-700am-800am-group-cycling@ymcaofcm-7
  021
 DESCRIPTION:Group Exercise\nIndoor cycling class\, led by a certified inst
@@ -1044,7 +948,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Yoga @ Studio 2
 DTSTART:20261107T131500Z
 DTEND:20261107T141500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-saturday-november-7-2026-815am-915am-yoga@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nThis mixed-level class includes breathing\, ce
  ntering\, sun salutations\, poses\, stretches and a final relaxation/medit
@@ -1056,7 +960,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Group Cycling @ Cycling Studio
 DTSTART:20261107T133000Z
 DTEND:20261107T143000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-saturday-november-7-2026-830am-930am-group-cycling@ymcaofcm-7
  021
 DESCRIPTION:Group Exercise\nIndoor cycling class\, led by a certified inst
@@ -1068,7 +972,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Mat PiYo Core @ Studio 1
 DTSTART:20261107T134500Z
 DTEND:20261107T144500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-saturday-november-7-2026-845am-945am-mat-piyo-core@ymcaofcm-7
  021
 DESCRIPTION:Group Exercise\nThis class takes place exclusively on a mat\, 
@@ -1083,7 +987,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Muscle Conditioning @ Studio 1
 DTSTART:20261107T150000Z
 DTEND:20261107T160000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-saturday-november-7-2026-1000am-1100am-muscle-conditioning@ym
  caofcm-7021
 DESCRIPTION:Group Exercise\nBody conditioning exercises target your whole 
@@ -1097,7 +1001,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Zumba @ Studio 2
 DTSTART:20261107T150000Z
 DTEND:20261107T160000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-saturday-november-7-2026-1000am-1100am-zumba@ymcaofcm-7021
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -1110,7 +1014,7 @@ BEGIN:VEVENT
 SUMMARY:[Boroughs] Pilates Barre @ Studio 1
 DTSTART:20261107T161500Z
 DTEND:20261107T174500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:boroughs-saturday-november-7-2026-1115am-1245pm-pilates-barre@ymcaofcm
  -7021
 DESCRIPTION:Group Exercise\nA dynamic fusion of Pilates and Barre that com
@@ -1125,23 +1029,51 @@ LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
  \, MA 01581
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Central] Spin @ Studio C
-DTSTART:20261031T130000Z
-DTEND:20261031T140000Z
-DTSTAMP:20261031T150214Z
-UID:central-saturday-october-31-2026-900am-1000am-spin@ymcaofcm-7022
-DESCRIPTION:Group Exercise\nFind your own rhythm in a cycling workout that
-  delivers maximum cardio results with minimum impact on your joints! This 
- class simulates riding on flat terrain or hills while incorporating sprint
- s\, jumps and leisure riding.\nBranch: Central Community Branch
-LOCATION:Studio C\, Central Community Branch\, 766 Main St\, Worcester\, M
- A 01610
+SUMMARY:[Boroughs] Vinyasa Yoga @ Studio 2
+DTSTART:20261108T133000Z
+DTEND:20261108T143000Z
+DTSTAMP:20261101T154504Z
+UID:boroughs-sunday-november-8-2026-830am-930am-vinyasa-yoga@ymcaofcm-7021
+DESCRIPTION:Group Exercise\nFlow class linking the asana (movement) to pra
+ nayama (breath). Includes both held poses and transitions from pose to pos
+ e. Class may include short meditations. Props recommended: yoga mat\, bloc
+ ks or straps. Previous yoga experience helpful\, but not required. Class i
+ s appropriate for all levels.\nBranch: Boroughs Family Branch
+LOCATION:Studio 2\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
+ \, MA 01581
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Boroughs] Tabata @ Studio 1
+DTSTART:20261108T141500Z
+DTEND:20261108T151500Z
+DTSTAMP:20261101T154504Z
+UID:boroughs-sunday-november-8-2026-915am-1015am-tabata@ymcaofcm-7021
+DESCRIPTION:Group Exercise\nWhole body\, High Intensity Interval Training 
+ using a Tabata Interval format (20 seconds work\, 10 seconds rest x 8 sets
+  = 4 minutes!). Develop toned muscles and cardio endurance by doing severa
+ l targeted Tabata intervals in a row! Fast\, furious and FUN!\nBranch: Bor
+ oughs Family Branch
+LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
+ \, MA 01581
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Boroughs] Zumba @ Studio 1
+DTSTART:20261108T160000Z
+DTEND:20261108T170000Z
+DTSTAMP:20261101T154504Z
+UID:boroughs-sunday-november-8-2026-1100am-1200pm-zumba@ymcaofcm-7021
+DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
+ mping! This is a non-verbal form of group exercise. Instructors demonstrat
+ e repetitive combinations along with inspiring music choices.\nBranch: Bor
+ oughs Family Branch
+LOCATION:Studio 1\, Boroughs Family Branch\, 4 Valente Drive\, Westborough
+ \, MA 01581
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Central] Aqua Zumba @ Small Pool
 DTSTART:20261102T140000Z
 DTEND:20261102T144500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-monday-november-2-2026-900am-945am-aqua-zumba@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nDive into Aqua Zumba\, where Zumba rhythm and 
  dance meet the excitement of a pool party! This invigorating workout blend
@@ -1155,7 +1087,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] HIIT @ Studio A
 DTSTART:20261102T220000Z
 DTEND:20261102T230000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-monday-november-2-2026-500pm-600pm-hiit@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -1169,7 +1101,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Women's Boxing @ Boxing Room
 DTSTART:20261102T230000Z
 DTEND:20261103T000000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-monday-november-2-2026-600pm-700pm-womens-boxing@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nFitness\, boxing\, and practical self-defense
  \, all in a small group environment. *Fee-based class\, $80 per 8-week ses
@@ -1184,7 +1116,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Zumba @ Studio A
 DTSTART:20261102T234500Z
 DTEND:20261103T004500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-monday-november-2-2026-645pm-745pm-zumba@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -1197,7 +1129,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Boxing Open Gym @ Boxing Room
 DTSTART:20261103T000000Z
 DTEND:20261103T013000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-monday-november-2-2026-700pm-830pm-boxing-open-gym@ymcaofcm-70
  22
 DESCRIPTION:Group Exercise\nAdvanced training for those familiar with boxi
@@ -1212,7 +1144,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Cycling @ Cycling
 DTSTART:20261103T110000Z
 DTEND:20261103T120000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-tuesday-november-3-2026-600am-700am-cycling@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nA high-energy indoor cycling class set to moti
  vating music. Ride through intervals\, climbs\, and sprints designed to bu
@@ -1225,7 +1157,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Mobility Training @ Studio A
 DTSTART:20261103T130000Z
 DTEND:20261103T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-tuesday-november-3-2026-800am-900am-mobility-training@ymcaofcm
  -7022
 DESCRIPTION:Group Exercise\nMobility Training is a low-impact class that h
@@ -1238,7 +1170,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Aqua Stretch and Flex @ Small Pool
 DTSTART:20261103T140000Z
 DTEND:20261103T144500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-tuesday-november-3-2026-900am-945am-aqua-stretch-and-flex@ymca
  ofcm-7022
 DESCRIPTION:Group Exercise\nImprove your balance and flexibility in a supp
@@ -1252,7 +1184,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Boxing Open Gym @ Boxing Room
 DTSTART:20261103T230000Z
 DTEND:20261104T013000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-tuesday-november-3-2026-600pm-830pm-boxing-open-gym@ymcaofcm-7
  022
 DESCRIPTION:Group Exercise\nAdvanced training for those familiar with boxi
@@ -1267,7 +1199,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Cycling @ Studio C
 DTSTART:20261103T230000Z
 DTEND:20261104T000000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-tuesday-november-3-2026-600pm-700pm-cycling@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nA high-energy indoor cycling class set to moti
  vating music. Ride through intervals\, climbs\, and sprints designed to bu
@@ -1280,7 +1212,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Yoga @ Studio A
 DTSTART:20261104T131500Z
 DTEND:20261104T141500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-wednesday-november-4-2026-815am-915am-yoga@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nThis mixed-level class includes breathing\, ce
  ntering\, sun salutations\, poses\, stretches and a final relaxation/medit
@@ -1292,7 +1224,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Aqua Stretch and Flex @ Small Pool
 DTSTART:20261104T140000Z
 DTEND:20261104T144500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-wednesday-november-4-2026-900am-945am-aqua-stretch-and-flex@ym
  caofcm-7022
 DESCRIPTION:Group Exercise\nImprove your balance and flexibility in a supp
@@ -1306,7 +1238,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] HIIT @ Studio A
 DTSTART:20261104T220000Z
 DTEND:20261104T230000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-wednesday-november-4-2026-500pm-600pm-hiit@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -1320,7 +1252,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Zumba @ Studio A
 DTSTART:20261104T234500Z
 DTEND:20261105T004500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-wednesday-november-4-2026-645pm-745pm-zumba@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -1333,7 +1265,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Boxing Open Gym @ Boxing Room
 DTSTART:20261105T000000Z
 DTEND:20261105T013000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-wednesday-november-4-2026-700pm-830pm-boxing-open-gym@ymcaofcm
  -7022
 DESCRIPTION:Group Exercise\nAdvanced training for those familiar with boxi
@@ -1348,7 +1280,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Cycling @ Studio C
 DTSTART:20261105T110000Z
 DTEND:20261105T113000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-thursday-november-5-2026-600am-630am-cycling@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nA high-energy indoor cycling class set to moti
  vating music. Ride through intervals\, climbs\, and sprints designed to bu
@@ -1361,7 +1293,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Sunrise Strength @ Studio A
 DTSTART:20261105T113000Z
 DTEND:20261105T120000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-thursday-november-5-2026-630am-700am-sunrise-strength@ymcaofcm
  -7022
 DESCRIPTION:Group Exercise\n\nBranch: Central Community Branch
@@ -1372,7 +1304,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Mobility Training @ Studio A
 DTSTART:20261105T130000Z
 DTEND:20261105T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-thursday-november-5-2026-800am-900am-mobility-training@ymcaofc
  m-7022
 DESCRIPTION:Group Exercise\nMobility Training is a low-impact class that h
@@ -1385,7 +1317,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Aqua Dance: Classics @ Small Pool
 DTSTART:20261105T140000Z
 DTEND:20261105T144500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-thursday-november-5-2026-900am-945am-aqua-dance-classics@ymcao
  fcm-7022
 DESCRIPTION:Group Exercise\nDance party set to hit music from the 60s\, 70
@@ -1399,7 +1331,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Boxing Open Gym @ Boxing Room
 DTSTART:20261105T230000Z
 DTEND:20261106T013000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-thursday-november-5-2026-600pm-830pm-boxing-open-gym@ymcaofcm-
  7022
 DESCRIPTION:Group Exercise\nAdvanced training for those familiar with boxi
@@ -1414,7 +1346,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Cycling @ Studio C
 DTSTART:20261105T230000Z
 DTEND:20261106T000000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-thursday-november-5-2026-600pm-700pm-cycling@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nA high-energy indoor cycling class set to moti
  vating music. Ride through intervals\, climbs\, and sprints designed to bu
@@ -1427,7 +1359,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] ZumbaSTRONG @ Studio A
 DTSTART:20261105T234500Z
 DTEND:20261106T004500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-thursday-november-5-2026-645pm-745pm-zumbastrong@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nZumbaSTRONG is a high-intensity\, music-driven
   workout that combines bodyweight strength training with athletic movement
@@ -1441,7 +1373,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Pilates @ Studio A
 DTSTART:20261106T124500Z
 DTEND:20261106T133000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-friday-november-6-2026-745am-830am-pilates@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nStrengthen your core\, work on shoulder & hip 
  mobility as well as balance & flexibility through sequences combining trad
@@ -1454,7 +1386,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Aqua Zumba @ Small Pool
 DTSTART:20261106T140000Z
 DTEND:20261106T144500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-friday-november-6-2026-900am-945am-aqua-zumba@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nDive into Aqua Zumba\, where Zumba rhythm and 
  dance meet the excitement of a pool party! This invigorating workout blend
@@ -1468,7 +1400,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Pilates @ Studio A
 DTSTART:20261106T223000Z
 DTEND:20261106T231500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-friday-november-6-2026-530pm-615pm-pilates@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nStrengthen your core\, work on shoulder & hip 
  mobility as well as balance & flexibility through sequences combining trad
@@ -1481,7 +1413,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Zumba @ Studio A
 DTSTART:20261106T233000Z
 DTEND:20261107T003000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-friday-november-6-2026-630pm-730pm-zumba@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -1494,7 +1426,7 @@ BEGIN:VEVENT
 SUMMARY:[Central] Spin @ Studio C
 DTSTART:20261107T140000Z
 DTEND:20261107T150000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:central-saturday-november-7-2026-900am-1000am-spin@ymcaofcm-7022
 DESCRIPTION:Group Exercise\nFind your own rhythm in a cycling workout that
   delivers maximum cardio results with minimum impact on your joints! This 
@@ -1504,78 +1436,10 @@ LOCATION:Studio C\, Central Community Branch\, 766 Main St\, Worcester\, M
  A 01610
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Greendale] Les Mills Body Combat Rotation @ Main Studio (Lower Le
- vel)
-DTSTART:20261031T121500Z
-DTEND:20261031T130000Z
-DTSTAMP:20261031T150214Z
-UID:greendale-saturday-october-31-2026-815am-900am-les-mills-body-combat-r
- otation@ymcaofcm-7023
-DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
-LOCATION:Main Studio (Lower Level)\, Greendale Family Branch\, 75 Shore Dr
- \, Worcester\, MA 01605
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Greendale] Cycling /Rotating Instructors @ Spin Studio (Lower Lev
- el)
-DTSTART:20261031T123000Z
-DTEND:20261031T131500Z
-DTSTAMP:20261031T150214Z
-UID:greendale-saturday-october-31-2026-830am-915am-cycling-rotating-instru
- ctors@ymcaofcm-7023
-DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
-LOCATION:Spin Studio (Lower Level)\, Greendale Family Branch\, 75 Shore Dr
- \, Worcester\, MA 01605
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Greendale] Power PiYo with Pat D @ SMB Studio (Main Level)
-DTSTART:20261031T131500Z
-DTEND:20261031T141500Z
-DTSTAMP:20261031T150214Z
-UID:greendale-saturday-october-31-2026-915am-1015am-power-piyo-with-pat-d@
- ymcaofcm-7023
-DESCRIPTION:Group Exercise\nPiYo is a dynamic workout that combines the co
- re-strengthening benefits of Pilates with the flexibility and balance of y
- oga\, all while being low-impact yet high-intensity. Join Pat in the SMB s
- tudio on Saturday mornings for this amazing workout!\nBranch: Greendale Fa
- mily Branch
-LOCATION:SMB Studio (Main Level)\, Greendale Family Branch\, 75 Shore Dr\,
-  Worcester\, MA 01605
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Greendale] Gladiator Fitness HIIT w/Geoff @ HIIT DECK (Wellness C
- enter)
-DTSTART:20261031T133000Z
-DTEND:20261031T141500Z
-DTSTAMP:20261031T150214Z
-UID:greendale-saturday-october-31-2026-930am-1015am-gladiator-fitness-hiit
- -wgeoff@ymcaofcm-7023
-DESCRIPTION:Group Exercise\nTap into your inner Warrior and take your Fitn
- ess to the next level\, working on agility\, strength\, and over all condi
- tioning. Push the barriers within.\nBranch: Greendale Family Branch
-LOCATION:HIIT DECK (Wellness Center)\, Greendale Family Branch\, 75 Shore 
- Dr\, Worcester\, MA 01605
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Greendale] Les Mills BodyPump w/Francesca @ Main Studio (Lower Le
- vel)
-DTSTART:20261031T133000Z
-DTEND:20261031T143000Z
-DTSTAMP:20261031T150214Z
-UID:greendale-saturday-october-31-2026-930am-1030am-les-mills-bodypump-wfr
- ancesca@ymcaofcm-7023
-DESCRIPTION:Group Exercise\nLes Mills BODYPUMP is a group fitness class th
- at combines barbell strength training with high-energy music. It is a popu
- lar workout that provides a full-body workout\, building muscle strength a
- nd endurance.\nBranch: Greendale Family Branch
-LOCATION:Main Studio (Lower Level)\, Greendale Family Branch\, 75 Shore Dr
- \, Worcester\, MA 01605
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Greendale] Pilates with Pat D. @ SMB Studio (Main Level)
 DTSTART:20261101T143000Z
 DTEND:20261101T153000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-sunday-november-1-2026-930am-1030am-pilates-with-pat-d@ymcao
  fcm-7023
 DESCRIPTION:Group Exercise\nJoin Pat D as she teaches this dynamic Pilates
@@ -1592,7 +1456,7 @@ SUMMARY:[Greendale] Les Mills Body Pump w/Theresa @ Main Studio (Lower Lev
  el)
 DTSTART:20261102T103000Z
 DTEND:20261102T113000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-monday-november-2-2026-530am-630am-les-mills-body-pump-wther
  esa@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nBODYPUMP is the original barbell group fitness
@@ -1607,7 +1471,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Spin Revolution w/ Jill W @ Spin Studio (Lower Level)
 DTSTART:20261102T131500Z
 DTEND:20261102T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-monday-november-2-2026-815am-900am-spin-revolution-w-jill-w@
  ymcaofcm-7023
 DESCRIPTION:Group Exercise\nThis cycling class is a great non-impact cardi
@@ -1621,7 +1485,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Morning Movement and Flow @ SMB Studio (Main Level)
 DTSTART:20261102T131500Z
 DTEND:20261102T141500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-monday-november-2-2026-815am-915am-morning-movement-and-flow
  @ymcaofcm-7023
 DESCRIPTION:Group Exercise\nStart your day getting center and focused with
@@ -1636,7 +1500,7 @@ SUMMARY:[Greendale] Les Mills Body Pump w/ Tori @ Main Studio (Lower Level
  )
 DTSTART:20261102T141500Z
 DTEND:20261102T150000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-monday-november-2-2026-915am-1000am-les-mills-body-pump-w-to
  ri@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -1647,7 +1511,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Body Burn HIIT w/ Tarsha @ HIIT DECK (Wellness Center)
 DTSTART:20261102T143000Z
 DTEND:20261102T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-monday-november-2-2026-930am-1015am-body-burn-hiit-w-tarsha@
  ymcaofcm-7023
 DESCRIPTION:Group Exercise\nGet out of your comfort zone and into a burn h
@@ -1661,7 +1525,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Aqua Flow @ Alden Pool (4ft)
 DTSTART:20261102T144500Z
 DTEND:20261102T153000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-monday-november-2-2026-945am-1030am-aqua-flow@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
 LOCATION:Alden Pool (4ft)\, Greendale Family Branch\, 75 Shore Dr\, Worces
@@ -1672,7 +1536,7 @@ SUMMARY:[Greendale] Les Mills Body Pump Heavy $$ @ Main Studio (Lower Leve
  l)
 DTSTART:20261102T151500Z
 DTEND:20261102T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-monday-november-2-2026-1015am-1115am-les-mills-body-pump-hea
  vy-@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -1683,7 +1547,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Now and Zen w/ Tarsha @ SMB Studio (Main Level)
 DTSTART:20261102T153000Z
 DTEND:20261102T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-monday-november-2-2026-1030am-1115am-now-and-zen-w-tarsha@ym
  caofcm-7023
 DESCRIPTION:Group Exercise\nCome and make your day stress free with calmin
@@ -1696,7 +1560,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Cycling with Paul @ Spin Studio (Lower Level)
 DTSTART:20261102T221500Z
 DTEND:20261102T230000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-monday-november-2-2026-515pm-600pm-cycling-with-paul@ymcaofc
  m-7023
 DESCRIPTION:Group Exercise\nJoin our instructors for Indoor cycling wwhich
@@ -1709,7 +1573,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Zumba + Lift with Linda K @ Main Studio (Lower Level)
 DTSTART:20261102T221500Z
 DTEND:20261102T230000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-monday-november-2-2026-515pm-600pm-zumba--lift-with-linda-k@
  ymcaofcm-7023
 DESCRIPTION:Group Exercise\nJoin Linda K for this Latin music inspired cla
@@ -1723,7 +1587,7 @@ SUMMARY:[Greendale] Les Mills Body Pump w/Victoria @ Main Studio (Lower Le
  vel)
 DTSTART:20261102T231500Z
 DTEND:20261103T001500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-monday-november-2-2026-615pm-715pm-les-mills-body-pump-wvict
  oria@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -1734,7 +1598,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Hatha Flow w/Paula @ SMB Studio (Main Level)
 DTSTART:20261102T231500Z
 DTEND:20261103T000000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-monday-november-2-2026-615pm-700pm-hatha-flow-wpaula@ymcaofc
  m-7023
 DESCRIPTION:Group Exercise\nBe centered and rejuvenated in this Hatha Flow
@@ -1749,7 +1613,7 @@ SUMMARY:[Greendale] Cycling /Rotating Instructors @ Spin Studio (Lower Lev
  el)
 DTSTART:20261103T103000Z
 DTEND:20261103T111500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-tuesday-november-3-2026-530am-615am-cycling-rotating-instruc
  tors@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -1760,7 +1624,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] RowFit w/ Jill W @ HIIT DECK (Wellness Center)
 DTSTART:20261103T131500Z
 DTEND:20261103T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-tuesday-november-3-2026-815am-900am-rowfit-w-jill-w@ymcaofcm
  -7023
 DESCRIPTION:Group Exercise\nThis Hybrid class combines rowing drills using
@@ -1775,7 +1639,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Dance and Tone w/ Sue @ Main Studio (Lower Level)
 DTSTART:20261103T133000Z
 DTEND:20261103T143000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-tuesday-november-3-2026-830am-930am-dance-and-tone-w-sue@ymc
  aofcm-7023
 DESCRIPTION:Group Exercise\nHave fun dancing to favorite tunes from the pa
@@ -1791,7 +1655,7 @@ SUMMARY:[Greendale] Mobility with Jill Andros @ HIIT DECK (Wellness Center
  )
 DTSTART:20261103T141500Z
 DTEND:20261103T150000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-tuesday-november-3-2026-915am-1000am-mobility-with-jill-andr
  os@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nLearn to move with a better control\, strength
@@ -1805,7 +1669,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Triple Fusion with Betsy @ Main Studio (Lower Level)
 DTSTART:20261103T143000Z
 DTEND:20261103T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-tuesday-november-3-2026-930am-1015am-triple-fusion-with-bets
  y@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nJoin Betsy for this hour of cardio\, strength
@@ -1818,7 +1682,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Pilates with Alisha @ SMB Studio (Main Level)
 DTSTART:20261103T143000Z
 DTEND:20261103T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-tuesday-november-3-2026-930am-1015am-pilates-with-alisha@ymc
  aofcm-7023
 DESCRIPTION:Group Exercise\nJoin Alisha as she instructs this low-impact m
@@ -1832,7 +1696,7 @@ SUMMARY:[Greendale] Strict Strength w/Jill Andros @ HIIT DECK (Wellness Ce
  nter)
 DTSTART:20261103T151500Z
 DTEND:20261103T160000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-tuesday-november-3-2026-1015am-1100am-strict-strength-wjill-
  andros@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nStrict Stength is a full body strength class w
@@ -1845,7 +1709,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Pilates with Lisa @ SMB Studio (Main Level)
 DTSTART:20261103T153000Z
 DTEND:20261103T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-tuesday-november-3-2026-1030am-1130am-pilates-with-lisa@ymca
  ofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -1856,7 +1720,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Silver Sneakers Circuit @ Main Studio (Lower Level)
 DTSTART:20261103T153000Z
 DTEND:20261103T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-tuesday-november-3-2026-1030am-1115am-silver-sneakers-circui
  t@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nSilver Sneakers Circuit is a fun\, intermediat
@@ -1870,7 +1734,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] FIrst Step Fitness w/Geoff @ Wellness Center
 DTSTART:20261103T211500Z
 DTEND:20261103T220000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-tuesday-november-3-2026-415pm-500pm-first-step-fitness-wgeof
  f@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nFormly know as Y Curves our new and improved b
@@ -1886,7 +1750,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Cardio Combat w/ Pat @ Main Studio (Lower Level)
 DTSTART:20261103T221500Z
 DTEND:20261103T230000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-tuesday-november-3-2026-515pm-600pm-cardio-combat-w-pat@ymca
  ofcm-7023
 DESCRIPTION:Group Exercise\nNon-stop combination class with kickboxing\, p
@@ -1899,7 +1763,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Sculpt with Pat D @ Main Studio (Lower Level)
 DTSTART:20261103T231500Z
 DTEND:20261104T000000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-tuesday-november-3-2026-615pm-700pm-sculpt-with-pat-d@ymcaof
  cm-7023
 DESCRIPTION:Group Exercise\nJoin Pat on Tuesdays in the main studio for a 
@@ -1915,7 +1779,7 @@ SUMMARY:[Greendale] Stretch\, Flex\, &amp\; Reset w/Jacob @ SMB Studio (Ma
  in Level)
 DTSTART:20261104T001500Z
 DTEND:20261104T010000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-tuesday-november-3-2026-715pm-800pm-stretch-flex-amp-reset-w
  jacob@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nJoin us in this new dynamic full body\, flexib
@@ -1930,7 +1794,7 @@ SUMMARY:[Greendale] Gladiator Fitness HIIT w/Geoff @ HIIT DECK (Wellness C
  enter)
 DTSTART:20261104T103000Z
 DTEND:20261104T111500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-wednesday-november-4-2026-530am-615am-gladiator-fitness-hiit
  -wgeoff@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nTap into your inner Warrior and take your Fitn
@@ -1943,7 +1807,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Wake Up Yoga w/ Walter @ SMB Studio (Main Level)
 DTSTART:20261104T103000Z
 DTEND:20261104T111500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-wednesday-november-4-2026-530am-615am-wake-up-yoga-w-walter@
  ymcaofcm-7023
 DESCRIPTION:Group Exercise\nThrough mindful movement\, breathwork\, and gr
@@ -1959,7 +1823,7 @@ SUMMARY:[Greendale] Les Mills Body Pump w/ Tori @ Main Studio (Lower Level
  )
 DTSTART:20261104T131500Z
 DTEND:20261104T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-wednesday-november-4-2026-815am-900am-les-mills-body-pump-w-
  tori@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -1970,7 +1834,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Aqua Fit @ Alden Pool (4ft)
 DTSTART:20261104T140000Z
 DTEND:20261104T144500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-wednesday-november-4-2026-900am-945am-aqua-fit@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nThis low-impact class is performed in water an
  d is designed to improve joint stability\, coordination\, and strength. Th
@@ -1982,7 +1846,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Step by Step with Linda K @ Main Studio (Lower Level)
 DTSTART:20261104T141500Z
 DTEND:20261104T150000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-wednesday-november-4-2026-915am-1000am-step-by-step-with-lin
  da-k@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nWe're bringing it back! Join Linda K for a gre
@@ -1995,7 +1859,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Cycle Fusion w/Tarsha @ Spin Studio (Lower Level)
 DTSTART:20261104T143000Z
 DTEND:20261104T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-wednesday-november-4-2026-930am-1015am-cycle-fusion-wtarsha@
  ymcaofcm-7023
 DESCRIPTION:Group Exercise\nEnjoy the best of both worlds with this mash-u
@@ -2008,7 +1872,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Water Walking @ Alden Pool (4ft)
 DTSTART:20261104T144500Z
 DTEND:20261104T153000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-wednesday-november-4-2026-945am-1030am-water-walking@ymcaofc
  m-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -2020,7 +1884,7 @@ SUMMARY:[Greendale] Les Mills Body Pump Heavy $$ @ Main Studio (Lower Leve
  l)
 DTSTART:20261104T151500Z
 DTEND:20261104T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-wednesday-november-4-2026-1015am-1115am-les-mills-body-pump-
  heavy-@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -2031,7 +1895,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Mindful Flow w/ Ellery @ SMB Studio (Main Level)
 DTSTART:20261104T153000Z
 DTEND:20261104T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-wednesday-november-4-2026-1030am-1130am-mindful-flow-w-eller
  y@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nPractice intentional movements coupled with mi
@@ -2046,7 +1910,7 @@ SUMMARY:[Greendale] Sit &amp\; Stand Chair Yoga/Betsy @ SMB Studio (Main L
  evel)
 DTSTART:20261104T164500Z
 DTEND:20261104T174500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-wednesday-november-4-2026-1145am-1245pm-sit-amp-stand-chair-
  yogabetsy@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nCome join us in this low impact supportive yog
@@ -2061,7 +1925,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Cycling w/ Betsy @ Spin Studio (Lower Level)
 DTSTART:20261104T221500Z
 DTEND:20261104T230000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-wednesday-november-4-2026-515pm-600pm-cycling-w-betsy@ymcaof
  cm-7023
 DESCRIPTION:Group Exercise\nThis class is geared to improve overall endura
@@ -2080,7 +1944,7 @@ SUMMARY:[Greendale] Les Mills Body Pump Heavy $$ @ Main Studio (Lower Leve
  l)
 DTSTART:20261104T223000Z
 DTEND:20261104T231500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-wednesday-november-4-2026-530pm-615pm-les-mills-body-pump-he
  avy-@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -2092,7 +1956,7 @@ SUMMARY:[Greendale] Les Mills Body Pump w/ Yesi @ Main Studio (Lower Level
  )
 DTSTART:20261104T233000Z
 DTEND:20261105T001500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-wednesday-november-4-2026-630pm-715pm-les-mills-body-pump-w-
  yesi@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -2103,7 +1967,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Cycling with John B @ Spin Studio (Lower Level)
 DTSTART:20261105T103000Z
 DTEND:20261105T111500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-530am-615am-cycling-with-john-b@ymc
  aofcm-7023
 DESCRIPTION:Group Exercise\nJoin our instructors for Indoor cycling wwhich
@@ -2116,7 +1980,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] RowFit w/ Jill W @ HIIT DECK (Wellness Center)
 DTSTART:20261105T131500Z
 DTEND:20261105T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-815am-900am-rowfit-w-jill-w@ymcaofc
  m-7023
 DESCRIPTION:Group Exercise\nThis Hybrid class combines rowing drills using
@@ -2131,7 +1995,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Dance and Tone w/ Sue @ Main Studio (Lower Level)
 DTSTART:20261105T133000Z
 DTEND:20261105T143000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-830am-930am-dance-and-tone-w-sue@ym
  caofcm-7023
 DESCRIPTION:Group Exercise\nHave fun dancing to favorite tunes from the pa
@@ -2146,7 +2010,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Cuts and Curves w/ Linda @ SMB Studio (Main Level)
 DTSTART:20261105T141500Z
 DTEND:20261105T150000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-915am-1000am-cuts-and-curves-w-lind
  a@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nHave fun and build muscle in this 45 minute cl
@@ -2159,7 +2023,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Triple Fusion with Betsy @ Main Studio (Lower Level)
 DTSTART:20261105T143000Z
 DTEND:20261105T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-930am-1015am-triple-fusion-with-bet
  sy@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nJoin Betsy for this hour of cardio\, strength
@@ -2173,7 +2037,7 @@ SUMMARY:[Greendale] Les Mills Body Pump Heavy $$ @ Main Studio (Lower Leve
  l)
 DTSTART:20261105T151500Z
 DTEND:20261105T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-1015am-1115am-les-mills-body-pump-h
  eavy-@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -2185,7 +2049,7 @@ SUMMARY:[Greendale] Strict Strength w/Jill Andros @ HIIT DECK (Wellness Ce
  nter)
 DTSTART:20261105T151500Z
 DTEND:20261105T160000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-1015am-1100am-strict-strength-wjill
  -andros@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nStrict Stength is a full body strength class w
@@ -2198,7 +2062,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Yoga Meditation w/ Ellery @ SMB Studio (Main Level)
 DTSTART:20261105T153000Z
 DTEND:20261105T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-1030am-1130am-yoga-meditation-w-ell
  ery@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nTap into your innner Warrior and silence the m
@@ -2211,7 +2075,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Writing Class (Paid Program) @ SMB Studio (Main Level)
 DTSTART:20261105T170000Z
 DTEND:20261105T183000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-1200pm-130pm-writing-class-paid-pro
  gram@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nThe Y is excited to launch Free Writes! progra
@@ -2240,7 +2104,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] FIrst Step Fitness w/Geoff @ Wellness Center
 DTSTART:20261105T211500Z
 DTEND:20261105T220000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-415pm-500pm-first-step-fitness-wgeo
  ff@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nFormly know as Y Curves our new and improved b
@@ -2257,7 +2121,7 @@ SUMMARY:[Greendale] Deep Water Moves W/Bernadette @ Woodbury Pool (3ft-10f
  t)
 DTSTART:20261105T221000Z
 DTEND:20261105T225500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-510pm-555pm-deep-water-moves-wberna
  dette@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nJoin Bernadette in the Woodbury Pool for this 
@@ -2272,7 +2136,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Cardio Combat w/ Pat @ Main Studio (Lower Level)
 DTSTART:20261105T221500Z
 DTEND:20261105T230000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-515pm-600pm-cardio-combat-w-pat@ymc
  aofcm-7023
 DESCRIPTION:Group Exercise\nNon-stop combination class with kickboxing\, p
@@ -2286,7 +2150,7 @@ SUMMARY:[Greendale] Les Mills Body Pump Heavy $$ @ Main Studio (Lower Leve
  l)
 DTSTART:20261105T223000Z
 DTEND:20261105T231500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-530pm-615pm-les-mills-body-pump-hea
  vy-@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -2297,7 +2161,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Zumba @ Main Studio (Lower Level)
 DTSTART:20261105T231500Z
 DTEND:20261106T000000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-615pm-700pm-zumba@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -2311,7 +2175,7 @@ SUMMARY:[Greendale] Pilates &amp\; Strength w/Francesca @ SMB Studio (Main
   Level)
 DTSTART:20261105T231500Z
 DTEND:20261106T001500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-thursday-november-5-2026-615pm-715pm-pilates-amp-strength-wf
  rancesca@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nThis hybrid class combines movements of Pilate
@@ -2325,7 +2189,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Les Mills Body Pump/Core @ Main Studio (Lower Level)
 DTSTART:20261106T103000Z
 DTEND:20261106T113000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-friday-november-6-2026-530am-630am-les-mills-body-pumpcore@y
  mcaofcm-7023
 DESCRIPTION:Group Exercise\nThis class starts with 30 min of light to mode
@@ -2339,7 +2203,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Spin Revolution w/ Jill W @ Spin Studio (Lower Level)
 DTSTART:20261106T131500Z
 DTEND:20261106T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-friday-november-6-2026-815am-900am-spin-revolution-w-jill-w@
  ymcaofcm-7023
 DESCRIPTION:Group Exercise\nThis cycling class is a great non-impact cardi
@@ -2353,7 +2217,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Pilates with Lisa @ SMB Studio (Main Level)
 DTSTART:20261106T131500Z
 DTEND:20261106T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-friday-november-6-2026-815am-900am-pilates-with-lisa@ymcaofc
  m-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -2365,7 +2229,7 @@ SUMMARY:[Greendale] Deep Water Burdenko - 6 Lanes @ Woodbury Pool (3ft-10f
  t)
 DTSTART:20261106T140000Z
 DTEND:20261106T144500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-friday-november-6-2026-900am-945am-deep-water-burdenko---6-l
  anes@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nDeep Water Burdenko class that offers a non-we
@@ -2379,7 +2243,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Zumba @ Main Studio (Lower Level)
 DTSTART:20261106T141500Z
 DTEND:20261106T150000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-friday-november-6-2026-915am-1000am-zumba@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -2392,7 +2256,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Back2Hips with Geoff @ SMB Studio (Main Level)
 DTSTART:20261106T141500Z
 DTEND:20261106T150000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-friday-november-6-2026-915am-1000am-back2hips-with-geoff@ymc
  aofcm-7023
 DESCRIPTION:Group Exercise\nJoin Geoff as he uses bands and exercises to s
@@ -2406,7 +2270,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Body Burn HIIT w/ Tarsha @ HIIT DECK (Wellness Center)
 DTSTART:20261106T143000Z
 DTEND:20261106T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-friday-november-6-2026-930am-1015am-body-burn-hiit-w-tarsha@
  ymcaofcm-7023
 DESCRIPTION:Group Exercise\nGet out of your comfort zone and into a burn h
@@ -2421,7 +2285,7 @@ SUMMARY:[Greendale] Les Mills Body Pump Heavy $$ @ Main Studio (Lower Leve
  l)
 DTSTART:20261106T151500Z
 DTEND:20261106T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-friday-november-6-2026-1015am-1115am-les-mills-body-pump-hea
  vy-@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -2433,7 +2297,7 @@ SUMMARY:[Greendale] Rise &amp\; Align Yoga with Walter @ SMB Studio (Main
  Level)
 DTSTART:20261106T153000Z
 DTEND:20261106T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-friday-november-6-2026-1030am-1115am-rise-amp-align-yoga-wit
  h-walter@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nThis class will improve on balance\, flexibili
@@ -2447,7 +2311,7 @@ SUMMARY:[Greendale] Paula&#039\;s Deep Water Class @ Woodbury Pool (3ft-10
  ft)
 DTSTART:20261106T221500Z
 DTEND:20261106T230000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-friday-november-6-2026-515pm-600pm-paula039s-deep-water-clas
  s@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nJoin Paula on Friday evenings as she teaches t
@@ -2460,7 +2324,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Rhythm Ride w/ Francesca @ Spin Studio (Lower Level)
 DTSTART:20261106T223000Z
 DTEND:20261106T231500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-friday-november-6-2026-530pm-615pm-rhythm-ride-w-francesca@y
  mcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -2472,7 +2336,7 @@ SUMMARY:[Greendale] Les Mills Body Pump Heavy $$ @ Main Studio (Lower Leve
  l)
 DTSTART:20261106T223000Z
 DTEND:20261106T231500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-friday-november-6-2026-530pm-615pm-les-mills-body-pump-heavy
  -@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -2483,7 +2347,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Yin Yoga w/Paula @ SMB Studio (Main Level)
 DTSTART:20261106T231500Z
 DTEND:20261107T000000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-friday-november-6-2026-615pm-700pm-yin-yoga-wpaula@ymcaofcm-
  7023
 DESCRIPTION:Group Exercise\nEnd your week in this cozy Yin Yoga class as P
@@ -2498,7 +2362,7 @@ SUMMARY:[Greendale] Les Mills Body Combat Rotation @ Main Studio (Lower Le
  vel)
 DTSTART:20261107T131500Z
 DTEND:20261107T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-saturday-november-7-2026-815am-900am-les-mills-body-combat-r
  otation@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -2510,7 +2374,7 @@ SUMMARY:[Greendale] Cycling /Rotating Instructors @ Spin Studio (Lower Lev
  el)
 DTSTART:20261107T133000Z
 DTEND:20261107T141500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-saturday-november-7-2026-830am-915am-cycling-rotating-instru
  ctors@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -2521,7 +2385,7 @@ BEGIN:VEVENT
 SUMMARY:[Greendale] Power PiYo with Pat D @ SMB Studio (Main Level)
 DTSTART:20261107T141500Z
 DTEND:20261107T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-saturday-november-7-2026-915am-1015am-power-piyo-with-pat-d@
  ymcaofcm-7023
 DESCRIPTION:Group Exercise\nPiYo is a dynamic workout that combines the co
@@ -2537,7 +2401,7 @@ SUMMARY:[Greendale] Gladiator Fitness HIIT w/Geoff @ HIIT DECK (Wellness C
  enter)
 DTSTART:20261107T143000Z
 DTEND:20261107T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-saturday-november-7-2026-930am-1015am-gladiator-fitness-hiit
  -wgeoff@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nTap into your inner Warrior and take your Fitn
@@ -2551,7 +2415,7 @@ SUMMARY:[Greendale] Les Mills BodyPump w/Francesca @ Main Studio (Lower Le
  vel)
 DTSTART:20261107T143000Z
 DTEND:20261107T153000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-saturday-november-7-2026-930am-1030am-les-mills-bodypump-wfr
  ancesca@ymcaofcm-7023
 DESCRIPTION:Group Exercise\nLes Mills BODYPUMP is a group fitness class th
@@ -2566,7 +2430,7 @@ SUMMARY:[Greendale] Les Mills Body Pump Heavy $$ @ Main Studio (Lower Leve
  l)
 DTSTART:20261107T151500Z
 DTEND:20261107T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-saturday-november-7-2026-1015am-1115am-les-mills-body-pump-h
  eavy-@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -2578,7 +2442,7 @@ SUMMARY:[Greendale] Les Mills Body Pump Heavy $$ @ Main Studio (Lower Leve
  l)
 DTSTART:20261107T223000Z
 DTEND:20261107T231500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:greendale-saturday-november-7-2026-530pm-615pm-les-mills-body-pump-hea
  vy-@ymcaofcm-7023
 DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
@@ -2586,50 +2450,65 @@ LOCATION:Main Studio (Lower Level)\, Greendale Family Branch\, 75 Shore Dr
  \, Worcester\, MA 01605
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Leominster] Spin Fusion @ Group Exercise Room
-DTSTART:20261031T120000Z
-DTEND:20261031T130000Z
-DTSTAMP:20261031T150214Z
-UID:leominster-saturday-october-31-2026-800am-900am-spin-fusion@ymcaofcm-7
- 024
-DESCRIPTION:Group Exercise\nA dynamic spin class merging cycling with dumb
- bell exercises for a comprehensive workout experience. Engage in invigorat
- ing cycling intervals interspersed with targeted strength training segment
- s using dumbbells.\nBranch: Leominster Community Branch
-LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
- \, Leominster\, MA 01453
+SUMMARY:[Greendale] Stretch\, Flex\, &amp\; Reset w/Jacob @ SMB Studio (Ma
+ in Level)
+DTSTART:20261108T131500Z
+DTEND:20261108T140000Z
+DTSTAMP:20261101T154504Z
+UID:greendale-sunday-november-8-2026-815am-900am-stretch-flex-amp-reset-wj
+ acob@ymcaofcm-7023
+DESCRIPTION:Group Exercise\nJoin us in this new dynamic full body\, flexib
+ ility class. We will focus on deep stretching\, strengthening\, and recove
+ ry. Give your body the stretch it needs. Good for all ages.\nBranch: Green
+ dale Family Branch
+LOCATION:SMB Studio (Main Level)\, Greendale Family Branch\, 75 Shore Dr\,
+  Worcester\, MA 01605
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Leominster] Yoga @ Group Exercise Room
-DTSTART:20261031T131500Z
-DTEND:20261031T141500Z
-DTSTAMP:20261031T150214Z
-UID:leominster-saturday-october-31-2026-915am-1015am-yoga@ymcaofcm-7024
-DESCRIPTION:Group Exercise\nThis mixed-level class includes breathing\, ce
- ntering\, sun salutations\, poses\, stretches and a final relaxation/medit
- ation.\nBranch: Leominster Community Branch
-LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
- \, Leominster\, MA 01453
+SUMMARY:[Greendale] Pilates with Pat D. @ SMB Studio (Main Level)
+DTSTART:20261108T143000Z
+DTEND:20261108T153000Z
+DTSTAMP:20261101T154504Z
+UID:greendale-sunday-november-8-2026-930am-1030am-pilates-with-pat-d@ymcao
+ fcm-7023
+DESCRIPTION:Group Exercise\nJoin Pat D as she teaches this dynamic Pilates
+  class which is a form of exercise that focuses on strengthening and tonin
+ g the body\, improving posture\, and enhancing flexibility. It involves a 
+ series of controlled movements performed on specialized equipment or on th
+ e floor\, using body weight and resistance.\nBranch: Greendale Family Bran
+ ch
+LOCATION:SMB Studio (Main Level)\, Greendale Family Branch\, 75 Shore Dr\,
+  Worcester\, MA 01605
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Leominster] HIIT @ HIIT Deck
-DTSTART:20261031T143000Z
-DTEND:20261031T151500Z
-DTSTAMP:20261031T150214Z
-UID:leominster-saturday-october-31-2026-1030am-1115am-hiit@ymcaofcm-7024
-DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
- orkout where you'll power through circuits of 10-30 second intervals using
-  dumbbells\, kettlebells\, resistance bands\, and bodyweight exercises. Th
- is intense class is designed to boost your cardiovascular health while dra
- matically increasing muscle strength.\nBranch: Leominster Community Branch
-LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
- er\, MA 01453
+SUMMARY:[Greendale] Les Mills Body Pump Heavy $$ @ Main Studio (Lower Leve
+ l)
+DTSTART:20261108T151500Z
+DTEND:20261108T161500Z
+DTSTAMP:20261101T154504Z
+UID:greendale-sunday-november-8-2026-1015am-1115am-les-mills-body-pump-hea
+ vy-@ymcaofcm-7023
+DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
+LOCATION:Main Studio (Lower Level)\, Greendale Family Branch\, 75 Shore Dr
+ \, Worcester\, MA 01605
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Greendale] Les Mills Body Pump Heavy $$ @ Main Studio (Lower Leve
+ l)
+DTSTART:20261108T223000Z
+DTEND:20261108T231500Z
+DTSTAMP:20261101T154504Z
+UID:greendale-sunday-november-8-2026-530pm-615pm-les-mills-body-pump-heavy
+ -@ymcaofcm-7023
+DESCRIPTION:Group Exercise\n\nBranch: Greendale Family Branch
+LOCATION:Main Studio (Lower Level)\, Greendale Family Branch\, 75 Shore Dr
+ \, Worcester\, MA 01605
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Leominster] Spin @ Group Exercise Room
 DTSTART:20261101T131500Z
 DTEND:20261101T141500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-sunday-november-1-2026-815am-915am-spin@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nFind your own rhythm in a cycling workout that
   delivers maximum cardio results with minimum impact on your joints! This 
@@ -2642,7 +2521,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Early Bird Cycling @ Group Exercise Room
 DTSTART:20261102T101500Z
 DTEND:20261102T110000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-monday-november-2-2026-515am-600am-early-bird-cycling@ymcao
  fcm-7024
 DESCRIPTION:Group Exercise\n\nBranch: Leominster Community Branch
@@ -2653,7 +2532,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] HIIT @ HIIT Deck
 DTSTART:20261102T120000Z
 DTEND:20261102T124500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-monday-november-2-2026-700am-745am-hiit@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -2667,7 +2546,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] HIIT @ HIIT Deck
 DTSTART:20261102T131500Z
 DTEND:20261102T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-monday-november-2-2026-815am-900am-hiit@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -2681,7 +2560,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Zumba Gold @ Group Exercise Room
 DTSTART:20261102T141500Z
 DTEND:20261102T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-monday-november-2-2026-915am-1015am-zumba-gold@ymcaofcm-702
  4
 DESCRIPTION:Group Exercise\nA low impact and beginner friendly class suita
@@ -2695,7 +2574,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] HIIT @ HIIT Deck
 DTSTART:20261102T153000Z
 DTEND:20261102T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-monday-november-2-2026-1030am-1115am-hiit@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -2709,7 +2588,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] LIVESTRONG @ Group Exercise Room
 DTSTART:20261102T220000Z
 DTEND:20261102T230000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-monday-november-2-2026-500pm-600pm-livestrong@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nA free 12-week program for adult cancer surviv
  ors to help transition from treatment to regaining physical and emotional 
@@ -2722,7 +2601,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] HIIT @ Group Exercise Room
 DTSTART:20261102T223000Z
 DTEND:20261102T231500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-monday-november-2-2026-530pm-615pm-hiit@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -2736,7 +2615,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Sunrise Strength @ Group Exercise Room
 DTSTART:20261103T101500Z
 DTEND:20261103T110000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-tuesday-november-3-2026-515am-600am-sunrise-strength@ymcaof
  cm-7024
 DESCRIPTION:Group Exercise\n\nBranch: Leominster Community Branch
@@ -2747,7 +2626,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Yoga for All @ Group Exercise Room
 DTSTART:20261103T130000Z
 DTEND:20261103T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-tuesday-november-3-2026-800am-900am-yoga-for-all@ymcaofcm-7
  024
 DESCRIPTION:Group Exercise\n\nBranch: Leominster Community Branch
@@ -2758,7 +2637,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] SilverSneakers @ Group Exercise Room
 DTSTART:20261103T141500Z
 DTEND:20261103T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-tuesday-november-3-2026-915am-1015am-silversneakers@ymcaofc
  m-7024
 DESCRIPTION:Group Exercise\nHave fun and move to the music through a varie
@@ -2773,7 +2652,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] SilverSneakers @ Group Exercise Room
 DTSTART:20261103T153000Z
 DTEND:20261103T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-tuesday-november-3-2026-1030am-1130am-silversneakers@ymcaof
  cm-7024
 DESCRIPTION:Group Exercise\nHave fun and move to the music through a varie
@@ -2788,7 +2667,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Scenic Cycling @ Group Exercise Room
 DTSTART:20261103T174500Z
 DTEND:20261103T183000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-tuesday-november-3-2026-1245pm-130pm-scenic-cycling@ymcaofc
  m-7024
 DESCRIPTION:Group Exercise\nImmerse yourself in breathtaking landscapes ar
@@ -2801,7 +2680,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Zumba @ Group Exercise Room
 DTSTART:20261103T213000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-tuesday-november-3-2026-430pm-530pm-zumba@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -2814,7 +2693,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] HIIT @ HIIT Deck
 DTSTART:20261104T000000Z
 DTEND:20261104T004500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-tuesday-november-3-2026-700pm-745pm-hiit@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -2828,7 +2707,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Early Bird Cycling @ Group Exercise Room
 DTSTART:20261104T101500Z
 DTEND:20261104T110000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-wednesday-november-4-2026-515am-600am-early-bird-cycling@ym
  caofcm-7024
 DESCRIPTION:Group Exercise\n\nBranch: Leominster Community Branch
@@ -2839,7 +2718,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] HIIT @ HIIT Deck
 DTSTART:20261104T120000Z
 DTEND:20261104T124500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-wednesday-november-4-2026-700am-745am-hiit@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -2853,7 +2732,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] HIIT @ HIIT Deck
 DTSTART:20261104T131500Z
 DTEND:20261104T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-wednesday-november-4-2026-815am-900am-hiit@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -2867,7 +2746,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Zumba Gold @ Group Exercise Room
 DTSTART:20261104T141500Z
 DTEND:20261104T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-wednesday-november-4-2026-915am-1015am-zumba-gold@ymcaofcm-
  7024
 DESCRIPTION:Group Exercise\nA low impact and beginner friendly class suita
@@ -2881,7 +2760,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Zumba Gold Chair @ Group Exercise Room
 DTSTART:20261104T153000Z
 DTEND:20261104T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-wednesday-november-4-2026-1030am-1115am-zumba-gold-chair@ym
  caofcm-7024
 DESCRIPTION:Group Exercise\nA low impact and beginner friendly class suita
@@ -2895,7 +2774,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] HIIT @ HIIT Deck
 DTSTART:20261104T153000Z
 DTEND:20261104T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-wednesday-november-4-2026-1030am-1115am-hiit@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -2909,7 +2788,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Sunrise Strength @ Group Exercise Room
 DTSTART:20261105T101500Z
 DTEND:20261105T110000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-thursday-november-5-2026-515am-600am-sunrise-strength@ymcao
  fcm-7024
 DESCRIPTION:Group Exercise\n\nBranch: Leominster Community Branch
@@ -2920,7 +2799,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Yoga for All @ Group Exercise Room
 DTSTART:20261105T130000Z
 DTEND:20261105T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-thursday-november-5-2026-800am-900am-yoga-for-all@ymcaofcm-
  7024
 DESCRIPTION:Group Exercise\n\nBranch: Leominster Community Branch
@@ -2931,7 +2810,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] SilverSneakers @ Group Exercise Room
 DTSTART:20261105T141500Z
 DTEND:20261105T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-thursday-november-5-2026-915am-1015am-silversneakers@ymcaof
  cm-7024
 DESCRIPTION:Group Exercise\nHave fun and move to the music through a varie
@@ -2946,7 +2825,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Active Adults @ Group Exercise Room
 DTSTART:20261105T153000Z
 DTEND:20261105T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-thursday-november-5-2026-1030am-1115am-active-adults@ymcaof
  cm-7024
 DESCRIPTION:Group Exercise\n\nBranch: Leominster Community Branch
@@ -2957,7 +2836,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Scenic Cycling @ Group Exercise Room
 DTSTART:20261105T164500Z
 DTEND:20261105T173000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-thursday-november-5-2026-1145am-1230pm-scenic-cycling@ymcao
  fcm-7024
 DESCRIPTION:Group Exercise\nImmerse yourself in breathtaking landscapes ar
@@ -2970,7 +2849,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Zumba @ Group Exercise Room
 DTSTART:20261105T213000Z
 DTEND:20261105T223000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-thursday-november-5-2026-430pm-530pm-zumba@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -2983,7 +2862,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Spin @ Group Exercise Room
 DTSTART:20261105T231500Z
 DTEND:20261106T000000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-thursday-november-5-2026-615pm-700pm-spin@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nFind your own rhythm in a cycling workout that
   delivers maximum cardio results with minimum impact on your joints! This 
@@ -2996,7 +2875,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] HIIT @ HIIT Deck
 DTSTART:20261106T000000Z
 DTEND:20261106T004500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-thursday-november-5-2026-700pm-745pm-hiit@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -3010,7 +2889,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Early Bird Cycling @ Group Exercise Room
 DTSTART:20261106T101500Z
 DTEND:20261106T110000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-friday-november-6-2026-515am-600am-early-bird-cycling@ymcao
  fcm-7024
 DESCRIPTION:Group Exercise\n\nBranch: Leominster Community Branch
@@ -3021,7 +2900,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] HIIT @ HIIT Deck
 DTSTART:20261106T120000Z
 DTEND:20261106T124500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-friday-november-6-2026-700am-745am-hiit@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -3035,7 +2914,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Yoga for All @ Group Exercise Room
 DTSTART:20261106T130000Z
 DTEND:20261106T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-friday-november-6-2026-800am-900am-yoga-for-all@ymcaofcm-70
  24
 DESCRIPTION:Group Exercise\n\nBranch: Leominster Community Branch
@@ -3046,7 +2925,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] HIIT @ HIIT Deck
 DTSTART:20261106T131500Z
 DTEND:20261106T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-friday-november-6-2026-815am-900am-hiit@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -3060,7 +2939,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Active Chair Yoga @ Group Exercise Room
 DTSTART:20261106T141500Z
 DTEND:20261106T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-friday-november-6-2026-915am-1015am-active-chair-yoga@ymcao
  fcm-7024
 DESCRIPTION:Group Exercise\n\nBranch: Leominster Community Branch
@@ -3071,7 +2950,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Active Adults @ Group Exercise Room
 DTSTART:20261106T153000Z
 DTEND:20261106T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-friday-november-6-2026-1030am-1115am-active-adults@ymcaofcm
  -7024
 DESCRIPTION:Group Exercise\n\nBranch: Leominster Community Branch
@@ -3082,7 +2961,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] HIIT @ HIIT Deck
 DTSTART:20261106T153000Z
 DTEND:20261106T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-friday-november-6-2026-1030am-1115am-hiit@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -3096,7 +2975,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Gentle Yoga @ Group Exercise Room
 DTSTART:20261106T163000Z
 DTEND:20261106T173000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-friday-november-6-2026-1130am-1230pm-gentle-yoga@ymcaofcm-7
  024
 DESCRIPTION:Group Exercise\nGentle Yoga emphasizes safety through proper a
@@ -3112,7 +2991,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Spin Fusion @ Group Exercise Room
 DTSTART:20261107T130000Z
 DTEND:20261107T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-saturday-november-7-2026-800am-900am-spin-fusion@ymcaofcm-7
  024
 DESCRIPTION:Group Exercise\nA dynamic spin class merging cycling with dumb
@@ -3126,7 +3005,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] Yoga @ Group Exercise Room
 DTSTART:20261107T141500Z
 DTEND:20261107T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-saturday-november-7-2026-915am-1015am-yoga@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nThis mixed-level class includes breathing\, ce
  ntering\, sun salutations\, poses\, stretches and a final relaxation/medit
@@ -3138,7 +3017,7 @@ BEGIN:VEVENT
 SUMMARY:[Leominster] HIIT @ HIIT Deck
 DTSTART:20261107T153000Z
 DTEND:20261107T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:leominster-saturday-november-7-2026-1030am-1115am-hiit@ymcaofcm-7024
 DESCRIPTION:Group Exercise\nDive into a high-intensity interval training w
  orkout where you'll power through circuits of 10-30 second intervals using
@@ -3149,10 +3028,23 @@ LOCATION:HIIT Deck\, Leominster Community Branch\, 108 Adams St\, Leominst
  er\, MA 01453
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Leominster] Spin @ Group Exercise Room
+DTSTART:20261108T131500Z
+DTEND:20261108T141500Z
+DTSTAMP:20261101T154504Z
+UID:leominster-sunday-november-8-2026-815am-915am-spin@ymcaofcm-7024
+DESCRIPTION:Group Exercise\nFind your own rhythm in a cycling workout that
+  delivers maximum cardio results with minimum impact on your joints! This 
+ class simulates riding on flat terrain or hills while incorporating sprint
+ s\, jumps and leisure riding.\nBranch: Leominster Community Branch
+LOCATION:Group Exercise Room\, Leominster Community Branch\, 108 Adams St
+ \, Leominster\, MA 01453
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Montachusett] Yoga @ Community Room
 DTSTART:20261102T130000Z
 DTEND:20261102T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-monday-november-2-2026-800am-900am-yoga@ymcaofcm-7025
 DESCRIPTION:Group Exercise\nThis mixed-level class includes breathing\, ce
  ntering\, sun salutations\, poses\, stretches and a final relaxation/medit
@@ -3164,7 +3056,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] Chair Yoga @ Gymnasium
 DTSTART:20261102T141500Z
 DTEND:20261102T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-monday-november-2-2026-915am-1015am-chair-yoga@ymcaofcm-7
  025
 DESCRIPTION:Group Exercise\nFrom a chair\, practice seated and standing po
@@ -3178,7 +3070,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] Water Fit @ Pool
 DTSTART:20261102T153000Z
 DTEND:20261102T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-monday-november-2-2026-1030am-1130am-water-fit@ymcaofcm-7
  025
 DESCRIPTION:Group Exercise\nIncorporate stretching\, toning\, muscle stren
@@ -3192,7 +3084,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] Total Strength @ Lower Studio
 DTSTART:20261102T230000Z
 DTEND:20261103T000000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-monday-november-2-2026-600pm-700pm-total-strength@ymcaofc
  m-7025
 DESCRIPTION:Group Exercise\nLet's get those muscles moving with a total bo
@@ -3207,7 +3099,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] A.Y.A. @ Gymnasium
 DTSTART:20261103T141500Z
 DTEND:20261103T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-tuesday-november-3-2026-915am-1015am-aya@ymcaofcm-7025
 DESCRIPTION:Group Exercise\nFrom a chair\, enjoy a high energy workout tai
  lored for seniors that utilizes lightly weighted drumsticks. Engage in fun
@@ -3221,7 +3113,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] Water Fit @ Pool
 DTSTART:20261103T153000Z
 DTEND:20261103T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-tuesday-november-3-2026-1030am-1130am-water-fit@ymcaofcm-
  7025
 DESCRIPTION:Group Exercise\nIncorporate stretching\, toning\, muscle stren
@@ -3235,7 +3127,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] Sculpt with Pat D @ Upper Studio
 DTSTART:20261103T223000Z
 DTEND:20261103T233000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-tuesday-november-3-2026-530pm-630pm-sculpt-with-pat-d@ymc
  aofcm-7025
 DESCRIPTION:Group Exercise\nJoin Pat on Tuesdays in the main studio for a 
@@ -3250,7 +3142,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] Yoga @ Community Room
 DTSTART:20261104T130000Z
 DTEND:20261104T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-wednesday-november-4-2026-800am-900am-yoga@ymcaofcm-7025
 DESCRIPTION:Group Exercise\nThis mixed-level class includes breathing\, ce
  ntering\, sun salutations\, poses\, stretches and a final relaxation/medit
@@ -3262,7 +3154,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] SilverSneakers @ Gymnasium
 DTSTART:20261104T141500Z
 DTEND:20261104T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-wednesday-november-4-2026-915am-1015am-silversneakers@ymc
  aofcm-7025
 DESCRIPTION:Group Exercise\nHave fun and move to the music through a varie
@@ -3277,7 +3169,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] Water Fit @ Pool
 DTSTART:20261104T153000Z
 DTEND:20261104T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-wednesday-november-4-2026-1030am-1130am-water-fit@ymcaofc
  m-7025
 DESCRIPTION:Group Exercise\nIncorporate stretching\, toning\, muscle stren
@@ -3291,7 +3183,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] POUND @ Community Room
 DTSTART:20261104T230000Z
 DTEND:20261104T234500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-wednesday-november-4-2026-600pm-645pm-pound@ymcaofcm-7025
 DESCRIPTION:Group Exercise\nUse lightly weighted drumsticks to transform d
  rumming into a fun and effective workout! Be prepared to find your inner r
@@ -3305,7 +3197,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] Zumba Gold @ Upper Studio
 DTSTART:20261105T141500Z
 DTEND:20261105T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-thursday-november-5-2026-915am-1015am-zumba-gold@ymcaofcm
  -7025
 DESCRIPTION:Group Exercise\nA low impact and beginner friendly class suita
@@ -3319,7 +3211,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] SilverSneakers Stability @ Gymnasium
 DTSTART:20261105T141500Z
 DTEND:20261105T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-thursday-november-5-2026-915am-1015am-silversneakers-stab
  ility@ymcaofcm-7025
 DESCRIPTION:Group Exercise\nFocused on improving balance\, this standing c
@@ -3334,7 +3226,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] Water Fit @ Pool
 DTSTART:20261105T153000Z
 DTEND:20261105T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-thursday-november-5-2026-1030am-1130am-water-fit@ymcaofcm
  -7025
 DESCRIPTION:Group Exercise\nIncorporate stretching\, toning\, muscle stren
@@ -3348,7 +3240,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] LIVESTRONG @ Lower Studio
 DTSTART:20261105T153000Z
 DTEND:20261105T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-thursday-november-5-2026-1030am-1130am-livestrong@ymcaofc
  m-7025
 DESCRIPTION:Group Exercise\nA free 12-week program for adult cancer surviv
@@ -3362,7 +3254,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] Water Fit @ Pool
 DTSTART:20261105T154500Z
 DTEND:20261105T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-thursday-november-5-2026-1045am-1130am-water-fit@ymcaofcm
  -7025
 DESCRIPTION:Group Exercise\nIncorporate stretching\, toning\, muscle stren
@@ -3376,7 +3268,7 @@ BEGIN:VEVENT
 SUMMARY:[Montachusett] SilverSneakers @ Gymnasium
 DTSTART:20261106T141500Z
 DTEND:20261106T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:montachusett-friday-november-6-2026-915am-1015am-silversneakers@ymcaof
  cm-7025
 DESCRIPTION:Group Exercise\nHave fun and move to the music through a varie
@@ -3388,34 +3280,10 @@ LOCATION:Gymnasium\, Montachusett Community Branch\, 55 Wallace Ave\, Fitc
  hburg\, MA 01420
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Tri-Community] Cycle Fusion @ Lower Level
-DTSTART:20261031T120000Z
-DTEND:20261031T130000Z
-DTSTAMP:20261031T150214Z
-UID:tricommunity-saturday-october-31-2026-800am-900am-cycle-fusion@ymcaofc
- m-7026
-DESCRIPTION:Group Exercise\nEnjoy the best of both worlds with this mash-u
- p of cycling and off-the-bike work using free weights\, body weights\, mat
- s and more.\nBranch: Tri-Community Family Branch
-LOCATION:Lower Level\, Tri-Community Family Branch\, 43 Everett St\, South
- bridge\, MA 01550
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Tri-Community] Yoga for All @ Lower Level
-DTSTART:20261031T131500Z
-DTEND:20261031T141500Z
-DTSTAMP:20261031T150214Z
-UID:tricommunity-saturday-october-31-2026-915am-1015am-yoga-for-all@ymcaof
- cm-7026
-DESCRIPTION:Group Exercise\n\nBranch: Tri-Community Family Branch
-LOCATION:Lower Level\, Tri-Community Family Branch\, 43 Everett St\, South
- bridge\, MA 01550
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Tri-Community] Water Fitness @ Pool
 DTSTART:20261102T131500Z
 DTEND:20261102T134500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-monday-november-2-2026-815am-845am-water-fitness@ymcaofcm
  -7026
 DESCRIPTION:Group Exercise\nGet a great total body workout using a variety
@@ -3428,7 +3296,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] TRX @ Lower Level
 DTSTART:20261102T134500Z
 DTEND:20261102T144500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-monday-november-2-2026-845am-945am-trx@ymcaofcm-7026
 DESCRIPTION:Group Exercise\nLearn how to make the most out of suspension t
  raining as you build strength\, improve balance and challenge your core. L
@@ -3441,7 +3309,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Group Exercise @ Gym
 DTSTART:20261102T140000Z
 DTEND:20261102T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-monday-november-2-2026-900am-1130am-group-exercise@ymcaof
  cm-7026
 DESCRIPTION:Group Exercise\n\nBranch: Tri-Community Family Branch
@@ -3452,7 +3320,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Fit After 50 @ Gym
 DTSTART:20261102T140000Z
 DTEND:20261102T144500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-monday-november-2-2026-900am-945am-fit-after-50@ymcaofcm-
  7026
 DESCRIPTION:Group Exercise\nAn energetic\, fun class for all (even if you'
@@ -3465,7 +3333,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Progressive Hatha @ Lower Level
 DTSTART:20261102T150000Z
 DTEND:20261102T160000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-monday-november-2-2026-1000am-1100am-progressive-hatha@ym
  caofcm-7026
 DESCRIPTION:Group Exercise\nThis all-levels yoga class offers familiar pos
@@ -3480,7 +3348,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Mindfulness Meditation @ Studio 2
 DTSTART:20261102T161500Z
 DTEND:20261102T170000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-monday-november-2-2026-1115am-1200pm-mindfulness-meditati
  on@ymcaofcm-7026
 DESCRIPTION:Group Exercise\n\nBranch: Tri-Community Family Branch
@@ -3491,7 +3359,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Toy Box @ Lower Level
 DTSTART:20261102T223000Z
 DTEND:20261102T231500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-monday-november-2-2026-530pm-615pm-toy-box@ymcaofcm-7026
 DESCRIPTION:Group Exercise\nEach week we'll crack open our "toy box" and u
  se different equipment for a fun and unique full body strength and cardio 
@@ -3504,7 +3372,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Power Pulse @ Studio 2
 DTSTART:20261103T110000Z
 DTEND:20261103T114500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-tuesday-november-3-2026-600am-645am-power-pulse@ymcaofcm-
  7026
 DESCRIPTION:Group Exercise\nGet ready to ignite your strength and stamina 
@@ -3518,7 +3386,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Cycling @ Lower Level
 DTSTART:20261103T111500Z
 DTEND:20261103T120000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-tuesday-november-3-2026-615am-700am-cycling@ymcaofcm-7026
 DESCRIPTION:Group Exercise\nA high-energy indoor cycling class set to moti
  vating music. Ride through intervals\, climbs\, and sprints designed to bu
@@ -3531,7 +3399,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Pool Tabata @ Pool
 DTSTART:20261103T121500Z
 DTEND:20261103T130000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-tuesday-november-3-2026-715am-800am-pool-tabata@ymcaofcm-
  7026
 DESCRIPTION:Group Exercise\nA high energy interval-based water workout tha
@@ -3545,7 +3413,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Group Exercise @ Gym
 DTSTART:20261103T130000Z
 DTEND:20261103T153000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-tuesday-november-3-2026-800am-1030am-group-exercise@ymcao
  fcm-7026
 DESCRIPTION:Group Exercise\n\nBranch: Tri-Community Family Branch
@@ -3556,7 +3424,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Yoga for All @ Lower Level
 DTSTART:20261103T133000Z
 DTEND:20261103T143000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-tuesday-november-3-2026-830am-930am-yoga-for-all@ymcaofcm
  -7026
 DESCRIPTION:Group Exercise\n\nBranch: Tri-Community Family Branch
@@ -3567,7 +3435,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Zumba Fusion @ Gym
 DTSTART:20261103T140000Z
 DTEND:20261103T150000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-tuesday-november-3-2026-900am-1000am-zumba-fusion@ymcaofc
  m-7026
 DESCRIPTION:Group Exercise\nA fun Zumba workout with mixed intervals of in
@@ -3580,7 +3448,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Water Volleyball @ Pool
 DTSTART:20261103T140000Z
 DTEND:20261103T150000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-tuesday-november-3-2026-900am-1000am-water-volleyball@ymc
  aofcm-7026
 DESCRIPTION:Group Exercise\nRemember how much fun volleyball was in middle
@@ -3595,7 +3463,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Strength Training Circuit @ Fitness Center
 DTSTART:20261103T150000Z
 DTEND:20261103T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-tuesday-november-3-2026-1000am-1115am-strength-training-c
  ircuit@ymcaofcm-7026
 DESCRIPTION:Group Exercise\n\nBranch: Tri-Community Family Branch
@@ -3606,7 +3474,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Cycling @ Lower Level
 DTSTART:20261103T214500Z
 DTEND:20261103T223000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-tuesday-november-3-2026-445pm-530pm-cycling@ymcaofcm-7026
 DESCRIPTION:Group Exercise\nA high-energy indoor cycling class set to moti
  vating music. Ride through intervals\, climbs\, and sprints designed to bu
@@ -3619,7 +3487,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Fitball @ Lower Level
 DTSTART:20261103T224500Z
 DTEND:20261103T234500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-tuesday-november-3-2026-545pm-645pm-fitball@ymcaofcm-7026
 DESCRIPTION:Group Exercise\nLarge stability ball cardio intervals and stre
  ngth training to fun music!\nBranch: Tri-Community Family Branch
@@ -3630,7 +3498,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Gentle Yoga @ Studio 2
 DTSTART:20261103T230000Z
 DTEND:20261104T000000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-tuesday-november-3-2026-600pm-700pm-gentle-yoga@ymcaofcm-
  7026
 DESCRIPTION:Group Exercise\nGentle Yoga emphasizes safety through proper a
@@ -3646,7 +3514,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Cycling @ Lower Level
 DTSTART:20261104T110000Z
 DTEND:20261104T114500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-wednesday-november-4-2026-600am-645am-cycling@ymcaofcm-70
  26
 DESCRIPTION:Group Exercise\nA high-energy indoor cycling class set to moti
@@ -3660,7 +3528,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Water Fitness @ Pool
 DTSTART:20261104T131500Z
 DTEND:20261104T134500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-wednesday-november-4-2026-815am-845am-water-fitness@ymcao
  fcm-7026
 DESCRIPTION:Group Exercise\nGet a great total body workout using a variety
@@ -3673,7 +3541,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Zumba @ Gym
 DTSTART:20261104T140000Z
 DTEND:20261104T144500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-wednesday-november-4-2026-900am-945am-zumba@ymcaofcm-7026
 DESCRIPTION:Group Exercise\nLatin-inspired dance sure to get your heart pu
  mping! This is a non-verbal form of group exercise. Instructors demonstrat
@@ -3686,7 +3554,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Group Exercise @ Gym
 DTSTART:20261104T140000Z
 DTEND:20261104T160000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-wednesday-november-4-2026-900am-1100am-group-exercise@ymc
  aofcm-7026
 DESCRIPTION:Group Exercise\n\nBranch: Tri-Community Family Branch
@@ -3697,7 +3565,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] POUND @ Lower Level
 DTSTART:20261104T140000Z
 DTEND:20261104T144500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-wednesday-november-4-2026-900am-945am-pound@ymcaofcm-7026
 DESCRIPTION:Group Exercise\nUse lightly weighted drumsticks to transform d
  rumming into a fun and effective workout! Be prepared to find your inner r
@@ -3711,7 +3579,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Fit After 50 @ Gym
 DTSTART:20261104T150000Z
 DTEND:20261104T154500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-wednesday-november-4-2026-1000am-1045am-fit-after-50@ymca
  ofcm-7026
 DESCRIPTION:Group Exercise\nAn energetic\, fun class for all (even if you'
@@ -3724,7 +3592,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Yoga @ Lower Level
 DTSTART:20261104T230000Z
 DTEND:20261105T000000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-wednesday-november-4-2026-600pm-700pm-yoga@ymcaofcm-7026
 DESCRIPTION:Group Exercise\nThis mixed-level class includes breathing\, ce
  ntering\, sun salutations\, poses\, stretches and a final relaxation/medit
@@ -3736,7 +3604,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Power Pulse @ Studio 2
 DTSTART:20261105T110000Z
 DTEND:20261105T114500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-thursday-november-5-2026-600am-645am-power-pulse@ymcaofcm
  -7026
 DESCRIPTION:Group Exercise\nGet ready to ignite your strength and stamina 
@@ -3750,7 +3618,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Cycling @ Lower Level
 DTSTART:20261105T111500Z
 DTEND:20261105T120000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-thursday-november-5-2026-615am-700am-cycling@ymcaofcm-702
  6
 DESCRIPTION:Group Exercise\nA high-energy indoor cycling class set to moti
@@ -3764,7 +3632,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Group Exercise @ Gym
 DTSTART:20261105T130000Z
 DTEND:20261105T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-thursday-november-5-2026-800am-1130am-group-exercise@ymca
  ofcm-7026
 DESCRIPTION:Group Exercise\n\nBranch: Tri-Community Family Branch
@@ -3775,7 +3643,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Yoga for All @ Lower Level
 DTSTART:20261105T133000Z
 DTEND:20261105T143000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-thursday-november-5-2026-830am-930am-yoga-for-all@ymcaofc
  m-7026
 DESCRIPTION:Group Exercise\n\nBranch: Tri-Community Family Branch
@@ -3786,7 +3654,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Water Volleyball @ Pool
 DTSTART:20261105T140000Z
 DTEND:20261105T150000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-thursday-november-5-2026-900am-1000am-water-volleyball@ym
  caofcm-7026
 DESCRIPTION:Group Exercise\nRemember how much fun volleyball was in middle
@@ -3801,7 +3669,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Strength Training Circuit @ Fitness Center
 DTSTART:20261105T150000Z
 DTEND:20261105T161500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-thursday-november-5-2026-1000am-1115am-strength-training-
  circuit@ymcaofcm-7026
 DESCRIPTION:Group Exercise\n\nBranch: Tri-Community Family Branch
@@ -3812,7 +3680,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Circuits &amp\; More @ Lower Level
 DTSTART:20261105T220000Z
 DTEND:20261105T230000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-thursday-november-5-2026-500pm-600pm-circuits-amp-more@ym
  caofcm-7026
 DESCRIPTION:Group Exercise\nThis 60 minute class will combine strength and
@@ -3825,7 +3693,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Power Yoga @ Lower Level
 DTSTART:20261105T231500Z
 DTEND:20261106T001500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-thursday-november-5-2026-615pm-715pm-power-yoga@ymcaofcm-
  7026
 DESCRIPTION:Group Exercise\nThis all-levels vinyasa-style class will focus
@@ -3840,7 +3708,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Water Fitness @ Pool
 DTSTART:20261106T121500Z
 DTEND:20261106T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-friday-november-6-2026-715am-900am-water-fitness@ymcaofcm
  -7026
 DESCRIPTION:Group Exercise\nGet a great total body workout using a variety
@@ -3853,7 +3721,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Group Exercise @ Gym
 DTSTART:20261106T140000Z
 DTEND:20261106T163000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-friday-november-6-2026-900am-1130am-group-exercise@ymcaof
  cm-7026
 DESCRIPTION:Group Exercise\n\nBranch: Tri-Community Family Branch
@@ -3864,7 +3732,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Fitball @ Lower Level
 DTSTART:20261106T140000Z
 DTEND:20261106T144500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-friday-november-6-2026-900am-945am-fitball@ymcaofcm-7026
 DESCRIPTION:Group Exercise\nLarge stability ball cardio intervals and stre
  ngth training to fun music!\nBranch: Tri-Community Family Branch
@@ -3875,7 +3743,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Progressive Hatha @ Lower Level
 DTSTART:20261106T150000Z
 DTEND:20261106T160000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-friday-november-6-2026-1000am-1100am-progressive-hatha@ym
  caofcm-7026
 DESCRIPTION:Group Exercise\nThis all-levels yoga class offers familiar pos
@@ -3890,7 +3758,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] POUND @ Lower Level
 DTSTART:20261106T223000Z
 DTEND:20261106T233000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-friday-november-6-2026-530pm-630pm-pound@ymcaofcm-7026
 DESCRIPTION:Group Exercise\nUse lightly weighted drumsticks to transform d
  rumming into a fun and effective workout! Be prepared to find your inner r
@@ -3904,7 +3772,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Cycle Fusion @ Lower Level
 DTSTART:20261107T130000Z
 DTEND:20261107T140000Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-saturday-november-7-2026-800am-900am-cycle-fusion@ymcaofc
  m-7026
 DESCRIPTION:Group Exercise\nEnjoy the best of both worlds with this mash-u
@@ -3917,7 +3785,7 @@ BEGIN:VEVENT
 SUMMARY:[Tri-Community] Yoga for All @ Lower Level
 DTSTART:20261107T141500Z
 DTEND:20261107T151500Z
-DTSTAMP:20261031T150214Z
+DTSTAMP:20261101T154504Z
 UID:tricommunity-saturday-november-7-2026-915am-1015am-yoga-for-all@ymcaof
  cm-7026
 DESCRIPTION:Group Exercise\n\nBranch: Tri-Community Family Branch
