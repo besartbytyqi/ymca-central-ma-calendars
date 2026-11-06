@@ -1,16 +1,9 @@
-# Central Community Branch - 766 Main St, Worcester, MA 01610 - 2026-11-05 to 2026-11-11
-# 35 events
+# Central Community Branch - 766 Main St, Worcester, MA 01610 - 2026-11-06 to 2026-11-12
+# 33 events
 
-Thu 11/05 06:00AM - 06:30AM | Cycling @ Studio C [Group Exercise]
-Thu 11/05 06:30AM - 07:00AM | Sunrise Strength @ Studio A [Group Exercise]
-Thu 11/05 08:00AM - 09:00AM | Mobility Training @ Studio A [Group Exercise]
-Thu 11/05 09:00AM - 09:45AM | Aqua Dance: Classics @ Small Pool [Group Exercise]
-Thu 11/05 06:00PM - 08:30PM | Boxing Open Gym @ Boxing Room [Group Exercise]
-Thu 11/05 06:00PM - 07:00PM | Cycling @ Studio C [Group Exercise]
-Thu 11/05 06:45PM - 07:45PM | ZumbaSTRONG @ Studio A [Group Exercise]
 Fri 11/06 07:45AM - 08:30AM | Pilates @ Studio A [Group Exercise]
 Fri 11/06 09:00AM - 09:45AM | Aqua Zumba @ Small Pool [Group Exercise]
-Fri 11/06 05:30PM - 06:15PM | Pilates @ Studio A [Group Exercise]
+Fri 11/06 05:30PM - 06:15PM | CANCELED: Pilates @ Studio A [Group Exercise]
 Fri 11/06 06:30PM - 07:30PM | Zumba @ Studio A [Group Exercise]
 Sat 11/07 09:00AM - 10:00AM | Spin @ Studio C [Group Exercise]
 Mon 11/09 09:00AM - 09:45AM | Aqua Zumba @ Small Pool [Group Exercise]
@@ -24,7 +17,8 @@ Tue 11/10 09:00AM - 09:45AM | Aqua Stretch and Flex @ Small Pool [Group Exercise
 Tue 11/10 06:00PM - 08:30PM | Boxing Open Gym @ Boxing Room [Group Exercise]
 Tue 11/10 06:00PM - 07:00PM | Cycling @ Studio C [Group Exercise]
 Tue 11/10 06:00PM - 07:30PM | Line Dance! @ Studio A [Group Exercise]
-Wed 11/11 08:15AM - 09:15AM | Yoga @ Studio A [Group Exercise]
+Wed 11/11 08:00AM - 08:45AM | Pilates @ Studio A [Group Exercise]
+Wed 11/11 08:45AM - 09:30AM | Yoga @ Studio A [Group Exercise]
 Wed 11/11 09:00AM - 09:45AM | Aqua Stretch and Flex @ Small Pool [Group Exercise]
 Wed 11/11 05:00PM - 06:00PM | HIIT @ Studio A [Group Exercise]
 Wed 11/11 06:45PM - 07:45PM | Zumba @ Studio A [Group Exercise]
@@ -36,3 +30,7 @@ Thu 11/12 09:00AM - 09:45AM | Aqua Dance: Classics @ Small Pool [Group Exercise]
 Thu 11/12 06:00PM - 08:30PM | Boxing Open Gym @ Boxing Room [Group Exercise]
 Thu 11/12 06:00PM - 07:00PM | Cycling @ Studio C [Group Exercise]
 Thu 11/12 06:45PM - 07:45PM | ZumbaSTRONG @ Studio A [Group Exercise]
+Fri 11/13 07:45AM - 08:30AM | Pilates @ Studio A [Group Exercise]
+Fri 11/13 09:00AM - 09:45AM | Aqua Zumba @ Small Pool [Group Exercise]
+Fri 11/13 05:30PM - 06:15PM | Pilates @ Studio A [Group Exercise]
+Fri 11/13 06:30PM - 07:30PM | Zumba @ Studio A [Group Exercise]
