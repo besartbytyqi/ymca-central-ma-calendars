@@ -1,17 +1,6 @@
-# Greendale Family Branch - 75 Shore Dr, Worcester, MA 01605 - 2026-11-06 to 2026-11-12
-# 67 events
+# Greendale Family Branch - 75 Shore Dr, Worcester, MA 01605 - 2026-11-07 to 2026-11-13
+# 63 events
 
-Fri 11/06 05:30AM - 06:30AM | Les Mills Body Pump/Core @ Main Studio (Lower Level) [Group Exercise]
-Fri 11/06 08:15AM - 09:00AM | Spin Revolution w/ Jill W @ Spin Studio (Lower Level) [Group Exercise]
-Fri 11/06 08:15AM - 09:00AM | Pilates with Lisa @ SMB Studio (Main Level) [Group Exercise]
-Fri 11/06 09:00AM - 09:45AM | Deep Water Burdenko - 6 Lanes @ Woodbury Pool (3ft-10ft) [Group Exercise]
-Fri 11/06 09:15AM - 10:00AM | Zumba @ Main Studio (Lower Level) [Group Exercise]
-Fri 11/06 09:15AM - 10:00AM | Back2Hips with Geoff @ SMB Studio (Main Level) [Group Exercise]
-Fri 11/06 09:30AM - 10:15AM | Body Burn HIIT w/ Tarsha @ HIIT DECK (Wellness Center) [Group Exercise]
-Fri 11/06 10:30AM - 11:15AM | Rise &amp; Align Yoga with Walter @ SMB Studio (Main Level) [Group Exercise]
-Fri 11/06 05:15PM - 06:00PM | Paula&#039;s Deep Water Class @ Woodbury Pool (3ft-10ft) [Group Exercise]
-Fri 11/06 05:30PM - 06:15PM | Rhythm Ride w/ Francesca @ Spin Studio (Lower Level) [Group Exercise]
-Fri 11/06 06:15PM - 07:00PM | Yin Yoga w/Paula @ SMB Studio (Main Level) [Group Exercise]
 Sat 11/07 08:15AM - 09:00AM | Les Mills Body Combat Rotation @ Main Studio (Lower Level) [Group Exercise]
 Sat 11/07 08:30AM - 09:15AM | Cycling /Rotating Instructors @ Spin Studio (Lower Level) [Group Exercise]
 Sat 11/07 09:15AM - 10:15AM | Power PiYo with Pat D @ SMB Studio (Main Level) [Group Exercise]
@@ -40,6 +29,7 @@ Tue 11/10 09:30AM - 10:15AM | Triple Fusion with Betsy @ Main Studio (Lower Leve
 Tue 11/10 09:30AM - 10:15AM | Pilates with Alisha @ SMB Studio (Main Level) [Group Exercise]
 Tue 11/10 10:15AM - 11:00AM | Strict Strength w/Jill Andros @ HIIT DECK (Wellness Center) [Group Exercise]
 Tue 11/10 10:30AM - 11:30AM | Pilates with Lisa @ SMB Studio (Main Level) [Group Exercise]
+Tue 11/10 10:30AM - 11:15AM | Silver Sneakers Circuit @ Main Studio (Lower Level) [Group Exercise]
 Tue 11/10 04:15PM - 05:00PM | FIrst Step Fitness w/Geoff @ Wellness Center [Group Exercise]
 Tue 11/10 05:10PM - 05:55PM | Deep Water Moves W/Bernadette @ Woodbury Pool (3ft-10ft) [Group Exercise]
 Tue 11/10 05:15PM - 06:00PM | Cardio Combat w/ Pat @ Main Studio (Lower Level) [Group Exercise]
@@ -52,6 +42,7 @@ Thu 11/12 09:15AM - 10:00AM | Cuts and Curves w/ Linda @ SMB Studio (Main Level)
 Thu 11/12 09:30AM - 10:15AM | Triple Fusion with Betsy @ Main Studio (Lower Level) [Group Exercise]
 Thu 11/12 10:15AM - 11:00AM | Strict Strength w/Jill Andros @ HIIT DECK (Wellness Center) [Group Exercise]
 Thu 11/12 10:30AM - 11:30AM | Yoga Meditation w/ Ellery @ SMB Studio (Main Level) [Group Exercise]
+Thu 11/12 10:30AM - 11:15AM | Silver Sneakers Circuit @ Main Studio (Lower Level) [Group Exercise]
 Thu 11/12 04:15PM - 05:00PM | FIrst Step Fitness w/Geoff @ Wellness Center [Group Exercise]
 Thu 11/12 05:10PM - 05:55PM | Deep Water Moves W/Bernadette @ Woodbury Pool (3ft-10ft) [Group Exercise]
 Thu 11/12 05:15PM - 06:00PM | Cardio Combat w/ Pat @ Main Studio (Lower Level) [Group Exercise]
@@ -68,3 +59,8 @@ Fri 11/13 10:30AM - 11:15AM | Rise &amp; Align Yoga with Walter @ SMB Studio (Ma
 Fri 11/13 05:15PM - 06:00PM | Paula&#039;s Deep Water Class @ Woodbury Pool (3ft-10ft) [Group Exercise]
 Fri 11/13 05:30PM - 06:15PM | Rhythm Ride w/ Francesca @ Spin Studio (Lower Level) [Group Exercise]
 Fri 11/13 06:15PM - 07:00PM | Yin Yoga w/Paula @ SMB Studio (Main Level) [Group Exercise]
+Sat 11/14 08:15AM - 09:00AM | Les Mills Body Combat Rotation @ Main Studio (Lower Level) [Group Exercise]
+Sat 11/14 08:30AM - 09:15AM | Cycling /Rotating Instructors @ Spin Studio (Lower Level) [Group Exercise]
+Sat 11/14 09:15AM - 10:15AM | Power PiYo with Pat D @ SMB Studio (Main Level) [Group Exercise]
+Sat 11/14 09:30AM - 10:15AM | Gladiator Fitness HIIT w/Geoff @ HIIT DECK (Wellness Center) [Group Exercise]
+Sat 11/14 09:30AM - 10:30AM | Les Mills BodyPump w/Francesca @ Main Studio (Lower Level) [Group Exercise]
