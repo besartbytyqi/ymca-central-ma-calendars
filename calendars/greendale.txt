@@ -1,20 +1,6 @@
-# Greendale Family Branch - 75 Shore Dr, Worcester, MA 01605 - 2026-11-10 to 2026-11-16
-# 71 events
+# Greendale Family Branch - 75 Shore Dr, Worcester, MA 01605 - 2026-11-11 to 2026-11-17
+# 69 events
 
-Tue 11/10 05:30AM - 06:15AM | Cycling /Rotating Instructors @ Spin Studio (Lower Level) [Group Exercise]
-Tue 11/10 08:15AM - 09:00AM | RowFit w/ Jill W @ HIIT DECK (Wellness Center) [Group Exercise]
-Tue 11/10 08:30AM - 09:30AM | Dance and Tone w/ Sue @ Main Studio (Lower Level) [Group Exercise]
-Tue 11/10 09:15AM - 10:00AM | Mobility with Jill Andros @ HIIT DECK (Wellness Center) [Group Exercise]
-Tue 11/10 09:30AM - 10:15AM | Triple Fusion with Betsy @ Main Studio (Lower Level) [Group Exercise]
-Tue 11/10 09:30AM - 10:15AM | Pilates with Alisha @ SMB Studio (Main Level) [Group Exercise]
-Tue 11/10 10:15AM - 11:00AM | Strict Strength w/Jill Andros @ HIIT DECK (Wellness Center) [Group Exercise]
-Tue 11/10 10:30AM - 11:30AM | Pilates with Lisa @ SMB Studio (Main Level) [Group Exercise]
-Tue 11/10 10:30AM - 11:15AM | Silver Sneakers Circuit @ Main Studio (Lower Level) [Group Exercise]
-Tue 11/10 04:15PM - 05:00PM | FIrst Step Fitness w/Geoff @ Wellness Center [Group Exercise]
-Tue 11/10 05:10PM - 05:55PM | Deep Water Moves W/Bernadette @ Woodbury Pool (3ft-10ft) [Group Exercise]
-Tue 11/10 05:15PM - 06:00PM | Cardio Combat w/ Pat @ Main Studio (Lower Level) [Group Exercise]
-Tue 11/10 06:15PM - 07:00PM | Sculpt with Pat D @ Main Studio (Lower Level) [Group Exercise]
-Tue 11/10 07:15PM - 08:00PM | Stretch, Flex, &amp; Reset w/Jacob @ SMB Studio (Main Level) [Group Exercise]
 Thu 11/12 05:30AM - 06:15AM | Cycling with John B @ Spin Studio (Lower Level) [Group Exercise]
 Thu 11/12 08:15AM - 09:00AM | RowFit w/ Jill W @ HIIT DECK (Wellness Center) [Group Exercise]
 Thu 11/12 08:30AM - 09:30AM | Dance and Tone w/ Sue @ Main Studio (Lower Level) [Group Exercise]
@@ -72,3 +58,15 @@ Tue 11/17 05:10PM - 05:55PM | Deep Water Moves W/Bernadette @ Woodbury Pool (3ft
 Tue 11/17 05:15PM - 06:00PM | Cardio Combat w/ Pat @ Main Studio (Lower Level) [Group Exercise]
 Tue 11/17 06:15PM - 07:00PM | Sculpt with Pat D @ Main Studio (Lower Level) [Group Exercise]
 Tue 11/17 07:15PM - 08:00PM | Stretch, Flex, &amp; Reset w/Jacob @ SMB Studio (Main Level) [Group Exercise]
+Wed 11/18 05:30AM - 06:15AM | Gladiator Fitness HIIT w/Geoff @ HIIT DECK (Wellness Center) [Group Exercise]
+Wed 11/18 05:30AM - 06:15AM | Wake Up Yoga w/ Walter @ SMB Studio (Main Level) [Group Exercise]
+Wed 11/18 08:15AM - 09:00AM | Les Mills Body Pump w/ Tori @ Main Studio (Lower Level) [Group Exercise]
+Wed 11/18 09:00AM - 09:45AM | Aqua Fit @ Alden Pool (4ft) [Group Exercise]
+Wed 11/18 09:00AM - 09:45AM | Advanced Burdenko @ Woodbury Pool (3ft-10ft) [Group Exercise]
+Wed 11/18 09:15AM - 10:00AM | Step by Step with Linda K @ Main Studio (Lower Level) [Group Exercise]
+Wed 11/18 09:30AM - 10:15AM | Cycle Fusion w/Tarsha @ Spin Studio (Lower Level) [Group Exercise]
+Wed 11/18 09:45AM - 10:30AM | Water Walking @ Alden Pool (4ft) [Group Exercise]
+Wed 11/18 10:30AM - 11:30AM | Mindful Flow w/ Ellery @ SMB Studio (Main Level) [Group Exercise]
+Wed 11/18 11:45AM - 12:45PM | Sit &amp; Stand Chair Yoga/Betsy @ SMB Studio (Main Level) [Group Exercise]
+Wed 11/18 05:15PM - 06:00PM | Cycling w/ Betsy @ Spin Studio (Lower Level) [Group Exercise]
+Wed 11/18 06:30PM - 07:15PM | Les Mills Body Pump w/ Yesi @ Main Studio (Lower Level) [Group Exercise]
