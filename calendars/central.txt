@@ -1,13 +1,6 @@
-# Central Community Branch - 766 Main St, Worcester, MA 01610 - 2026-11-11 to 2026-11-17
+# Central Community Branch - 766 Main St, Worcester, MA 01610 - 2026-11-12 to 2026-11-18
 # 35 events
 
-Wed 11/11 08:00AM - 08:45AM | CANCELED: Pilates @ Studio A [Group Exercise]
-Wed 11/11 08:00AM - 08:45AM | CANCELED: Pilates @ Studio A [Group Exercise]
-Wed 11/11 08:45AM - 09:30AM | CANCELED: Yoga @ Studio A [Group Exercise]
-Wed 11/11 09:00AM - 09:45AM | CANCELED: Aqua Stretch and Flex @ Small Pool [Group Exercise]
-Wed 11/11 05:00PM - 06:00PM | CANCELED: HIIT @ Studio A [Group Exercise]
-Wed 11/11 06:45PM - 07:45PM | CANCELED: Zumba @ Studio A [Group Exercise]
-Wed 11/11 07:00PM - 08:30PM | CANCELED: Boxing Open Gym @ Boxing Room [Group Exercise]
 Thu 11/12 06:00AM - 06:30AM | Cycling @ Studio C [Group Exercise]
 Thu 11/12 06:30AM - 07:00AM | Sunrise Strength @ Studio A [Group Exercise]
 Thu 11/12 08:00AM - 09:00AM | Mobility Training @ Studio A [Group Exercise]
@@ -36,3 +29,10 @@ Wed 11/18 09:00AM - 09:45AM | Aqua Stretch and Flex @ Small Pool [Group Exercise
 Wed 11/18 05:00PM - 06:00PM | HIIT @ Studio A [Group Exercise]
 Wed 11/18 06:45PM - 07:45PM | Zumba @ Studio A [Group Exercise]
 Wed 11/18 07:00PM - 08:30PM | Boxing Open Gym @ Boxing Room [Group Exercise]
+Thu 11/19 06:00AM - 06:30AM | Cycling @ Studio C [Group Exercise]
+Thu 11/19 06:30AM - 07:00AM | Sunrise Strength @ Studio A [Group Exercise]
+Thu 11/19 08:00AM - 09:00AM | Mobility Training @ Studio A [Group Exercise]
+Thu 11/19 09:00AM - 09:45AM | Aqua Dance: Classics @ Small Pool [Group Exercise]
+Thu 11/19 06:00PM - 08:30PM | Boxing Open Gym @ Boxing Room [Group Exercise]
+Thu 11/19 06:00PM - 07:00PM | Cycling @ Studio C [Group Exercise]
+Thu 11/19 06:45PM - 07:45PM | ZumbaSTRONG @ Studio A [Group Exercise]
