@@ -1,17 +1,6 @@
-# Greendale Family Branch - 75 Shore Dr, Worcester, MA 01605 - 2026-11-13 to 2026-11-19
-# 80 events
+# Greendale Family Branch - 75 Shore Dr, Worcester, MA 01605 - 2026-11-14 to 2026-11-20
+# 74 events
 
-Fri 11/13 05:30AM - 06:30AM | Les Mills Body Pump/Core @ Main Studio (Lower Level) [Group Exercise]
-Fri 11/13 08:15AM - 09:00AM | Spin Revolution w/ Jill W @ Spin Studio (Lower Level) [Group Exercise]
-Fri 11/13 08:15AM - 09:00AM | Pilates with Lisa @ SMB Studio (Main Level) [Group Exercise]
-Fri 11/13 09:00AM - 09:45AM | Deep Water Burdenko - 6 Lanes @ Woodbury Pool (3ft-10ft) [Group Exercise]
-Fri 11/13 09:15AM - 10:00AM | Zumba @ Main Studio (Lower Level) [Group Exercise]
-Fri 11/13 09:15AM - 10:00AM | Back2Hips with Geoff @ SMB Studio (Main Level) [Group Exercise]
-Fri 11/13 09:30AM - 10:15AM | Body Burn HIIT w/ Tarsha @ HIIT DECK (Wellness Center) [Group Exercise]
-Fri 11/13 10:30AM - 11:15AM | Rise &amp; Align Yoga with Walter @ SMB Studio (Main Level) [Group Exercise]
-Fri 11/13 05:15PM - 06:00PM | Paula&#039;s Deep Water Class @ Woodbury Pool (3ft-10ft) [Group Exercise]
-Fri 11/13 05:30PM - 06:15PM | Rhythm Ride w/ Francesca @ Spin Studio (Lower Level) [Group Exercise]
-Fri 11/13 06:15PM - 07:00PM | Yin Yoga w/Paula @ SMB Studio (Main Level) [Group Exercise]
 Sat 11/14 08:15AM - 09:00AM | Les Mills Body Combat Rotation @ Main Studio (Lower Level) [Group Exercise]
 Sat 11/14 08:30AM - 09:15AM | Cycling /Rotating Instructors @ Spin Studio (Lower Level) [Group Exercise]
 Sat 11/14 09:15AM - 10:15AM | Power PiYo with Pat D @ SMB Studio (Main Level) [Group Exercise]
@@ -81,3 +70,8 @@ Fri 11/20 10:30AM - 11:15AM | Rise &amp; Align Yoga with Walter @ SMB Studio (Ma
 Fri 11/20 05:15PM - 06:00PM | Paula&#039;s Deep Water Class @ Woodbury Pool (3ft-10ft) [Group Exercise]
 Fri 11/20 05:30PM - 06:15PM | Rhythm Ride w/ Francesca @ Spin Studio (Lower Level) [Group Exercise]
 Fri 11/20 06:15PM - 07:00PM | Yin Yoga w/Paula @ SMB Studio (Main Level) [Group Exercise]
+Sat 11/21 08:15AM - 09:00AM | Les Mills Body Combat Rotation @ Main Studio (Lower Level) [Group Exercise]
+Sat 11/21 08:30AM - 09:15AM | Cycling /Rotating Instructors @ Spin Studio (Lower Level) [Group Exercise]
+Sat 11/21 09:15AM - 10:15AM | Power PiYo with Pat D @ SMB Studio (Main Level) [Group Exercise]
+Sat 11/21 09:30AM - 10:15AM | Gladiator Fitness HIIT w/Geoff @ HIIT DECK (Wellness Center) [Group Exercise]
+Sat 11/21 09:30AM - 10:30AM | Les Mills BodyPump w/Francesca @ Main Studio (Lower Level) [Group Exercise]
