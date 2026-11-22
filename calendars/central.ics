@@ -8,43 +8,10 @@ DESCRIPTION:Schedule for Central Community Branch - 766 Main St\, Worceste
 X-WR-CALNAME:YMCA - Central Community Branch
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Spin @ Studio C
-DTSTART:20261121T140000Z
-DTEND:20261121T150000Z
-DTSTAMP:20261121T163631Z
-UID:central-saturday-november-21-2026-900am-1000am-spin@ymcaofcm-7022
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Studio C\nFind your own rhyt
- hm in a cycling workout that delivers maximum cardio results with minimum 
- impact on your joints! This class simulates riding on flat terrain or hill
- s while incorporating sprints\, jumps and leisure riding.\nBranch: Central
-  Community Branch
-LOCATION:Studio C\, Central Community Branch\, 766 Main St\, Worcester\, M
- A 01610
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Step @ Studio A
-DTSTART:20261121T150000Z
-DTEND:20261121T160000Z
-DTSTAMP:20261121T163631Z
-UID:central-saturday-november-21-2026-1000am-1100am-step@ymcaofcm-7022
-CATEGORIES:Group Exercise
-DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nGet moving and hav
- e fun in this high-energy step aerobics class! Using an adjustable step pl
- atform\, participants will follow upbeat choreography designed to improve 
- cardiovascular endurance\, coordination\, balance\, and lower-body strengt
- h. Modifications are available for different fitness levels\, making this 
- a fun and effective full-body workout!\nBranch: Central Community Branch
-LOCATION:Studio A\, Central Community Branch\, 766 Main St\, Worcester\, M
- A 01610
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aqua Zumba @ Small Pool
 DTSTART:20261123T140000Z
 DTEND:20261123T144500Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-monday-november-23-2026-900am-945am-aqua-zumba@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Small Pool\nDive into Aqua Z
@@ -60,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ Studio A
 DTSTART:20261123T220000Z
 DTEND:20261123T230000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-monday-november-23-2026-500pm-600pm-hiit@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nDive into a high-i
@@ -77,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Women's Boxing @ Boxing Room
 DTSTART:20261123T230000Z
 DTEND:20261124T000000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-monday-november-23-2026-600pm-700pm-womens-boxing@ymcaofcm-702
  2
 CATEGORIES:Group Exercise
@@ -96,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Studio A
 DTSTART:20261123T234500Z
 DTEND:20261124T004500Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-monday-november-23-2026-645pm-745pm-zumba@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nLatin-inspired dan
@@ -111,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Boxing Open Gym @ Boxing Room
 DTSTART:20261124T000000Z
 DTEND:20261124T013000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-monday-november-23-2026-700pm-830pm-boxing-open-gym@ymcaofcm-7
  022
 CATEGORIES:Group Exercise
@@ -128,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Cycling @ Cycling
 DTSTART:20261124T110000Z
 DTEND:20261124T120000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-tuesday-november-24-2026-600am-700am-cycling@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Cycling\nA high-energy indoo
@@ -143,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Mobility Training @ Studio A
 DTSTART:20261124T130000Z
 DTEND:20261124T140000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-tuesday-november-24-2026-800am-900am-mobility-training@ymcaofc
  m-7022
 CATEGORIES:Group Exercise
@@ -159,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Stretch and Flex @ Small Pool
 DTSTART:20261124T140000Z
 DTEND:20261124T144500Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-tuesday-november-24-2026-900am-945am-aqua-stretch-and-flex@ymc
  aofcm-7022
 CATEGORIES:Group Exercise
@@ -176,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Boxing Open Gym @ Boxing Room
 DTSTART:20261124T230000Z
 DTEND:20261125T013000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-tuesday-november-24-2026-600pm-830pm-boxing-open-gym@ymcaofcm-
  7022
 CATEGORIES:Group Exercise
@@ -193,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Cycling @ Studio C
 DTSTART:20261124T230000Z
 DTEND:20261125T000000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-tuesday-november-24-2026-600pm-700pm-cycling@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio C\nA high-energy indo
@@ -208,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:Line Dance! @ Studio A
 DTSTART:20261124T230000Z
 DTEND:20261125T003000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-tuesday-november-24-2026-600pm-730pm-line-dance@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nLine Dancing is a 
@@ -226,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates @ Studio A
 DTSTART:20261125T130000Z
 DTEND:20261125T134500Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-wednesday-november-25-2026-800am-845am-pilates@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nStrengthen your co
@@ -241,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga @ Studio A
 DTSTART:20261125T134500Z
 DTEND:20261125T143000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-wednesday-november-25-2026-845am-930am-yoga@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nThis mixed-level c
@@ -255,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Stretch and Flex @ Small Pool
 DTSTART:20261125T140000Z
 DTEND:20261125T144500Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-wednesday-november-25-2026-900am-945am-aqua-stretch-and-flex@y
  mcaofcm-7022
 CATEGORIES:Group Exercise
@@ -272,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:HIIT @ Studio A
 DTSTART:20261125T220000Z
 DTEND:20261125T230000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-wednesday-november-25-2026-500pm-600pm-hiit@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nDive into a high-i
@@ -289,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Studio A
 DTSTART:20261125T234500Z
 DTEND:20261126T004500Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-wednesday-november-25-2026-645pm-745pm-zumba@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nLatin-inspired dan
@@ -304,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:Boxing Open Gym @ Boxing Room
 DTSTART:20261126T000000Z
 DTEND:20261126T013000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-wednesday-november-25-2026-700pm-830pm-boxing-open-gym@ymcaofc
  m-7022
 CATEGORIES:Group Exercise
@@ -321,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:Cycling @ Studio C
 DTSTART:20261126T110000Z
 DTEND:20261126T113000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-thursday-november-26-2026-600am-630am-cycling@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio C\nA high-energy indo
@@ -336,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Sunrise Strength @ Studio A
 DTSTART:20261126T113000Z
 DTEND:20261126T120000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-thursday-november-26-2026-630am-700am-sunrise-strength@ymcaofc
  m-7022
 CATEGORIES:Group Exercise
@@ -350,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Mobility Training @ Studio A
 DTSTART:20261126T130000Z
 DTEND:20261126T140000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-thursday-november-26-2026-800am-900am-mobility-training@ymcaof
  cm-7022
 CATEGORIES:Group Exercise
@@ -366,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Dance: Classics @ Small Pool
 DTSTART:20261126T140000Z
 DTEND:20261126T144500Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-thursday-november-26-2026-900am-945am-aqua-dance-classics@ymca
  ofcm-7022
 CATEGORIES:Group Exercise
@@ -382,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Boxing Open Gym @ Boxing Room
 DTSTART:20261126T230000Z
 DTEND:20261127T013000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-thursday-november-26-2026-600pm-830pm-boxing-open-gym@ymcaofcm
  -7022
 CATEGORIES:Group Exercise
@@ -399,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:Cycling @ Studio C
 DTSTART:20261126T230000Z
 DTEND:20261127T000000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-thursday-november-26-2026-600pm-700pm-cycling@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio C\nA high-energy indo
@@ -414,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:ZumbaSTRONG @ Studio A
 DTSTART:20261126T234500Z
 DTEND:20261127T004500Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-thursday-november-26-2026-645pm-745pm-zumbastrong@ymcaofcm-702
  2
 CATEGORIES:Group Exercise
@@ -432,7 +399,7 @@ BEGIN:VEVENT
 SUMMARY:Aqua Zumba @ Small Pool
 DTSTART:20261127T140000Z
 DTEND:20261127T144500Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-friday-november-27-2026-900am-945am-aqua-zumba@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Small Pool\nDive into Aqua Z
@@ -448,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates @ Studio A
 DTSTART:20261127T223000Z
 DTEND:20261127T231500Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-friday-november-27-2026-530pm-615pm-pilates@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nStrengthen your co
@@ -463,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba @ Studio A
 DTSTART:20261127T233000Z
 DTEND:20261128T003000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-friday-november-27-2026-630pm-730pm-zumba@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nLatin-inspired dan
@@ -478,7 +445,7 @@ BEGIN:VEVENT
 SUMMARY:Spin @ Studio C
 DTSTART:20261128T140000Z
 DTEND:20261128T150000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-saturday-november-28-2026-900am-1000am-spin@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio C\nFind your own rhyt
@@ -494,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:Step @ Studio A
 DTSTART:20261128T150000Z
 DTEND:20261128T160000Z
-DTSTAMP:20261121T163631Z
+DTSTAMP:20261122T165403Z
 UID:central-saturday-november-28-2026-1000am-1100am-step@ymcaofcm-7022
 CATEGORIES:Group Exercise
 DESCRIPTION:Category: Group Exercise\nStudio: Studio A\nGet moving and hav
