@@ -1,16 +1,9 @@
-# Central Community Branch - 766 Main St, Worcester, MA 01610 - 2026-11-26 to 2026-12-02
-# 35 events
+# Central Community Branch - 766 Main St, Worcester, MA 01610 - 2026-11-27 to 2026-12-03
+# 31 events
 
-Thu 11/26 06:00AM - 06:30AM | Cycling @ Studio C [Group Exercise]
-Thu 11/26 06:30AM - 07:00AM | Sunrise Strength @ Studio A [Group Exercise]
-Thu 11/26 08:00AM - 09:00AM | Mobility Training @ Studio A [Group Exercise]
-Thu 11/26 09:00AM - 09:45AM | Aqua Dance: Classics @ Small Pool [Group Exercise]
-Thu 11/26 06:00PM - 08:30PM | Boxing Open Gym @ Boxing Room [Group Exercise]
-Thu 11/26 06:00PM - 07:00PM | Cycling @ Studio C [Group Exercise]
-Thu 11/26 06:45PM - 07:45PM | ZumbaSTRONG @ Studio A [Group Exercise]
 Fri 11/27 09:00AM - 09:45AM | Aqua Zumba @ Small Pool [Group Exercise]
 Fri 11/27 05:30PM - 06:15PM | Pilates @ Studio A [Group Exercise]
-Fri 11/27 06:30PM - 07:30PM | Zumba @ Studio A [Group Exercise]
+Fri 11/27 06:30PM - 07:30PM | CANCELED: Zumba @ Studio A [Group Exercise]
 Sat 11/28 09:00AM - 10:00AM | Spin @ Studio C [Group Exercise]
 Sat 11/28 10:00AM - 11:00AM | Step @ Studio A [Group Exercise]
 Mon 11/30 09:00AM - 09:45AM | Aqua Zumba @ Small Pool [Group Exercise]
@@ -36,3 +29,6 @@ Thu 12/03 09:00AM - 09:45AM | Aqua Dance: Classics @ Small Pool [Group Exercise]
 Thu 12/03 06:00PM - 08:30PM | Boxing Open Gym @ Boxing Room [Group Exercise]
 Thu 12/03 06:00PM - 07:00PM | Cycling @ Studio C [Group Exercise]
 Thu 12/03 06:45PM - 07:45PM | ZumbaSTRONG @ Studio A [Group Exercise]
+Fri 12/04 09:00AM - 09:45AM | Aqua Zumba @ Small Pool [Group Exercise]
+Fri 12/04 05:30PM - 06:15PM | Pilates @ Studio A [Group Exercise]
+Fri 12/04 06:30PM - 07:30PM | Zumba @ Studio A [Group Exercise]
